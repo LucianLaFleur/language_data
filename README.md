@@ -11,12 +11,12 @@ To achieve this balance, I use reference lists to prioritize terms and grammar c
 ### Japanese ---
 
 - the JPNT "N" system
-In the JLPT (Japanese Language Proficiency Test) there are 5 tiers, which I'll roughly sum up as:/
-N5: very basic (and probably not able to string together a sentence)
-N4: simple (can put together a sentence, but in very limited context)
-N3: lower conversational (can have whole conversations about simple concepts)
-N2: Business conversational (can have a wide array of conversations with minimal error)
-N1: Advanced (Like a pro-translator ; May Kami-sama have mercy on your soul, this is a crazy milestone for a foreigner to reach)
+In the JLPT (Japanese Language Proficiency Test) there are 5 tiers, which I'll roughly sum up as:
+- N5: very basic (and probably not able to string together a sentence)
+- N4: simple (can put together a sentence, but in very limited context)
+- N3: lower conversational (can have whole conversations about simple concepts)
+- N2: Business conversational (can have a wide array of conversations with minimal error)
+- N1: Advanced (Like a pro-translator ; May Kami-sama have mercy on your soul, this is a crazy milestone for a foreigner to reach)
 
 My references in naming files use the appropriate N-level when they kind of approximate to that complexity. 
 There are no "official" lists, but this is a ballpark guess of going from simpler things to harder concepts. 
