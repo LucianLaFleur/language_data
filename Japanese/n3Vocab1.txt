@@ -1,0 +1,860 @@
+オフィス	オフィス	office	JLPT JLPT_2 JLPT_3
+溺れる	おぼれる	to be drowned, to indulge in	JLPT JLPT_2 JLPT_3
+お前	おまえ	you (sing), presence (of a high personage)	JLPT JLPT_2 JLPT_3
+おめでとう	おめでとう	Congratulations!, an auspicious occasion!	JLPT JLPT_2 JLPT_3
+お目に掛かる	おめにかかる	meet ~, see ~	JLPT JLPT_2 JLPT_3
+思い付く	おもいつく	to think of, to hit upon	JLPT JLPT_2 JLPT_3
+思い出	おもいで	memories, recollections, reminiscence	JLPT JLPT_3 JLPT_2 Genki_Ln.23 Genki
+主に	おもに	mainly, primarily	JLPT JLPT_2 JLPT_3
+思わず	おもわず	unintentional, spontaneous	JLPT JLPT_2 JLPT_3
+泳ぎ	およぎ	swimming	JLPT JLPT_2 JLPT_3
+およそ	およそ	about, roughly, approximately	JLPT JLPT_2 JLPT_3
+及ぼす	およぼす	to exert, to cause, to exercise	JLPT JLPT_2 JLPT_3
+下す	おろす	to lower, to let go down	JLPT JLPT_2 JLPT_3
+降ろす	おろす	to take down, to launch, to drop	JLPT JLPT_2 JLPT_3
+卸す	おろす	to sell wholesale, grated (vegetables)	JLPT JLPT_2 JLPT_3
+音	おん	sound, note	JLPT JLPT_2 JLPT_3
+恩	おん	favor, obligation, debt of gratitude	JLPT JLPT_2 JLPT_3
+温暖	おんだん	warmth	JLPT JLPT_2 JLPT_3
+温度	おんど	temperature	JLPT JLPT_2 JLPT_3
+可	か	passable	JLPT JLPT_2 JLPT_3
+蚊	か	mosquito	JLPT JLPT_3 JLPT_2 Genki Genki_Ln.21
+課	か	department, division	JLPT JLPT_2 JLPT_3
+カー	カー	car	JLPT JLPT_2 JLPT_3
+カード	カード	card, curd	JLPT JLPT_2 JLPT_3
+貝	かい	shell, shellfish	JLPT JLPT_2 JLPT_3
+害	がい	harm, damage	JLPT JLPT_2 JLPT_3
+会員	かいいん	member, the membership	JLPT JLPT_2 JLPT_3
+絵画	かいが	picture, painting	JLPT JLPT_2 JLPT_3
+海外	かいがい	foreign, abroad, overseas	JLPT JLPT_2 JLPT_3
+会計	かいけい	account, finance	JLPT JLPT_2 JLPT_3
+解決	かいけつ	settlement, solution, resolution	JLPT JLPT_2 JLPT_3
+会合	かいごう	meeting, assembly	JLPT JLPT_2 JLPT_3
+外交	がいこう	diplomacy	JLPT JLPT_2 JLPT_3
+開始	かいし	start, commencement, beginning	JLPT JLPT_2 JLPT_3
+解釈	かいしゃく	explanation, interpretation	JLPT JLPT_2 JLPT_3
+外出	がいしゅつ	outing, going out	JLPT JLPT_2 JLPT_3
+改善	かいぜん	betterment, improvement	JLPT JLPT_2 JLPT_3
+快適	かいてき	pleasant, agreeable	JLPT JLPT_2 JLPT_3
+回復	かいふく	recovery (from illness), rehabilitation, restoration	JLPT JLPT_2 JLPT_3
+飼う	かう	to keep; to own (a pet); to raise; to feed	JLPT Genki_Ln.11 JLPT_3 JLPT_2 Genki
+帰す	かえす	to send back	JLPT JLPT_2 JLPT_3
+代える	かえる	to exchange, to interchange, to substitute	JLPT JLPT_2 JLPT_3
+替える	かえる	to exchange, to interchange, to substitute	JLPT JLPT_2 JLPT_3
+換える	かえる	to exchange, to interchange, to substitute	JLPT JLPT_3 JLPT_2 Genki_Ln.23 Genki
+反る	かえる	to warp, to be warped, to curve	JLPT JLPT_2 JLPT_3
+香り	かおり	aroma, fragrance	JLPT JLPT_2 JLPT_3
+画家	がか	painter	JLPT JLPT_2 JLPT_3
+抱える	かかえる	to hold or carry under or in the arms	JLPT JLPT_2 JLPT_3
+価格	かかく	price, value	JLPT JLPT_2 JLPT_3
+化学	かがく	chemistry	JLPT JLPT_2 JLPT_3
+輝く	かがやく	to shine, to glitter, to sparkle	JLPT JLPT_2 JLPT_3
+係	かかり	person in charge	JLPT JLPT_2 JLPT_3
+罹る	かかる	to suffer from	JLPT JLPT_2 JLPT_3
+限る	かぎる	to restrict, to limit, to confine	JLPT JLPT_2 JLPT_3
+掻く	かく	to scratch	JLPT JLPT_2 JLPT_3
+描く	かく	to draw, to depict, to describe	JLPT JLPT_2 JLPT_3
+嗅ぐ	かぐ	to sniff, to smell	JLPT JLPT_2 JLPT_3
+家具	かぐ	furniture	Genki_Ln.15 JLPT JLPT_3 JLPT_2 Genki
+学	がく	learning, knowledge	JLPT JLPT_2 JLPT_3
+額	がく	amount; frame	JLPT JLPT_2 JLPT_3
+覚悟	かくご	resolution, resignation, readiness	JLPT JLPT_2 JLPT_3
+確実	かくじつ	certainty, reliability, soundness	JLPT JLPT_2 JLPT_3
+学者	がくしゃ	scholar	JLPT JLPT_2 JLPT_3
+学習	がくしゅう	study, learning	JLPT JLPT_2 JLPT_3
+隠す	かくす	to hide, to conceal	JLPT JLPT_2 JLPT_3
+拡大	かくだい	magnification, enlargement	JLPT JLPT_2 JLPT_3
+確認	かくにん	affirmation, confirmation	JLPT JLPT_2 JLPT_3
+学問	がくもん	scholarship, study, learning	JLPT JLPT_2 JLPT_3
+隠れる	かくれる	to hide, to be hidden	JLPT JLPT_2 JLPT_3
+影	かげ	shade, shadow, other side	JLPT JLPT_2 JLPT_3
+陰	かげ	shade, shadow, other side	JLPT JLPT_2 JLPT_3
+欠ける	かける	to be lacking	JLPT JLPT_2 JLPT_3
+加減	かげん	adjustment; addition and subtraction	JLPT JLPT_2 JLPT_3
+過去	かこ	past	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.13
+籠	かご	basket, cage	JLPT JLPT_2 JLPT_3
+囲む	かこむ	to surround, to encircle	JLPT JLPT_2 JLPT_3
+火災	かさい	conflagration, fire	JLPT JLPT_2 JLPT_3
+重なる	かさなる	to be piled up, lie on top of one another	JLPT JLPT_2 JLPT_3
+重ねる	かさねる	to pile up, to put something on another, to heap up	JLPT JLPT_2 JLPT_3
+飾り	かざり	decoration	JLPT JLPT_2 JLPT_3
+貸し	かし	loan, lending	JLPT JLPT_2 JLPT_3
+菓子	かし	confectionery, sweet	JLPT JLPT_2 JLPT_3
+家事	かじ	household matters; housework (same as 家の仕事 (いえのしごと))	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.14 Genki_Ln.22 Genki
+賢い	かしこい	wise, clever, smart	JLPT JLPT_2 JLPT_3
+歌手	かしゅ	singer	JLPT Genki_Ln.11 JLPT_3 JLPT_2 Genki
+数	かず	number, figure, amount	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.3
+稼ぐ	かせぐ	to earn income, to labor	JLPT JLPT_2 JLPT_3
+数える	かぞえる	to count	JLPT JLPT_2 JLPT_3
+型	かた	mold, model, style	JLPT JLPT_2 JLPT_3
+肩	かた	shoulder	JLPT JLPT_2 JLPT_3
+堅い	かたい	hard, firm, solid	JLPT JLPT_2 JLPT_3
+硬い	かたい	hard, firm, solid	JLPT JLPT_2 JLPT_3
+方々	かたがた	persons	JLPT JLPT_2 JLPT_3
+片付く	かたづく	to put in order, to solve	JLPT JLPT_2 JLPT_3
+刀	かたな	sword, saber	JLPT JLPT_2 JLPT_3
+語る	かたる	to talk, to tell, to recite	JLPT JLPT_2 JLPT_3
+勝ち	かち	win, victory	JLPT JLPT_2 JLPT_3
+価値	かち	value, worth, merit	JLPT JLPT_2 JLPT_3
+がっかり	がっかり	feel disappointed, be dejected, lose heart	JLPT JLPT_2 JLPT_3
+活気	かっき	vigor; liveliness; vitality; energy	JLPT Intermediate_Japanese JLPT_1 JLPT_3 JLPT_2 Intermediate_Japanese_Ln.10
+楽器	がっき	musical instrument	JLPT Genki_Ln.13 JLPT_3 JLPT_2 Genki
+学期	がっき	term (school)	JLPT JLPT_2 JLPT_3
+活動	かつどう	action, activity	JLPT JLPT_2 JLPT_3
+活躍	かつやく	activity	JLPT JLPT_2 JLPT_3
+活用	かつよう	conjugation; practical use	JLPT JLPT_2 JLPT_3
+仮定	かてい	assumption, supposition, hypothesis	JLPT JLPT_2 JLPT_3
+過程	かてい	process	JLPT JLPT_2 JLPT_3
+課程	かてい	course, curriculum	JLPT JLPT_2 JLPT_3
+悲しむ	かなしむ	to be sad, to mourn for, to regret	JLPT JLPT_2 JLPT_3
+必ずしも	かならずしも	(not) always, (not) necessarily	JLPT JLPT_2 JLPT_3
+かなり	かなり	considerably, fairly, quite	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.7
+金	かね	gold, metal; money	JLPT JLPT_2 JLPT_3
+鐘	かね	bell, chime	JLPT JLPT_2 JLPT_3
+可能	かのう	possible, practicable, feasible	JLPT JLPT_2 JLPT_3
+株	かぶ	stock; stump (of tree)	JLPT JLPT_2 JLPT_3
+被る	かぶる	to wear; to be covered with	JLPT JLPT_2 JLPT_3
+我慢	がまん	patience, endurance, perseverance	JLPT JLPT_2 JLPT_3
+上	かみ	first volume; superior quality; governmental	JLPT JLPT_2 JLPT_3
+神	かみ	god	JLPT JLPT_2 JLPT_3
+雷	かみなり	thunder	JLPT JLPT_2 JLPT_3
+髪の毛	かみのけ	hair (head)	JLPT JLPT_2 JLPT_3
+科目	かもく	(school) subject, curriculum, course	JLPT JLPT_2 JLPT_3
+かもしれない	かもしれない	maybe, perhaps	JLPT JLPT_2 JLPT_3
+かゆい	かゆい	itchy, itching	JLPT JLPT_2 JLPT_3
+歌謡	かよう	song, ballad	JLPT JLPT_2 JLPT_3
+空	から	empty	JLPT JLPT_2 JLPT_3
+殻	から	shell, husk, hull	JLPT JLPT_2 JLPT_3
+柄	がら	pattern; build; character	JLPT JLPT_2 JLPT_3
+刈る	かる	to cut (hair), to mow (grass), to harvest	JLPT JLPT_2 JLPT_3
+河	かわ	river, stream	JLPT JLPT_2 JLPT_3
+皮	かわ	skin, hide, leather	JLPT JLPT_2 JLPT_3
+革	かわ	leather	JLPT JLPT_2 JLPT_3
+可愛そう	かわいそう	poor, pitiable, pathetic	JLPT JLPT_2 JLPT_3
+可愛らしい	かわいらしい	lovely, sweet	JLPT JLPT_2 JLPT_3
+乾かす	かわかす	to dry	JLPT JLPT_2 JLPT_3
+渇く	かわく	to be thirsty	JLPT JLPT_2 JLPT_3
+代る	かわる	to take the place of, to relieve, to be substituted for	JLPT JLPT_2 JLPT_3
+缶	かん	can, tin	JLPT_1 JLPT JLPT_2 JLPT_3
+勘	かん	perception, intuition, the sixth sense	JLPT JLPT_2 JLPT_3
+考え	かんがえ	thinking, thought, ideas	JLPT JLPT_2 JLPT_3
+感覚	かんかく	sense, sensation	JLPT JLPT_2 JLPT_3
+間隔	かんかく	space, interval, SPC	JLPT JLPT_2 JLPT_3
+観客	かんきゃく	audience, spectator(s)	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.7
+環境	かんきょう	environment, circumstance	JLPT JLPT_3 JLPT_2 Genki Genki_Ln.21
+歓迎	かんげい	welcome, reception	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.5
+観光	かんこう	sightseeing	Genki_Ln.15 JLPT JLPT_3 JLPT_2 Genki
+観察	かんさつ	observation, survey	JLPT JLPT_2 JLPT_3
+感じ	かんじ	feeling, sense, impression	JLPT JLPT_2 JLPT_3
+感謝	かんしゃ	thanks, gratitude	JLPT JLPT_2 JLPT_3
+患者	かんじゃ	patient	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.12
+勘定	かんじょう	calculation, counting, consideration	JLPT JLPT_2 JLPT_3
+感情	かんじょう	emotion(s), feeling(s), sentiment	JLPT JLPT_2 JLPT_3
+感じる	かんじる	to feel, to sense	JLPT JLPT_2 JLPT_3
+感心	かんしん	admiration	JLPT JLPT_2 JLPT_3
+関心	かんしん	concern, interest	JLPT JLPT_2 JLPT_3
+関する	かんする	to concern, to be related	JLPT JLPT_2 JLPT_3
+完成	かんせい	complete, completion; perfection	JLPT JLPT_2 JLPT_3
+完全	かんぜん	perfection, completeness	JLPT JLPT_2 JLPT_3
+乾燥	かんそう	dry, arid, dehydrated	JLPT JLPT_2 JLPT_3
+感想	かんそう	(one's) impressions, (one's) thoughts	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.11
+感動	かんどう	being deeply moved, excitement	JLPT JLPT_2 JLPT_3
+監督	かんとく	supervision, control, (movie) director	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.7
+管理	かんり	control, management (e.g., of a business)	JLPT JLPT_2 JLPT_3
+完了	かんりょう	completion, conclusion	JLPT JLPT_2 JLPT_3
+関連	かんれん	relation, connection, relevance	JLPT JLPT_2 JLPT_3
+議員	ぎいん	member of the Diet, congress, or parliament	JLPT JLPT_2 JLPT_3
+記憶	きおく	memory, recollection, remembrance	JLPT JLPT_2 JLPT_3
+気温	きおん	temperature (weather - not used for things)	JLPT Genki_Ln.12 JLPT_3 JLPT_2 Genki
+機械	きかい	machine, machinery	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.14
+器械	きかい	instrument	JLPT JLPT_2 JLPT_3
+議会	ぎかい	Diet, congress, parliament	JLPT JLPT_2 JLPT_3
+期間	きかん	period, term	JLPT JLPT_2 JLPT_3
+機関	きかん	engine; institution, organization	JLPT JLPT_2 JLPT_3
+企業	きぎょう	industry, business, undertaking	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.14
+効く	きく	to be effective	JLPT JLPT_2 JLPT_3
+期限	きげん	deadline, term	JLPT JLPT_2 JLPT_3
+機嫌	きげん	humor, temper, mood	JLPT JLPT_2 JLPT_3
+気候	きこう	climate	JLPT JLPT_2 JLPT_3
+岸	きし	bank, coast, shore	JLPT JLPT_2 JLPT_3
+生地	きじ	fabric; dough	JLPT JLPT_2 JLPT_3
+記事	きじ	article, news story	JLPT JLPT_2 JLPT_3
+技師	ぎし	engineer, technician	JLPT JLPT_2 JLPT_3
+記者	きしゃ	reporter	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.15
+傷	きず	wound, injury, hurt	JLPT JLPT_2 JLPT_3
+期待	きたい	expectation, anticipation, hope	JLPT JLPT_2 JLPT_3
+気体	きたい	vapor, gas	JLPT JLPT_2 JLPT_3
+帰宅	きたく	returning home	JLPT JLPT_2 JLPT_3
+貴重	きちょう	precious, valuable	JLPT JLPT_2 JLPT_3
+議長	ぎちょう	chairman	JLPT JLPT_2 JLPT_3
+きちんと	きちんと	precisely, accurately	JLPT JLPT_2 JLPT_3
+きつい	きつい	tight, close, intense	JLPT JLPT_2 JLPT_3
+気付く	きづく	to notice, to recognize, to become aware of	JLPT JLPT_2 JLPT_3
+気に入る	きにいる	to like, to be please	JLPT JLPT_2 JLPT_3
+記入	きにゅう	entry, filling in of forms	JLPT JLPT_2 JLPT_3
+記念	きねん	commemoration, memory	JLPT JLPT_2 JLPT_3
+機能	きのう	function, faculty	JLPT JLPT_2 JLPT_3
+気の毒	きのどく	pitiful, a pity	JLPT JLPT_2 JLPT_3
+寄付	きふ	contribution, donation	JLPT JLPT_2 JLPT_3
+希望	きぼう	hope, wish, aspiration	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.3
+基本	きほん	basic, basis	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.15
+決まり	きまり	settlement, conclusion, rule	JLPT JLPT_2 JLPT_3
+気味	きみ	-like, -looking, -looked	JLPT JLPT_2 JLPT_3
+奇妙	きみょう	strange, queer, curious	JLPT JLPT_2 JLPT_3
+義務	ぎむ	duty, obligation, responsibility	JLPT JLPT_2 JLPT_3
+疑問	ぎもん	question, problem, doubt	JLPT JLPT_2 JLPT_3
+逆	ぎゃく	reverse, opposite	JLPT JLPT_2 JLPT_3
+キャプテン	キャプテン	captain	JLPT JLPT_2 JLPT_3
+キャンプ	キャンプ	camp	JLPT Genki_Ln.11 JLPT_3 JLPT_2 Genki
+旧	きゅう	ex-	JLPT JLPT_2 JLPT_3
+級	きゅう	class, grade, rank	JLPT JLPT_2 JLPT_3
+球	きゅう	globe, sphere, ball	JLPT JLPT_2 JLPT_3
+休暇	きゅうか	vacation, holiday, day off	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.1
+休憩	きゅうけい	rest, break, intermission	JLPT JLPT_2 JLPT_3
+急激	きゅうげき	sudden, precipitous, radical	JLPT JLPT_2 JLPT_3
+吸収	きゅうしゅう	absorption, suction	JLPT JLPT_2 JLPT_3
+混雑	こんざつ	confusion, congestion	JLPT JLPT_2 JLPT_3
+こんなに	こんなに	so, like this, in this way	JLPT JLPT_2 JLPT_3
+困難	こんなん	difficulty, distress	JLPT JLPT_2 JLPT_3
+今日	こんにち	today, this day	JLPT JLPT_2 JLPT_3
+こんにちは	こんにちは	hello, good day (daytime greeting)	JLPT JLPT_2 JLPT_3
+婚約	こんやく	engagement, betrothal	JLPT JLPT_2 JLPT_3
+混乱	こんらん	chaos, confusion, mayhem	JLPT JLPT_2 JLPT_3
+差	さ	difference, variation	JLPT JLPT_2 JLPT_3
+サービス	サービス	service, support system; goods or services without charge	JLPT JLPT_2 JLPT_3
+際	さい	on the occasion of, circumstances	JLPT JLPT_2 JLPT_3
+最高	さいこう	highest, supreme, the most	JLPT JLPT_2 JLPT_3
+財産	ざいさん	property, fortune, assets	JLPT JLPT_2 JLPT_3
+最終	さいしゅう	last, closing	JLPT JLPT_2 JLPT_3
+最中	さいちゅう	in the middle of	JLPT JLPT_2 JLPT_3
+最低	さいてい	least, lowest, worst	Genki_Ln.17 JLPT JLPT_3 JLPT_2 Genki
+才能	さいのう	talent, ability	JLPT JLPT_2 JLPT_3
+裁判	さいばん	trial, judgment	JLPT JLPT_2 JLPT_3
+材料	ざいりょう	ingredients, material	JLPT JLPT_2 JLPT_3
+幸い	さいわい	fortunately; luckily	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.8
+サイン	サイン	autograph; sign; sine	JLPT JLPT_2 JLPT_3
+境	さかい	border, boundary, mental state	JLPT JLPT_2 JLPT_3
+逆らう	さからう	to go against, to oppose, to disobey	JLPT JLPT_2 JLPT_3
+盛り	さかり	helping, serving	JLPT JLPT_2 JLPT_3
+作業	さぎょう	work, operation, manufacturing	JLPT JLPT_2 JLPT_3
+裂く	さく	to tear, to split	JLPT JLPT_2 JLPT_3
+昨	さく	last (year), yesterday	JLPT JLPT_2 JLPT_3
+作品	さくひん	work, opus, production	JLPT JLPT_2 JLPT_3
+作物	さくもつ	produce (e.g., agricultural), crops	JLPT JLPT_2 JLPT_3
+桜	さくら	cherry blossom, cherry tree	JLPT JLPT_2 JLPT_3
+酒	さけ	alcohol, sake	JLPT JLPT_2 JLPT_3
+叫ぶ	さけぶ	to shout, to cry	JLPT JLPT_2 JLPT_3
+避ける	さける	to avoid (physical contact); to ward off, to avert	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.15
+支える	ささえる	support, hold, sustain	JLPT JLPT_2 JLPT_3
+刺さる	ささる	to stick, to be stuck	JLPT JLPT_2 JLPT_3
+刺す	さす	to sting, to bite (e.g., bug), to prick, to stab	JLPT JLPT_3 JLPT_2 Genki Genki_Ln.21
+指す	さす	to point,	JLPT JLPT_2 JLPT_3
+挿す	さす	to insert, to put in, to graft	JLPT JLPT_2 JLPT_3
+注す	さす	to pour (drink), to serve (drinks)	JLPT JLPT_2 JLPT_3
+射す	さす	to shine, to strike	JLPT JLPT_2 JLPT_3
+座席	ざせき	seat	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.10
+誘う	さそう	to invite (someone to do something with you); to tempt, to lure	Genki_Ln.15 Intermediate_Japanese JLPT JLPT_3 JLPT_2 Intermediate_Japanese_Ln.7 Genki
+札	さつ	bill, note	JLPT JLPT_2 JLPT_3
+作家	さっか	author, writer, novelist	JLPT JLPT_2 JLPT_3
+作曲	さっきょく	composition (of music)	JLPT JLPT_2 JLPT_3
+ざっと	ざっと	roughly, in round numbers	JLPT JLPT_2 JLPT_3
+さっぱり	さっぱり	feeling refreshed, neat	JLPT JLPT_2 JLPT_3
+さて	さて	well; now (typically used when switching to a new, usually more important topic)	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.12
+砂漠	さばく	desert	JLPT JLPT_2 JLPT_3
+差別	さべつ	discrimination, differentiation	JLPT JLPT_2 JLPT_3
+ママ	ママ	Mama	JLPT JLPT_2 JLPT_3
+豆	まめ	beans, peas	JLPT JLPT_2 JLPT_3
+守る	まもる	to protect; to abide (by the rules)	JLPT JLPT_2 JLPT_3
+迷う	まよう	to be puzzled, to be perplexed, to lose one's way	JLPT JLPT_2 JLPT_3
+丸	まる	circle, full (month)	JLPT JLPT_2 JLPT_3
+円	まる	circle	JLPT JLPT_2 JLPT_3
+まるで	まるで	just like	JLPT JLPT_2 JLPT_3
+万一	まんいち	by some chance, if by any chance	JLPT JLPT_2 JLPT_3
+満足	まんぞく	satisfaction	JLPT JLPT_2 JLPT_3
+身	み	body, main part	JLPT JLPT_2 JLPT_3
+実	み	fruit, seed, good result	JLPT JLPT_2 JLPT_3
+見送り	みおくり	seeing one off	JLPT JLPT_2 JLPT_3
+味方	みかた	ally, supporter	JLPT JLPT_2 JLPT_3
+見事	みごと	splendid, magnificent	JLPT JLPT_2 JLPT_3
+ミス	ミス	miss (mistake, error, failure), Miss	JLPT_1 JLPT JLPT_2 JLPT_3
+満ちる	みちる	to be full, to mature	JLPT JLPT_2 JLPT_3
+密	みつ	thick, close	JLPT JLPT_2 JLPT_3
+認める	みとめる	to recognize, to notice; to approve	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.13 Intermediate_Japanese_Ln.3
+見舞い	みまい	expression of sympathy, expression of concern	JLPT JLPT_2 JLPT_3
+土産	みやげ	souvenir	JLPT JLPT_2 JLPT_3
+都	みやこ	city; capital	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.10
+妙	みょう	strange, unusual	JLPT JLPT_2 JLPT_3
+明後日	みょうごにち	day after tomorrow	JLPT JLPT_2 JLPT_3
+未来	みらい	future (life tense)	JLPT JLPT_2 JLPT_3
+魅力	みりょく	charm, fascination, appeal	JLPT JLPT_2 JLPT_3
+診る	みる	to examine (a patient)	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.12
+ミルク	ミルク	milk	JLPT JLPT_2 JLPT_3
+無	む	nothing, naught, zero	JLPT JLPT_2 JLPT_3
+向かい	むかい	facing, opposite, across	JLPT JLPT_2 JLPT_3
+迎え	むかえ	meeting, person sent to pick up an arrival	JLPT JLPT_2 JLPT_3
+向く	むく	to face	JLPT JLPT_2 JLPT_3
+剥く	むく	to peel, to skin	JLPT JLPT_2 JLPT_3
+向ける	むける	to turn towards, to point	JLPT JLPT_2 JLPT_3
+無視	むし	disregard, ignore	JLPT JLPT_2 JLPT_3
+蒸し暑い	むしあつい	humid, sultry	JLPT JLPT_2 JLPT_3
+虫歯	むしば	cavity, tooth decay	JLPT JLPT_2 JLPT_3
+寧ろ	むしろ	rather, better, instead	JLPT JLPT_2 JLPT_3
+蒸す	むす	to steam, to poultice, to be sultry	JLPT JLPT_2 JLPT_3
+結ぶ	むすぶ	to tie, to bind, to link	JLPT JLPT_2 JLPT_3
+無駄	むだ	futility, uselessness	JLPT JLPT_2 JLPT_3
+夢中	むちゅう	crush, crazy, be hooked on	JLPT JLPT_2 JLPT_3
+胸	むね	breast, chest	JLPT JLPT_2 JLPT_3
+無料	むりょう	free, no charge	JLPT JLPT_2 JLPT_3
+芽	め	sprout	JLPT JLPT_2 JLPT_3
+明確	めいかく	clear, definite	JLPT JLPT_2 JLPT_3
+名刺	めいし	(name) card; business card	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.1
+名詞	めいし	noun	JLPT JLPT_2 JLPT_3
+命じる	めいじる	to order, to command, to appoint	JLPT JLPT_2 JLPT_3
+名人	めいじん	master, expert	JLPT JLPT_2 JLPT_3
+命令	めいれい	order, command, decree	JLPT JLPT_2 JLPT_3
+迷惑	めいわく	trouble, bother, annoyance	JLPT JLPT_2 JLPT_3
+目上	めうえ	person of higher status; one's senior	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.2
+飯	めし	meals, food	JLPT JLPT_2 JLPT_3
+滅多に	めったに	rarely (with neg. verb), seldom	JLPT JLPT_2 JLPT_3
+メモ	メモ	memorandum, note	JLPT JLPT_2 JLPT_3
+面	めん	face, mug, surface, side or facet, corner, page	JLPT JLPT_2 JLPT_3
+綿	めん	cotton	JLPT JLPT_2 JLPT_3
+免許	めんきょ	license, permit, certificate	JLPT JLPT_3 JLPT_2 Genki_Ln.22 Genki
+面接	めんせつ	interview	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Genki Genki_Ln.23 Intermediate_Japanese_Ln.3
+面倒	めんどう	trouble, attention	JLPT JLPT_2 JLPT_3
+メンバー	メンバー	member	JLPT JLPT_2 JLPT_3
+申し込む	もうしこむ	to apply for, to make an application	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.3
+申し訳	もうしわけ	apology, excuse	JLPT JLPT_2 JLPT_3
+毛布	もうふ	blanket	JLPT JLPT_2 JLPT_3
+燃える	もえる	to burn	JLPT JLPT_2 JLPT_3
+目的	もくてき	purpose, goal, aim	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.3
+目標	もくひょう	mark, objective, target	JLPT JLPT_2 JLPT_3
+文字	もじ	letter (of alphabet), character	JLPT JLPT_2 JLPT_3
+文字	もんじ	letter (of alphabet), character	JLPT JLPT_2 JLPT_3
+もしかすると	もしかすると	perhaps, maybe, by some chance	JLPT JLPT_2 JLPT_3
+もしも	もしも	if	JLPT JLPT_2 JLPT_3
+持ち上げる	もちあげる	to raise, to lift up, to flatter	JLPT JLPT_2 JLPT_3
+用いる	もちいる	to use, to make use of	JLPT JLPT_2 JLPT_3
+もったいない	もったいない	wasteful; more than one deserves, unworthy of	JLPT JLPT_2 JLPT_3
+尤も	もっとも	quite right, plausible, natural	JLPT JLPT_2 JLPT_3
+元	もと	origin, original; former	JLPT JLPT_2 JLPT_3
+基	もと	basis	JLPT JLPT_2 JLPT_3
+素	もと	prime	JLPT JLPT_2 JLPT_3
+戻す	もどす	to restore, to put back, to return	JLPT JLPT_2 JLPT_3
+基づく	もとづく	to be grounded on, to be based on	JLPT JLPT_2 JLPT_3
+求める	もとめる	to request, to ask for; to seek, to search for	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.4
+者	もの	person (same as 人 (ひと))	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.3
+物音	ものおと	sounds	JLPT JLPT_2 JLPT_3
+物語	ものがたり	tale, story, legend	JLPT JLPT_2 JLPT_3
+物事	ものごと	things, everything	JLPT JLPT_2 JLPT_3
+燃やす	もやす	to burn	JLPT JLPT_2 JLPT_3
+模様	もよう	pattern, figure, design	JLPT JLPT_2 JLPT_3
+文句	もんく	a complaint	JLPT Intermediate_Japanese Genki JLPT_3 JLPT_2 Intermediate_Japanese_Ln.14 Genki_Ln.21 Intermediate_Japanese_Ln.11
+やがて	やがて	before long, soon, at length	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.8
+役	やく	role, position	JLPT JLPT_2 JLPT_3
+約	やく	approximately, about, some	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.11
+訳	やく	translation	JLPT JLPT_2 JLPT_3
+訳す	やくす	to translate	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.2
+役割	やくわり	assigning (allotment of) parts, role, duties	JLPT JLPT_2 JLPT_3
+家賃	やちん	rent	JLPT Genki_Ln.18 JLPT_3 JLPT_2 Genki
+厄介	やっかい	trouble, burden, care	JLPT JLPT_2 JLPT_3
+宿	やど	inn, lodging	JLPT JLPT_2 JLPT_3
+雇う	やとう	to employ, to hire	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.8
+屋根	やね	roof	JLPT JLPT_2 JLPT_3
+破る	やぶる	to tear; to violate; to defeat	JLPT JLPT_2 JLPT_3
+破れる	やぶれる	to get torn, to wear out	JLPT JLPT_2 JLPT_3
+辞める	やめる	to retire	JLPT JLPT_2 JLPT_3
+やや	やや	a little, partially, somewhat	JLPT JLPT_2 JLPT_3
+唯一	ゆいいつ	only, sole, unique	JLPT JLPT_2 JLPT_3
+勇気	ゆうき	courage, bravery, boldness	JLPT JLPT_2 JLPT_3
+友好	ゆうこう	friendship	JLPT JLPT_2 JLPT_3
+有効	ゆうこう	valid, effectual	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.10
+優秀	ゆうしゅう	superiority, excellence	JLPT JLPT_2 JLPT_3
+優勝	ゆうしょう	overall victory, championship	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.7
+友情	ゆうじょう	friendship, fellowship	JLPT JLPT_2 JLPT_3
+友人	ゆうじん	friend (formal)	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.15 Intermediate_Japanese_Ln.2
+有能	ゆうのう	able, capable, efficient	JLPT JLPT_2 JLPT_3
+郵便	ゆうびん	mail, postal service	JLPT JLPT_2 JLPT_3
+ユーモア	ユーモア	humor	JLPT JLPT_2 JLPT_3
+有利	ゆうり	advantageous, better	JLPT JLPT_2 JLPT_3
+床	ゆか	floor	JLPT JLPT_2 JLPT_3
+愉快	ゆかい	pleasant, happy	JLPT JLPT_2 JLPT_3
+譲る	ゆずる	to turn over, to assign, to hand over	JLPT JLPT_2 JLPT_3
+豊か	ゆたか	abundant, wealthy, plentiful, rich	JLPT JLPT_2 JLPT_3
+茹でる	ゆでる	to boil	JLPT JLPT_2 JLPT_3
+許す	ゆるす	to permit, to allow, to approve	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.8
+夜	よ	evening, night	JLPT JLPT_2 JLPT_3
+夜明け	よあけ	dawn, daybreak	JLPT JLPT_2 JLPT_3
+酔う	よう	to get drunk	JLPT JLPT_2 JLPT_3
+容易	ようい	easy, simple, plain	JLPT JLPT_2 JLPT_3
+容器	ようき	container, vessel	JLPT JLPT_2 JLPT_3
+陽気	ようき	season, weather, cheerfulness	JLPT JLPT_2 JLPT_3
+要求	ようきゅう	request, demand	JLPT JLPT_2 JLPT_3
+用心	ようじん	care, precaution, caution	JLPT JLPT_2 JLPT_3
+様子	ようす	aspect, state, appearance	JLPT JLPT_2 JLPT_3
+要するに	ようするに	in a word, after all, in short …	JLPT JLPT_2 JLPT_3
+要素	ようそ	element	JLPT JLPT_2 JLPT_3
+要点	ようてん	gist, main point	JLPT JLPT_2 JLPT_3
+曜日	ようび	day of the week	JLPT JLPT_2 JLPT_3
+ヨーロッパ	ヨーロッパ	Europe	JLPT JLPT_2 JLPT_3
+予期	よき	expectation, forecast	JLPT JLPT_2 JLPT_3
+横切る	よこぎる	to cross (e.g., arms), to traverse	JLPT JLPT_2 JLPT_3
+汚す	よごす	to pollute, to make dirty	JLPT JLPT_2 JLPT_3
+予算	よさん	estimate, budget	JLPT JLPT_2 JLPT_3
+止す	よす	to cease, to give up	JLPT JLPT_2 JLPT_3
+寄せる	よせる	to collect, to gather, to put aside	JLPT JLPT_2 JLPT_3
+予測	よそく	prediction, estimation	JLPT JLPT_2 JLPT_3
+ヨット	ヨット	yacht	JLPT JLPT_2 JLPT_3
+夜中	よなか	midnight, dead of night	JLPT JLPT_2 JLPT_3
+世の中	よのなか	society, the world	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.14
+余分	よぶん	extra, excess, surplus	JLPT JLPT_2 JLPT_3
+予報	よほう	forecast, prediction	JLPT JLPT_2 JLPT_3
+予防	よぼう	prevention, protection against	JLPT JLPT_2 JLPT_3
+読み	よみ	reading	JLPT JLPT_2 JLPT_3
+嫁	よめ	bride, daughter-in-law	JLPT JLPT_2 JLPT_3
+余裕	よゆう	excess; surplus	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.15
+より	より	twist, ply	JLPT JLPT_2 JLPT_3
+因る	よる	to come from	JLPT JLPT_2 JLPT_3
+喜び	よろこび	joy, pleasure, rejoicing	JLPT JLPT_2 JLPT_3
+よろしく (かん)	よろしく (かん)	best regards, please remember me	JLPT JLPT_2 JLPT_3
+四	よん	four	JLPT JLPT_2 JLPT_3
+来	らい～	next ~	JLPT JLPT_2 JLPT_3
+ライター	ライター	lighter; writer	JLPT JLPT_2 JLPT_3
+楽	らく	comfort, ease	JLPT JLPT_2 JLPT_3
+ラケット	ラケット	racket	JLPT JLPT_2 JLPT_3
+利益	りえき	profits, gains	JLPT JLPT_2 JLPT_3
+理解	りかい	understanding, comprehension	JLPT JLPT_2 JLPT_3
+陸	りく	land, shore	JLPT JLPT_2 JLPT_3
+利口	りこう	clever, shrewd, bright	JLPT JLPT_2 JLPT_3
+離婚	りこん	divorce	JLPT JLPT_2 JLPT_3
+提出	ていしゅつ	presentation, submission, filing	JLPT JLPT_2 JLPT_3
+停電	ていでん	failure of electricity	JLPT JLPT_2 JLPT_3
+程度	ていど	degree, amount, level	JLPT JLPT_2 JLPT_3
+停留所	ていりゅうじょ	bus or tram stop	JLPT JLPT_2 JLPT_3
+デート	デート	date (in the sense of 'social engagement' only)	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.5 Genki_Ln.3 Genki
+敵	てき	enemy, rival	JLPT JLPT_2 JLPT_3
+出来事	できごと	incident happening, event	JLPT JLPT_2 JLPT_3
+適する	てきする	to fit, to suit	JLPT JLPT_2 JLPT_3
+適切	てきせつ	appropriate, adequate, relevance	JLPT JLPT_2 JLPT_3
+適度	てきど	moderate	JLPT JLPT_2 JLPT_3
+適用	てきよう	applying	JLPT JLPT_2 JLPT_3
+できれば	できれば	if possible…	JLPT JLPT_2 JLPT_3
+手品	てじな	conjuring trick, magic	JLPT JLPT_2 JLPT_3
+ですから	ですから	therefore	JLPT JLPT_2 JLPT_3
+鉄	てつ	iron	JLPT JLPT_2 JLPT_3
+哲学	てつがく	philosophy	JLPT JLPT_2 JLPT_3
+手伝い	てつだい	help, helper, assistant	JLPT JLPT_2 JLPT_3
+徹底	てってい	thoroughness, completeness	JLPT JLPT_2 JLPT_3
+鉄道	てつどう	railway; railroad	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.10
+徹夜	てつや	staying up all night, sleepless night	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.7
+手間	てま	time, labor	JLPT JLPT_2 JLPT_3
+デモ	デモ	demo, demonstration	JLPT JLPT_2 JLPT_3
+典型	てんけい	type, pattern, archetypal	JLPT JLPT_2 JLPT_3
+天候	てんこう	weather	JLPT JLPT_2 JLPT_3
+電子	でんし	electron; electronic	JLPT JLPT_2 JLPT_3
+テント	テント	tent	JLPT JLPT_2 JLPT_3
+伝統	でんとう	tradition, convention	JLPT JLPT_2 JLPT_3
+天然	てんねん	nature, spontaneity	JLPT JLPT_2 JLPT_3
+問い	とい	question, query	JLPT JLPT_2 JLPT_3
+党	とう	party (political)	JLPT JLPT_2 JLPT_3
+塔	とう	tower, pagoda	JLPT JLPT_2 JLPT_3
+答案	とうあん	examination paper, examination script	JLPT JLPT_2 JLPT_3
+同一	どういつ	identity, sameness, similarity	JLPT JLPT_2 JLPT_3
+銅貨	どうか	copper coin	JLPT JLPT_2 JLPT_3
+当時	とうじ	at that time, in those days (same as そのころ)	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.13
+動詞	どうし	verb	JLPT JLPT_2 JLPT_3
+同時	どうじ	simultaneous(ly), same time	JLPT JLPT_2 JLPT_3
+どうしても	どうしても	at any cost, no matter what, no matter how hard one tries	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.11
+どうぞよろしく	どうぞよろしく	pleased to meet you	JLPT JLPT_2 JLPT_3
+到着	とうちゃく	arrival	JLPT JLPT_2 JLPT_3
+道徳	どうとく	morals	JLPT JLPT_2 JLPT_3
+投票	とうひょう	voting, poll	JLPT JLPT_2 JLPT_3
+東洋	とうよう	Orient	JLPT JLPT_2 JLPT_3
+同様	どうよう	identical, same (kind), like	JLPT JLPT_2 JLPT_3
+童謡	どうよう	children's song, nursery rhyme	JLPT JLPT_2 JLPT_3
+同僚	どうりょう	colleague; co-worker	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.6 Genki Genki_Ln.21
+道路	どうろ	road	JLPT JLPT_2 JLPT_3
+通す	とおす	to let pass, to overlook, to continue	JLPT JLPT_2 JLPT_3
+通り過ぎる	とおりすぎる	to pass, to pass through	JLPT JLPT_2 JLPT_3
+都会	とかい	city	JLPT JLPT_2 JLPT_3
+溶く	とく	to dissolve (paint)	JLPT JLPT_2 JLPT_3
+解く	とく	to unfasten; answer, solve	JLPT JLPT_2 JLPT_3
+退く	どく	to retreat, to recede, to withdraw	JLPT JLPT_2 JLPT_3
+毒	どく	poison, toxicant	JLPT JLPT_2 JLPT_3
+得意	とくい	pride, triumph, prosperity	JLPT JLPT_2 JLPT_3
+読書	どくしょ	reading	JLPT JLPT_2 JLPT_3
+独身	どくしん	single, unmarried	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.14
+特徴	とくちょう	characteristic(s); feature(s); trait(s)	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.10
+特長	とくちょう	forte, merit	JLPT JLPT_2 JLPT_3
+独特	どくとく	peculiarity, uniqueness, characteristic	JLPT JLPT_2 JLPT_3
+独立	どくりつ	independence (e.g., Ind. Day), self-support	JLPT JLPT_2 JLPT_3
+溶ける	とける	to melt, to thaw, to dissolve	JLPT JLPT_2 JLPT_3
+解ける	とける	to come untied, to come apart	JLPT JLPT_2 JLPT_3
+どこか	どこか	somewhere, anywhere	JLPT JLPT_2 JLPT_3
+ところが	ところが	however, while, even if	JLPT JLPT_2 JLPT_3
+ところで	ところで	by the way; even if	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.1
+登山	とざん	mountain-climbing	JLPT JLPT_2 JLPT_3
+都市	とし	town, city, urban	JLPT JLPT_2 JLPT_3
+年月	としつき	months and years	JLPT JLPT_2 JLPT_3
+図書	としょ	books	JLPT JLPT_2 JLPT_3
+年寄	としより	old people, the aged	JLPT JLPT_2 JLPT_3
+閉じる	とじる	to close (e.g., book, eyes), to shut	JLPT JLPT_2 JLPT_3
+途端	とたん	just (now, at the moment, etc.)	JLPT JLPT_2 JLPT_3
+土地	とち	plot of land, lot, soil	JLPT JLPT_2 JLPT_3
+突然	とつぜん	abruptly, suddenly, unexpectedly	JLPT JLPT_2 JLPT_3
+トップ	トップ	top	JLPT JLPT_2 JLPT_3
+届く	とどく	to reach	JLPT JLPT_2 JLPT_3
+とにかく	とにかく	anyhow, at any rate, anyway	JLPT JLPT_3 JLPT_2 Genki Genki_Ln.21
+飛ばす	とばす	to skip over, to omit	JLPT JLPT_2 JLPT_3
+飛び出す	とびだす	to jump out, to rush out, to fly out	JLPT JLPT_2 JLPT_3
+留める	とめる	to fasten, to turn off, to detain	JLPT JLPT_2 JLPT_3
+泊める	とめる	to have someone stay (over night) (v.t.)	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.1
+友	とも	friend, companion, pal	JLPT JLPT_2 JLPT_3
+共に	ともに	sharing with, participate in	JLPT JLPT_2 JLPT_3
+虎	とら	tiger	JLPT JLPT_2 JLPT_3
+ドライブ	ドライブ	drive, driving	JLPT Genki_Ln.11 JLPT_3 JLPT_2 Genki
+トラック	トラック	truck; (running) track	JLPT JLPT_2 JLPT_3
+ドラマ	ドラマ	drama	JLPT JLPT_2 JLPT_3
+トランプ	トランプ	playing cards (lit: trump)	JLPT JLPT_2 JLPT_3
+取り上げる	とりあげる	to take up, to pick up; to confiscate	JLPT JLPT_2 JLPT_3
+努力	どりょく	great effort, exertion, endeavor	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.14
+トレーニング	トレーニング	training	JLPT JLPT_2 JLPT_3
+ドレス	ドレス	dress	JLPT JLPT_2 JLPT_3
+取れる	とれる	to come off, to be taken off	JLPT JLPT_2 JLPT_3
+泥	どろ	mud	JLPT JLPT_2 JLPT_3
+トン	トン	ton (1000 lbs.)	JLPT JLPT_2 JLPT_3
+とんでもない	とんでもない	outrageous, No way!	JLPT JLPT_2 JLPT_3
+どんなに	どんなに	how, how much	JLPT JLPT_2 JLPT_3
+トンネル	トンネル	tunnel	JLPT JLPT_2 JLPT_3
+名	な	name, reputation	JLPT JLPT_2 JLPT_3
+内容	ないよう	subject, contents, detail	JLPT JLPT_2 JLPT_3
+なお	なお	still, yet	JLPT JLPT_2 JLPT_3
+仲	なか	relation, relationship	JLPT JLPT_2 JLPT_3
+流す	ながす	to drain, to float, to shed (e.g., blood, tears)	JLPT JLPT_2 JLPT_3
+半ば	なかば	middle, halfway	JLPT JLPT_2 JLPT_3
+仲間	なかま	company, fellow, colleague, associate	JLPT JLPT_2 JLPT_3
+中身	なかみ	content(s); substance	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.13
+中味	なかみ	contents, interior, filling	JLPT JLPT_2 JLPT_3
+眺め	ながめ	scene; view; prospect; outlook	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.10
+眺める	ながめる	to view, to gaze at	JLPT JLPT_2 JLPT_3
+流れ	ながれ	stream, current	JLPT JLPT_2 JLPT_3
+流れる	ながれる	to flow, to be washed away	JLPT JLPT_2 JLPT_3
+亡くす	なくす	to lose someone	JLPT JLPT_2 JLPT_3
+殴る	なぐる	to strike; to hit; to punch	JLPT JLPT_3 JLPT_2 Genki Genki_Ln.21
+無し	なし	without	JLPT JLPT_2 JLPT_3
+なぜなら	なぜなら	because	JLPT JLPT_2 JLPT_3
+謎	なぞ	riddle, puzzle, enigma	JLPT JLPT_2 JLPT_3
+納得	なっとく	consent, assent, understanding	JLPT JLPT_2 JLPT_3
+何か	なにか	something	JLPT JLPT_3 JLPT_2 Genki_Ln.8 Genki
+なにも	なにも	nothing	JLPT JLPT_2 JLPT_3
+鍋	なべ	saucepan, pot	JLPT JLPT_2 JLPT_3
+生	なま	raw, unprocessed	JLPT JLPT_2 JLPT_3
+怠ける	なまける	to be idle, to neglect	JLPT JLPT_2 JLPT_3
+波	なみ	wave	JLPT JLPT_2 JLPT_3
+涙	なみだ	tear	JLPT JLPT_2 JLPT_3
+悩む	なやむ	to agonize, to be troubled	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.14
+鳴らす	ならす	to ring, to sound	JLPT JLPT_2 JLPT_3
+為る	なる	to change, to be of use, to reach to	JLPT JLPT_2 JLPT_3
+生る	なる	to bear fruit	JLPT JLPT_2 JLPT_3
+馴れる	なれる	to become domesticated, to become tame	JLPT JLPT_2 JLPT_3
+縄	なわ	rope	JLPT JLPT_2 JLPT_3
+何で	なんで	Why, What for	JLPT JLPT_2 JLPT_3
+何でも	なんでも	by all means, everything	JLPT JLPT_2 JLPT_3
+何とか	なんとか	somehow, anyhow, one way or another	JLPT JLPT_2 JLPT_3
+似合う	にあう	to suit (a person), to match (clothing), (something) becomes (someone)	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.11
+煮える	にえる	to boil, to cook, to be cooked	JLPT JLPT_2 JLPT_3
+苦手	にがて	poor (at), weak (in), dislike (of)	JLPT JLPT_2 JLPT_3
+握る	にぎる	to grasp, to seize, to mold sushi	JLPT JLPT_2 JLPT_3
+日	にち	day	JLPT JLPT_2 JLPT_3
+日常	にちじょう	ordinary, regular, everyday	JLPT JLPT_2 JLPT_3
+日光	にっこう	sunlight	JLPT JLPT_2 JLPT_3
+日中	にっちゅう	daytime, broad daylight	JLPT JLPT_2 JLPT_3
+にっこり	にっこり	smile sweetly, smile, grin	JLPT JLPT_2 JLPT_3
+日本	にっぽん	Japan	JLPT JLPT_2 JLPT_3
+日本	にほん	Japan	JLPT JLPT_3 JLPT_2 Genki_Ln.1 Genki
+入場	にゅうじょう	entrance, admission, entering	JLPT JLPT_2 JLPT_3
+煮る	にる	to boil, to cook	JLPT JLPT_2 JLPT_3
+人気	にんき	popularity	JLPT JLPT_2 JLPT_3
+人間	にんげん	human being, person	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.11
+抜く	ぬく	to extract, to omit, to unplug	JLPT JLPT_2 JLPT_3
+抜ける	ぬける	to come out, to fall out, to be omitted	JLPT JLPT_2 JLPT_3
+布	ぬの	cloth	JLPT JLPT_2 JLPT_3
+濡らす	ぬらす	to wet, to soak	JLPT JLPT_2 JLPT_3
+根	ね	root	JLPT JLPT_2 JLPT_3
+値	ね	value, price, cost	JLPT JLPT_2 JLPT_3
+願い	ねがい	desire, wish, request	JLPT JLPT_2 JLPT_3
+願う	ねがう	to desire, to wish, to request	JLPT JLPT_2 JLPT_3
+鼠	ねずみ	mouse, rat	JLPT JLPT_2 JLPT_3
+熱帯	ねったい	tropics	JLPT JLPT_2 JLPT_3
+熱中	ねっちゅう	enthusiasm, zeal, mania	JLPT JLPT_2 JLPT_3
+年間	ねんかん	year	JLPT JLPT_2 JLPT_3
+年月	ねんげつ	months and years	JLPT JLPT_2 JLPT_3
+年中	ねんじゅう	whole year, always, everyday	JLPT JLPT_2 JLPT_3
+年代	ねんだい	age, era, period	JLPT JLPT_2 JLPT_3
+年齢	ねんれい	age, years	JLPT JLPT_2 JLPT_3
+野	の	field	JLPT JLPT_2 JLPT_3
+能	のう	being skilled in, nicely, properly	JLPT JLPT_2 JLPT_3
+農家	のうか	farmer, farm family	JLPT JLPT_2 JLPT_3
+農業	のうぎょう	agriculture	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.10
+農民	のうみん	farmers, peasants	JLPT JLPT_2 JLPT_3
+能力	のうりょく	ability, faculty	JLPT JLPT_2 JLPT_3
+ノー	ノー	no	JLPT JLPT_2 JLPT_3
+軒	のき	eaves	JLPT JLPT_2 JLPT_3
+残す	のこす	to leave (behind, over), to save, to reserve	JLPT JLPT_2 JLPT_3
+残り	のこり	remaining, left-over	JLPT JLPT_2 JLPT_3
+乗せる	のせる	to place on (something), to take on board	JLPT JLPT_2 JLPT_3
+載せる	のせる	to place on (something); to publish	JLPT JLPT_2 JLPT_3
+覗く	のぞく	to peek in, to look in	JLPT JLPT_2 JLPT_3
+除く	のぞく	to remove, to exclude, to except	JLPT JLPT_2 JLPT_3
+望み	のぞみ	wish, desire, (a) hope	JLPT JLPT_2 JLPT_3
+望む	のぞむ	to desire, to wish for; to view	JLPT JLPT_2 JLPT_3
+後	のち	afterwards, since then	JLPT JLPT_2 JLPT_3
+ノック	ノック	knock; fungo (baseball)	JLPT JLPT_2 JLPT_3
+伸ばす	のばす	to extend, to stretch, to reach out	JLPT JLPT_2 JLPT_3
+延ばす	のばす	to extend, to stretch, to reach out	JLPT JLPT_2 JLPT_3
+伸びる	のびる	to extend, to make progress, to grow	JLPT JLPT_2 JLPT_3
+延びる	のびる	to be prolonged	JLPT JLPT_2 JLPT_3
+述べる	のべる	to state, to express, to mention	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.13
+上る	のぼる	to ascend, to go up, to climb	JLPT JLPT_2 JLPT_3
+昇る	のぼる	to arise, to ascend, to go up	JLPT JLPT_2 JLPT_3
+載る	のる	to appear (in print), to be recorded	JLPT JLPT_2 JLPT_3
+のんびり	のんびり	carefree, at leisure	JLPT JLPT_3 JLPT_2 Genki_Ln.22 Genki
+場	ば	place, field (physics)	JLPT JLPT_2 JLPT_3
+はあ (かん)	はあ (かん)	(sigh)	JLPT JLPT_2 JLPT_3
+パーセント	パーセント	percent	JLPT JLPT_2 JLPT_3
+灰	はい	ash	JLPT JLPT_2 JLPT_3
+梅雨	ばいう	rainy season	JLPT JLPT_2 JLPT_3
+バイオリン	バイオリン	violin	JLPT Genki_Ln.13 JLPT_3 JLPT_2 Genki
+ハイキング	ハイキング	hiking	JLPT JLPT_2 JLPT_3
+配達	はいたつ	delivery, distribution	JLPT JLPT_2 JLPT_3
+パイプ	パイプ	pipe; channels official or otherwise	JLPT JLPT_2 JLPT_3
+俳優	はいゆう	actor, actress, performer	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.13
+パイロット	パイロット	pilot	JLPT JLPT_2 JLPT_3
+生える	はえる	to grow, to spring up; to cut (teeth)	JLPT JLPT_2 JLPT_3
+墓	はか	grave, tomb	JLPT JLPT_2 JLPT_3
+馬鹿	ばか	fool, idiot	JLPT JLPT_2 JLPT_3
+博士	はかせ	doctorate, PhD., doctor	JLPT JLPT_2 JLPT_3
+計る	はかる	to measure, to weigh, to survey	JLPT JLPT_2 JLPT_3
+量る	はかる	to measure, to weigh, to survey	JLPT JLPT_2 JLPT_3
+測る	はかる	to measure, to weigh, to survey	JLPT JLPT_2 JLPT_3
+掃く	はく	to sweep, to brush, to gather up	JLPT JLPT_2 JLPT_3
+吐く	はく	to throw up, to vomit	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.12
+拍手	はくしゅ	clapping hands, applause	JLPT JLPT_2 JLPT_3
+莫大	ばくだい	enormous, vast	JLPT JLPT_2 JLPT_3
+爆発	ばくはつ	explosion, detonation, eruption	JLPT JLPT_2 JLPT_3
+ベンチ	ベンチ	bench	JLPT JLPT_2 JLPT_3
+弁当	べんとう	box lunch	JLPT JLPT_2 JLPT_3
+方	ほう	side	JLPT JLPT_2 JLPT_3
+法	ほう	Act (law: the X Act)	JLPT JLPT_2 JLPT_3
+棒	ぼう	pole, rod, stick	JLPT JLPT_2 JLPT_3
+冒険	ぼうけん	risk, venture, adventure	JLPT JLPT_2 JLPT_3
+方向	ほうこう	direction, course, way	JLPT JLPT_2 JLPT_3
+報告	ほうこく	report, information	JLPT JLPT_2 JLPT_3
+宝石	ほうせき	gem, jewel	JLPT JLPT_2 JLPT_3
+包装	ほうそう	packing, wrapping	JLPT JLPT_2 JLPT_3
+豊富	ほうふ	abundance, plenty	JLPT JLPT_2 JLPT_3
+方法	ほうほう	method, means, technique	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.8
+方々	ほうぼう	here and there, everywhere	JLPT JLPT_2 JLPT_3
+訪問	ほうもん	call, visit	JLPT JLPT_2 JLPT_3
+吠える	ほえる	to bark, to howl	JLPT JLPT_2 JLPT_3
+ボーイ	ボーイ	porter; boy	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.6
+ボート	ボート	rowing boat	JLPT JLPT_2 JLPT_3
+ホーム	ホーム	platform; home	JLPT JLPT_2 JLPT_3
+ボール	ボール	ball; bowl	JLPT JLPT_3 JLPT_2 Genki_Ln.22 Genki
+他	ほか	other (esp. places and things)	JLPT JLPT_2 JLPT_3
+誇り	ほこり	pride	JLPT JLPT_2 JLPT_3
+埃	ほこり	dust	JLPT JLPT_2 JLPT_3
+保証	ほしょう	guarantee, assurance, warranty	JLPT JLPT_2 JLPT_3
+保存	ほぞん	preservation, conservation	JLPT JLPT_2 JLPT_3
+歩道	ほどう	walkway	JLPT JLPT_2 JLPT_3
+仏	ほとけ	Buddha	JLPT JLPT_2 JLPT_3
+骨	ほね	bone	JLPT JLPT_2 JLPT_3
+炎	ほのお	flame	JLPT JLPT_2 JLPT_3
+頬	ほほ	cheek (of face)	JLPT JLPT_2 JLPT_3
+頬	ほお	cheek (of face)	JLPT JLPT_2 JLPT_3
+ほぼ	ほぼ	almost, roughly	JLPT JLPT_2 JLPT_3
+微笑む	ほほえむ	to smile	JLPT JLPT_2 JLPT_3
+堀	ほり	moat, canal	JLPT JLPT_2 JLPT_3
+濠	ほり	moat	JLPT JLPT_2 JLPT_3
+本当	ほんと	truth, reality	JLPT JLPT_2 JLPT_3
+本人	ほんにん	the person himself	JLPT JLPT_2 JLPT_3
+本物	ほんもの	genuine article	JLPT JLPT_2 JLPT_3
+ぼんやり	ぼんやり	dim, faint, vague	JLPT JLPT_2 JLPT_3
+間	ま	space, room, pause	JLPT JLPT_2 JLPT_3
+まあ	まあ	well (used when making a modest or hesitant statement)	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.13
+マーケット	マーケット	market	JLPT JLPT_2 JLPT_3
+マイク	マイク	mic	JLPT JLPT_2 JLPT_3
+迷子	まいご	lost (stray) child	JLPT JLPT_2 JLPT_3
+マイナス	マイナス	minus	JLPT JLPT_2 JLPT_3
+任せる	まかせる	to entrust to another, to leave to	JLPT JLPT_2 JLPT_3
+巻く	まく	to wind, to coil, to roll	JLPT JLPT_2 JLPT_3
+蒔く	まく	to sow (seeds)	JLPT JLPT_2 JLPT_3
+撒く	まく	to scatter, to sprinkle, to sow	JLPT JLPT_2 JLPT_3
+幕	まく	curtain, act (in play)	JLPT JLPT_2 JLPT_3
+負け	まけ	defeat, loss	JLPT JLPT_2 JLPT_3
+孫	まご	grandchild	JLPT JLPT_2 JLPT_3
+まさか	まさか	by no means	JLPT JLPT_2 JLPT_3
+まさに	まさに	correctly, surely	JLPT JLPT_2 JLPT_3
+混ざる	まざる	to be mixed, to mingle with	JLPT JLPT_2 JLPT_3
+交ざる	まざる	to be mixed, to mingle with	JLPT JLPT_2 JLPT_3
+混じる	まじる	to be mixed, to mingle with	JLPT JLPT_2 JLPT_3
+交じる	まじる	to be mixed, to mingle with	JLPT JLPT_2 JLPT_3
+増す	ます	to increase, to gain	JLPT JLPT_2 JLPT_3
+貧しい	まずしい	poor, needy	JLPT JLPT_2 JLPT_3
+マスター	マスター	bar owner, master (e.g., arts, science)	JLPT JLPT_2 JLPT_3
+ますます	ますます	increasingly (same as もっと), more and more	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.9
+混ぜる	まぜる	to mix, to stir	JLPT JLPT_2 JLPT_3
+交ぜる	まぜる	to be mixed, to be blended with	JLPT JLPT_2 JLPT_3
+街	まち	town; street, road	JLPT JLPT_2 JLPT_3
+間違い	まちがい	mistake	JLPT Genki_Ln.19 JLPT_3 JLPT_2 Genki
+松	まつ	pine tree	JLPT JLPT_2 JLPT_3
+真っ赤	まっか	deep red, flushed (of face)	JLPT JLPT_2 JLPT_3
+全く	まったく	really, completely	JLPT JLPT_2 JLPT_3
+祭	まつり	festival, feast	JLPT JLPT_2 JLPT_3
+まとまる	まとまる	to be collected, to be settled, to be in order	JLPT JLPT_2 JLPT_3
+まとめる	まとめる	to put in order, to collect, to bring to a conclusion	JLPT JLPT_2 JLPT_3
+学ぶ	まなぶ	to learn; to study	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.8
+真似	まね	mimicry, imitation, behavior	JLPT JLPT_2 JLPT_3
+招く	まねく	to invite	JLPT Intermediate_Japanese JLPT_3 JLPT_2 Intermediate_Japanese_Ln.13
+まぶしい	まぶしい	dazzling, radiant	JLPT JLPT_2 JLPT_3
+柵	さく	fence, paling	JLPT_1 JLPT JLPT_3
+裂ける	さける	to split, to tear, to burst	JLPT_1 JLPT JLPT_3
+裁く	さばく	to judge	JLPT_1 JLPT JLPT_3
+酸化	さんか	oxidation	JLPT_1 JLPT JLPT_3
+死	し	death, decease	JLPT_1 JLPT JLPT_3
+資格	しかく	qualifications, requirements, capabilities	JLPT_1 JLPT JLPT_3
+視覚	しかく	sense of sight, vision	JLPT_1 JLPT JLPT_3
+指揮	しき	command, direction	JLPT_1 JLPT JLPT_3
+磁気	じき	magnetism	JLPT_1 JLPT JLPT_3
+磁器	じき	porcelain, china	JLPT_1 JLPT JLPT_3
+自己	じこ	self, oneself	JLPT_1 JLPT JLPT_3
+字体	じたい	font, lettering	JLPT_1 JLPT JLPT_3
+辞退	じたい	refusal	JLPT_1 JLPT JLPT_3
+視点	してん	opinion, point of view, visual point	JLPT_1 JLPT JLPT_3
+脂肪	しぼう	fat, grease	JLPT_1 JLPT JLPT_3
+志望	しぼう	wish, desire, ambition	JLPT_1 JLPT JLPT_3
+衆	しゅう	masses, people	JLPT_1 JLPT JLPT_3
+住	じゅう	dwelling, living	JLPT_1 JLPT JLPT_3
+修飾	しゅうしょく	ornamentation; modification (gram)	JLPT_1 JLPT JLPT_3
+私用	しよう	personal use, private business	JLPT_1 JLPT JLPT_3
+仕様	しよう	way, method, specification	JLPT_1 JLPT JLPT_3
+情	じょう	feelings, emotion, passion	JLPT_1 JLPT JLPT_3
+生涯	しょうがい	one's lifetime	JLPT_1 JLPT JLPT_3
+上司	じょうし	one's superior	JLPT Intermediate_Japanese JLPT_1 JLPT_3 Intermediate_Japanese_Ln.9
+正体	しょうたい	natural shape, one's true colors, true character	JLPT_1 JLPT JLPT_3
+照明	しょうめい	illumination	JLPT_1 JLPT JLPT_3
+女史	じょし	Ms.	JLPT_1 JLPT JLPT_3
+助詞	じょし	(gram) particle(s), postposition	JLPT Intermediate_Japanese JLPT_1 JLPT_3 Intermediate_Japanese_Ln.13
+ショック	ショック	shock	JLPT Intermediate_Japanese JLPT_1 JLPT_3 Intermediate_Japanese_Ln.4
+進行	しんこう	advance	JLPT_1 JLPT JLPT_3
+新興	しんこう	rising, developing, emergent	JLPT_1 JLPT JLPT_3
+振興	しんこう	promotion, encouragement	JLPT_1 JLPT JLPT_3
+申告	しんこく	report, statement	JLPT_1 JLPT JLPT_3
+真理	しんり	truth	JLPT_1 JLPT JLPT_3
+水洗	すいせん	flushing	JLPT_1 JLPT JLPT_3
+ストレス	ストレス	stress	JLPT_1 JLPT JLPT_3
+擦る	する	to rub, to chafe	JLPT_1 JLPT JLPT_3
+正規	せいき	regular, legitimate	JLPT_1 JLPT JLPT_3
+精巧	せいこう	elaborate, delicate, exquisite	JLPT_1 JLPT JLPT_3
+精算	せいさん	exact calculation, adjustment	JLPT_1 JLPT JLPT_3
+成年	せいねん	majority, adult age	JLPT_1 JLPT JLPT_3
+声明	せいめい	declaration, statement, proclamation	JLPT_1 JLPT JLPT_3
+姓名	せいめい	full name	JLPT_1 JLPT JLPT_3
+生理	せいり	physiology, menses	JLPT_1 JLPT JLPT_3
+節	せつ	when, if; section; clause	JLPT_1 JLPT JLPT_3
+膳	ぜん	(small) table, tray, meal	JLPT_1 JLPT JLPT_3
+禅	ぜん	Zen (Buddhism)	JLPT_1 JLPT JLPT_3
+選挙	せんきょ	election	JLPT JLPT_1 JLPT_3 Genki_Ln.23 Genki
+先行	せんこう	preceding, going first	JLPT_1 JLPT JLPT_3
+選考	せんこう	selection, screening	JLPT_1 JLPT JLPT_3
+相	そう	aspect, phase, countenance	JLPT_1 JLPT JLPT_3
+沿う	そう	to run along, to follow	JLPT_1 JLPT JLPT_3
+添う	そう	to accompany, to comply with	JLPT_1 JLPT JLPT_3
+僧	そう	monk, priest	JLPT_1 JLPT JLPT_3
+像	ぞう	statue, image	JLPT_1 JLPT JLPT_3
+捜査	そうさ	search (esp. in criminal investigations, investigation)	JLPT_1 JLPT JLPT_3
+操縦	そうじゅう	management, control, manipulation	JLPT_1 JLPT JLPT_3
+創造	そうぞう	creation	JLPT_1 JLPT JLPT_3
+隊	たい	party, troops	JLPT_1 JLPT JLPT_3
+退学	たいがく	dropping out of school	JLPT_1 JLPT JLPT_3
+タイトル	タイトル	title	JLPT_1 JLPT JLPT_3
+ダウン	ダウン	down	JLPT_1 JLPT JLPT_3
+高まる	たかまる	to rise; to grow; to mount (v.i.)	JLPT Intermediate_Japanese JLPT_1 JLPT_3 Intermediate_Japanese_Ln.14
+断つ	たつ	to sever, to cut off	JLPT_1 JLPT JLPT_3
+盾	たて	shield	JLPT_1 JLPT JLPT_3
+例え	たとえ	example; even though	JLPT_1 JLPT JLPT_3
+チャイム	チャイム	chime	JLPT_1 JLPT JLPT_3
+挑戦	ちょうせん	challenge, defiance	JLPT_1 JLPT JLPT_3
+治療	ちりょう	medical treatment	JLPT_1 JLPT JLPT_3
+対	つい	pair, couple, set	JLPT_1 JLPT JLPT_3
+接ぐ	つぐ	to join; to piece together; to set (bones); to graft (trees)	JLPT_1 JLPT JLPT_3
+継ぐ	つぐ	to succeed (someone in a business or inheritance	JLPT_1 JLPT JLPT_3
+摘む	つむ	to pluck, to pick, to trim	JLPT_1 JLPT JLPT_3
+露	つゆ	dew	JLPT_1 JLPT JLPT_3
+強まる	つよまる	to get strong, to gain strength	JLPT_1 JLPT JLPT_3
+強める	つよめる	to strengthen, to emphasize	JLPT_1 JLPT JLPT_3
+データ	データ	data	JLPT_1 JLPT JLPT_3
+デザイン	デザイン	design	JLPT_1 JLPT JLPT_3
+デザート	デザート	dessert	JLPT_1 JLPT JLPT_3
+転校	てんこう	change schools	JLPT_1 JLPT JLPT_3
+伝言	でんごん	verbal message	JLPT_1 JLPT JLPT_3
+と	と	and	JLPT_1 JLPT JLPT_3
+問う	とう	to ask, to question	JLPT_1 JLPT JLPT_3
+棟	とう	ridge (of roof	JLPT_1 JLPT JLPT_3
+倒産	とうさん	(corporate) bankruptcy, insolvency	JLPT_1 JLPT JLPT_3
+同士	どうし	one another, companion, comrade	JLPT Intermediate_Japanese JLPT_1 JLPT_3 Intermediate_Japanese_Ln.9
+同志	どうし	same mind, comrade, kindred soul	JLPT_1 JLPT JLPT_3
+当然	とうぜん	obvious; natural	JLPT Intermediate_Japanese JLPT_1 JLPT_3 Intermediate_Japanese_Ln.15
+動揺	どうよう	disturbance, flutter shock	JLPT_1 JLPT JLPT_3
+説く	とく	to explain, to advocate	JLPT_1 JLPT JLPT_3
+綴じる	とじる	to bind, to file	JLPT_1 JLPT JLPT_3
+供	とも	accompanying, attendant, companion, retinue	JLPT_1 JLPT JLPT_3
+並	なみ	medium (e.g., food serving size, quality, price, etc.), ordinary	JLPT Intermediate_Japanese JLPT_1 JLPT_3 Intermediate_Japanese_Ln.6
+慣らす	ならす	to accustom	JLPT_1 JLPT JLPT_3
+馴らす	ならす	to domesticate, to tame	JLPT_1 JLPT JLPT_3
+難	なん	difficulty, hardships, defect	JLPT_1 JLPT JLPT_3
+音	ね	sound, note	JLPT_1 JLPT JLPT_3
+年鑑	ねんかん	yearbook	JLPT_1 JLPT JLPT_3
+脳	のう	brain, memory	JLPT_1 JLPT JLPT_3
+臨む	のぞむ	to look out on, to face, to attend (function)	JLPT_1 JLPT JLPT_3
+肺	はい	lung	JLPT_1 JLPT JLPT_3
+～敗	はい	counter for loss, defeat	JLPT_1 JLPT JLPT_3
+映える	はえる	to shine, to look attractive, to look pretty	JLPT_1 JLPT JLPT_3
+諮る	はかる	to consult with, to confer	JLPT_1 JLPT JLPT_3
+図る	はかる	to plot, to attempt, to devise, to design, to refer A to B	JLPT_1 JLPT JLPT_3
+生やす	はやす	to grow, to cultivate, to wear beard	JLPT_1 JLPT JLPT_3
+班	はん	group, party, section (mil)	JLPT_1 JLPT JLPT_3
+判	はん	size (of paper or books)	JLPT_1 JLPT JLPT_3
+版	はん	edition	JLPT_1 JLPT JLPT_3
+碑	ひ	stone monument bearing an inscription	JLPT_1 JLPT JLPT_3
+非行	ひこう	delinquency, misconduct	JLPT_1 JLPT JLPT_3
+票	ひょう	label, ballot, sign	JLPT_1 JLPT JLPT_3
+広まる	ひろまる	to spread, to be propagated	JLPT_1 JLPT JLPT_3
+深める	ふかめる	to deepen, to heighten, to intensify	JLPT_1 JLPT JLPT_3
+福	ふく	good fortune	JLPT_1 JLPT JLPT_3
+振り	ふり	style, manner	JLPT_1 JLPT JLPT_3
+経る	へる	to pass, to elapse, to experience	JLPT_1 JLPT JLPT_3
+保護	ほご	care, protection, shelter	JLPT_1 JLPT JLPT_3
+保障	ほしょう	guarantee, security, warranty	JLPT_1 JLPT JLPT_3
+補償	ほしょう	compensation, reparation	JLPT_1 JLPT JLPT_3
+ほっと	ほっと	feel relieved	JLPT_1 JLPT JLPT_3
+前もって	まえもって	in advance, beforehand, previously	JLPT_1 JLPT JLPT_3
+膜	まく	membrane, film	JLPT_1 JLPT JLPT_3
+マスコミ	マスコミ	mass communication	JLPT_1 JLPT JLPT_3
+股	また	thigh, crotch	JLPT_1 JLPT JLPT_3
+末	まつ	the end of	JLPT_1 JLPT JLPT_3
+マッサージ	マッサージ	massage	JLPT_1 JLPT JLPT_3
+見掛ける	みかける	to (happen to see), to notice, to catch sight of	JLPT_1 JLPT JLPT_3
+捲る	めくる	to turn over, to turn pages of a book	JLPT_1 JLPT JLPT_3
+メッセージ	メッセージ	message	JLPT_1 JLPT JLPT_3
+野党	やとう	opposition party	JLPT_1 JLPT JLPT_3
+優	ゆう	superiority, high grade	JLPT_1 JLPT JLPT_3
+有機	ゆうき	organic	JLPT_1 JLPT JLPT_3
+世	よ	world, society, generation	JLPT_1 JLPT JLPT_3
+良い	よい	good, nice	JLPT_1 JLPT JLPT_3
+予想	よそう	expectation, anticipation, prediction	JLPT_1 JLPT JLPT_3
+弱まる	よわまる	to weaken, to be emaciated, to be dejected	JLPT_1 JLPT JLPT_3
+弱める	よわめる	to weaken	JLPT_1 JLPT JLPT_3
+ラベル	ラベル	label	JLPT_1 JLPT JLPT_3
+ルール	ルール	rule	JLPT_1 JLPT JLPT_3
+枠	わく	frame, slide	JLPT_1 JLPT JLPT_3

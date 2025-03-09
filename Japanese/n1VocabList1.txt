@@ -1,0 +1,1128 @@
+公然	こうぜん	openly	JLPT_1 JLPT
+抗争	こうそう	dispute, resistance	JLPT_1 JLPT
+構想	こうそう	plan, plot, idea, conception	JLPT_1 JLPT
+後退	こうたい	retreat, backspace	JLPT_1 JLPT
+光沢	こうたく	luster, glossy finish (of photographs)	JLPT_1 JLPT
+公団	こうだん	public corporation	JLPT_1 JLPT
+好調	こうちょう	satisfactory, in good shape	JLPT_1 JLPT
+口頭	こうとう	oral	JLPT_1 JLPT
+講読	こうどく	reading	JLPT_1 JLPT
+購読	こうどく	subscription	JLPT_1 JLPT
+購入	こうにゅう	purchase, buy	JLPT_1 JLPT
+公認	こうにん	official recognition, authorization	JLPT_1 JLPT
+光熱費	こうねつひ	cost of fuel and light	JLPT_1 JLPT
+購買	こうばい	purchase, buy	JLPT_1 JLPT
+好評	こうひょう	popularity, favorable reputation	JLPT_1 JLPT
+交付	こうふ	delivering, furnishing (with copies)	JLPT_1 JLPT
+公募	こうぼ	public appeal, public contribution	JLPT_1 JLPT
+巧妙	こうみょう	ingenious, skillful, clever	JLPT_1 JLPT
+公用	こうよう	government business, public use, public expense	JLPT_1 JLPT
+小売	こうり	retail	JLPT_1 JLPT
+効率	こうりつ	efficiency	JLPT_1 JLPT
+公立	こうりつ	public institution	JLPT_1 JLPT
+護衛	ごえい	guard, convoy, escort	JLPT_1 JLPT
+コーナー	コーナー	corner	JLPT_1 JLPT
+小柄	こがら	small, diminutive	JLPT_1 JLPT
+小切手	こぎって	cheque, check	JLPT_1 JLPT
+国産	こくさん	domestic products	JLPT_1 JLPT
+国定	こくてい	state-sponsored, national	JLPT_1 JLPT
+告白	こくはく	confession, acknowledgment	JLPT_1 JLPT
+国防	こくぼう	national defense	JLPT_1 JLPT
+国有	こくゆう	national ownership	JLPT_1 JLPT
+極楽	ごくらく	paradise	JLPT_1 JLPT
+国連	こくれん	U.N., United Nations	JLPT_1 JLPT
+焦げ茶	こげちゃ	dark brown	JLPT_1 JLPT
+語源	ごげん	word root, word derivation, etymology	JLPT_1 JLPT
+心地	ここち	feeling, sensation, mood	JLPT_1 JLPT
+心得	こころえ	knowledge, information	JLPT_1 JLPT
+心掛け	こころがけ	readiness, intention, aim	JLPT_1 JLPT
+心掛ける	こころがける	to bear in mind, to aim to do	JLPT_1 JLPT
+志	こころざし	will, intention, motive	JLPT_1 JLPT
+志す	こころざす	to plan, to intend, to aspire to	JLPT_1 JLPT
+心強い	こころづよい	heartening, reassuring	JLPT_1 JLPT
+心細い	こころぼそい	helpless, hopeless, discouraging	JLPT_1 JLPT
+試み	こころみ	trial, experiment	JLPT_1 JLPT
+試みる	こころみる	to try, to test	JLPT_1 JLPT
+快い	こころよい	pleasant, agreeable	JLPT_1 JLPT
+誤差	ごさ	error	JLPT_1 JLPT
+ございます (かん)	ございます (かん)	to be (polite, to exist)	JLPT_1 JLPT
+孤児	こじ	orphan	JLPT_1 JLPT
+こじれる	こじれる	to get complicated, to grow worse	JLPT_1 JLPT
+こす (みずを～)	こす (みずを～)	to strain, to filter	JLPT_1 JLPT
+梢	こずえ	treetop	JLPT_1 JLPT
+個性	こせい	individuality, personality, idiosyncrasy	JLPT_1 JLPT
+戸籍	こせき	census, family register	JLPT_1 Intermediate_Japanese_Ln.14 JLPT Intermediate_Japanese
+古代	こだい	ancient times	JLPT_1 JLPT
+こたつ	こたつ	table with heater, (originally) charcoal brazier in a floor well	JLPT_1 JLPT
+こだわる	こだわる	to fuss over, to be particular about	JLPT_1 JLPT
+誇張	こちょう	exaggeration	JLPT_1 JLPT
+こつ (をつかむ)	こつ (をつかむ)	secret, trick, hang	JLPT_1 JLPT
+滑稽	こっけい	funny, humorous, comical	JLPT_1 JLPT
+国交	こっこう	diplomatic relations	JLPT_1 JLPT
+骨董品	こっとうひん	curio	JLPT_1 JLPT
+固定	こてい	fixation, fixing (e.g., salary, capital)	JLPT_1 JLPT
+事柄	ことがら	matter, thing, affair, circumstance	JLPT_1 JLPT
+孤独	こどく	isolation, loneliness, solitude	JLPT_1 JLPT
+ことごとく	ことごとく	altogether, entirely	JLPT_1 JLPT
+言付け	ことづけ	to leave a message	JLPT_1 JLPT
+殊に	ことに	especially, above all	JLPT_1 JLPT
+粉々	こなごな	in very small pieces	JLPT_1 JLPT
+好ましい	このましい	nice, likable, desirable	JLPT_1 JLPT
+碁盤	ごばん	Go board	JLPT_1 JLPT
+個別	こべつ	particular case	JLPT_1 JLPT
+ごまかす	ごまかす	to deceive, to falsify, to misrepresent	JLPT_1 JLPT
+細やか	こまやか	meager, modest	JLPT_1 JLPT
+コマーシャル	コマーシャル	a commercial	JLPT_1 JLPT
+込める	こめる	to include, to put into	JLPT_1 JLPT
+コメント	コメント	comment	JLPT_1 JLPT
+籠もる	こもる	to seclude oneself, to be confined in	JLPT_1 JLPT
+固有	こゆう	characteristic, tradition, peculiar	JLPT_1 JLPT
+暦	こよみ	calendar, almanac	JLPT_1 JLPT
+凝らす	こらす	to concentrate, to devote, to peer into	JLPT_1 JLPT
+ごらんなさい (かん)	ごらんなさい (かん)	look, (please) try to do	JLPT_1 JLPT
+孤立	こりつ	isolation, helplessness	JLPT_1 JLPT
+懲りる	こりる	to learn by experience, to be disgusted with	JLPT_1 JLPT
+凝る	こる	to stiffen, to harden	JLPT_1 JLPT
+根気	こんき	patience; perseverance, energy	JLPT_1 JLPT
+根拠	こんきょ	basis, foundation	JLPT_1 JLPT
+混血	こんけつ	mixed race, mixed parentage	JLPT_1 JLPT
+コンタクト (レンズ)	コンタクト (レンズ)	contact; contact lens	JLPT_1 JLPT
+昆虫	こんちゅう	insect, bug	JLPT_1 JLPT
+根底	こんてい	root, basis, foundation	JLPT_1 JLPT
+混同	こんどう	confusion, mixing, merger	JLPT_1 JLPT
+コントラスト	コントラスト	contrast	JLPT_1 JLPT
+コントロール	コントロール	control	JLPT_1 JLPT
+コンパス	コンパス	compass	JLPT_1 JLPT
+根本	こんぽん	foundation, root, base	JLPT_1 JLPT
+財	ざい	fortune, riches	JLPT_1 JLPT
+再会	さいかい	meeting again, reunion	JLPT_1 JLPT
+災害	さいがい	calamity, disaster, misfortune	JLPT_1 JLPT
+細菌	さいきん	bacillus, bacterium, germ	JLPT_1 JLPT
+細工	さいく	work, craftsmanship, trick	JLPT_1 JLPT
+採掘	さいくつ	mining	JLPT_1 JLPT
+サイクル	サイクル	cycle	JLPT_1 JLPT
+採決	さいけつ	vote, roll call	JLPT_1 JLPT
+再建	さいけん	(temple or shrine) rebuilding	JLPT_1 JLPT
+再現	さいげん	reproduction, return, revival	JLPT_1 JLPT
+財源	ざいげん	source of funds, resources, finances	JLPT_1 JLPT
+在庫	ざいこ	stockpile, stock	JLPT_1 JLPT
+採算	さいさん	profit	JLPT_1 JLPT
+サイズ	サイズ	size	JLPT_1 JLPT
+再生	さいせい	playback, regeneration, resuscitation	JLPT_1 JLPT
+財政	ざいせい	economy, financial affairs	JLPT_1 JLPT
+最善	さいぜん	the very best	JLPT_1 JLPT
+採択	さいたく	adoption, selection, choice	JLPT_1 JLPT
+栽培	さいばい	cultivation	JLPT_1 JLPT
+再発	さいはつ	return, relapse, reoccurrence	JLPT_1 JLPT
+細胞	さいぼう	cell	JLPT_1 JLPT
+採用	さいよう	use, adopt	JLPT_1 JLPT
+遮る	さえぎる	to interrupt, to intercept, to obstruct	JLPT_1 JLPT
+さえずる	さえずる	to sing, to chirp, to twitter	JLPT_1 JLPT
+冴える	さえる	to be clear, to be bright, to be skillful	JLPT_1 JLPT
+竿	さお	rod, pole (e.g., for drying laundry)	JLPT_1 JLPT
+栄える	さかえる	to flourish, to prosper, to thrive	JLPT_1 JLPT
+差額	さがく	balance, difference, margin	JLPT_1 JLPT
+杯	さかずき	wine cup	JLPT_1 JLPT
+逆立ち	さかだち	handstand, headstand	JLPT_1 JLPT
+さきに (いぜん)	さきに (いぜん)	before, earlier than, previously	JLPT_1 JLPT
+詐欺	さぎ	fraud, swindle	JLPT_1 JLPT
+削減	さくげん	cut, reduction	JLPT_1 JLPT
+錯誤	さくご	mistake	JLPT_1 JLPT
+作戦	さくせん	military operations, tactics, strategy	JLPT_1 JLPT
+叫び	さけび	shout, scream, outcry	JLPT_1 JLPT
+捧げる	ささげる	to lift up, to give, to offer	JLPT_1 JLPT
+差し掛かる	さしかかる	to come near to, to approach	JLPT_1 JLPT
+指図	さしず	instruction, mandate	JLPT_1 JLPT
+差し出す	さしだす	to present, to submit, to hold out	JLPT_1 JLPT
+差し支える	さしつかえる	to interfere, to hinder	JLPT_1 JLPT
+授ける	さずける	to grant, to award, to teach	JLPT_1 JLPT
+摩する	さする	to rub, to stroke	JLPT_1 JLPT
+さぞ (さぞや。さぞかし)	さぞ (さぞや。さぞかし)	I am sure, certainly, no doubt	JLPT_1 JLPT
+定まる	さだまる	to become settled, to be fixed	JLPT_1 JLPT
+定める	さだめる	to decide, to determine	JLPT_1 JLPT
+座談会	ざだんかい	symposium, round-table discussion	JLPT_1 JLPT
+雑	ざつ	rough, crude	JLPT_1 JLPT
+雑貨	ざっか	miscellaneous goods, general goods	JLPT_1 JLPT
+殺人	さつじん	murder	JLPT_1 JLPT
+察する	さっする	to guess, to sense, to judge	JLPT_1 JLPT
+雑談	ざつだん	chatting, idle talk	JLPT_1 JLPT
+さっと	さっと	suddenly, smoothly	JLPT_1 JLPT
+さっぱりする	さっぱりする	to refresh	JLPT_1 JLPT
+悟る	さとる	to attain enlightenment, to understand	JLPT_1 JLPT
+最中	さなか	in the middle of, midst	JLPT_1 JLPT
+座標	ざひょう	coordinates	JLPT_1 JLPT
+さほど	さほど	not so, not that much	JLPT_1 JLPT
+サボる	サボる	to cut (skip) classes; to loaf on the job; to idle away one's time	JLPT Genki_Ln.11 Intermediate_Japanese JLPT_1 Intermediate_Japanese_Ln.13 Genki
+様	さま	state; way (a person does something); Mr. or Mrs.	JLPT_1 JLPT Intermediate_Japanese Intermediate_Japanese_Ln.11
+寒気	さむけ	chill, shiver, cold	JLPT_1 JLPT
+侍	さむらい	samurai	JLPT_1 JLPT Intermediate_Japanese_Ln.7 Intermediate_Japanese
+さも	さも	with gusto, with satisfaction	JLPT_1 JLPT
+作用	さよう	operation, effect, function	JLPT_1 JLPT
+さらう (こどもを～)	さらう (こどもを～)	to kidnap	JLPT_1 JLPT
+障る	さわる	to hinder, to interfere with, to affect	JLPT_1 JLPT
+酸	さん	acid	JLPT_1 JLPT
+山岳	さんがく	mountains	JLPT_1 JLPT
+参議院	さんぎいん	House of Councilors	JLPT_1 JLPT
+産休	さんきゅう	maternity leave	JLPT_1 JLPT
+サンキュー	サンキュー	thank you	JLPT_1 JLPT
+残金	ざんきん	remaining money	JLPT_1 JLPT
+産後	さんご	postpartum, after childbirth	JLPT_1 JLPT
+残酷	ざんこく	cruelty, harshness	JLPT_1 JLPT
+産出	さんしゅつ	yield, produce	JLPT_1 JLPT
+参照	さんしょう	reference, consultation, consultation	JLPT_1 JLPT
+参上	さんじょう	calling on, visiting	JLPT_1 JLPT
+残高	ざんだか	(bank) balance, remainder	JLPT_1 JLPT
+サンタクロース	サンタクロース	Santa Claus	JLPT_1 JLPT Intermediate_Japanese_Ln.8 Intermediate_Japanese
+桟橋	さんばし	wharf, jetty, pier	JLPT_1 JLPT
+賛美	さんび	praise, adoration, glorification	JLPT_1 JLPT
+山腹	さんぷく	hillside, mountainside	JLPT_1 JLPT
+産婦人科	さんふじんか	maternity and gynecology department	JLPT_1 JLPT
+産物	さんぶつ	product, result, fruit	JLPT_1 JLPT
+山脈	さんみゃく	mountain range	JLPT_1 JLPT
+仕上がり	しあがり	finish, end, completion	JLPT_1 JLPT
+仕上	しあげ	end, finishing touches	JLPT_1 JLPT
+仕上げる	しあげる	to finish up, to complete	JLPT_1 JLPT
+飼育	しいく	breeding, raising, rearing	JLPT_1 JLPT
+強いて	しいて	to dare, to insist	JLPT_1 JLPT
+シート	シート	seat; sheet	JLPT_1 JLPT
+ジーパン	ジーパン	jeans	JLPT_1 JLPT
+仕入れる	しいれる	to lay in stock, to replenish stock, to procure	JLPT_1 JLPT
+強いる	しいる	to force, to compel, to coerce	JLPT_1 JLPT
+潮	しお	tide	JLPT_1 JLPT
+歯科	しか	dentistry	JLPT_1 JLPT
+自我	じが	self, ego	JLPT_1 JLPT
+自覚	じかく	self-conscious	JLPT_1 JLPT
+仕掛	しかけ	device, trick, mechanism	JLPT_1 JLPT
+仕掛ける	しかける	to lay, to set, to wage	JLPT_1 JLPT
+しかしながら	しかしながら	however, nevertheless	JLPT_1 JLPT
+色彩	しきさい	color	JLPT_1 JLPT
+式場	しきじょう	ceremonial hall, place of ceremony (e.g., marriage)	JLPT_1 JLPT
+しきたり	しきたり	custom, conventional practice, tradition	JLPT_1 JLPT
+事業	じぎょう	project, enterprise, business	JLPT_1 JLPT
+軽蔑	けいべつ	scorn, disdain	JLPT_1 JLPT
+経歴	けいれき	personal history, career	JLPT_1 JLPT
+経路	けいろ	course, route, channel	JLPT_1 JLPT
+けがらわしい	けがらわしい	filthy, unfair	JLPT_1 JLPT
+劇団	げきだん	troupe, theatrical company	JLPT_1 JLPT
+激励	げきれい	encouragement	JLPT_1 JLPT
+ゲスト	ゲスト	guest	JLPT_1 JLPT
+獣	けだもの	beast, brute	JLPT_1 JLPT
+決	けつ	decision, vote
+代弁	だいべん	speak for another	JLPT_1 JLPT
+待望	たいぼう	long-expected, waiting	JLPT_1 JLPT
+台本	だいほん	libretto, scenario	JLPT_1 JLPT
+タイマー	タイマー	timer	JLPT_1 JLPT
+怠慢	たいまん	negligence, carelessness	JLPT_1 JLPT
+タイミング	タイミング	timing	JLPT_1 JLPT
+タイム	タイム	time	JLPT_1 JLPT
+タイムリー	タイムリー	timely, run-batted-in (baseball), RBI	JLPT_1 JLPT
+対面	たいめん	interview, meeting	JLPT_1 JLPT
+代用	だいよう	substitution	JLPT_1 JLPT
+体力	たいりょく	physical strength	JLPT_1 JLPT
+タイル	タイル	tile	JLPT_1 JLPT
+対話	たいわ	conversation, dialogue	JLPT_1 JLPT
+耐える	たえる	to endure, to put up with	JLPT_1 JLPT
+堪える	たえる	to endure, to put up with	JLPT_1 JLPT
+絶える	たえる	to die out, to become extinct	JLPT_1 JLPT
+断える	たえる	to cease, to become extinct	JLPT_1 JLPT
+打開	だかい	solution, breakthrough	JLPT_1 JLPT
+焚火	たきび	(open) fire	JLPT_1 JLPT
+妥協	だきょう	compromise, giving in	JLPT_1 JLPT
+たくましい	たくましい	burly, strong, sturdy	JLPT_1 JLPT
+巧み	たくみ	skill, cleverness	JLPT_1 JLPT
+丈	たけ	length, height	JLPT_1 JLPT
+打撃	だげき	blow, damage; batting (baseball)	JLPT_1 JLPT
+妥結	だけつ	agreement	JLPT_1 JLPT
+駄作	ださく	poor work	JLPT_1 JLPT
+足し算	たしざん	addition	JLPT_1 JLPT
+多数決	たすうけつ	majority rule	JLPT_1 JLPT
+助け	たすけ	assistance	JLPT_1 JLPT
+携わる	たずさわる	to engage, to involve	JLPT_1 JLPT
+漂う	ただよう	to drift about, to float, to hang in air	JLPT_1 JLPT
+立ち去る	たちさる	to leave, to depart	JLPT_1 JLPT
+立ち寄る	たちよる	to stop by, to drop in for a short visit	JLPT_1 JLPT
+抱っこ	だっこ	(child's) hug	JLPT_1 JLPT
+達者	たっしゃ	skillful, in good health	JLPT_1 JLPT
+脱出	だっしゅつ	escape	JLPT_1 JLPT
+脱する	だっする	to escape from, to get out	JLPT_1 JLPT
+達成	たっせい	achievement	JLPT_1 JLPT
+脱退	だったい	secession, withdrawal	JLPT_1 JLPT
+だったら	だったら	if it's the case	JLPT_1 JLPT
+立て替える	たてかえる	to pay in advance, to pay for another	JLPT_1 JLPT
+建前	たてまえ	position; stance one takes in public; principle	JLPT_1 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese
+奉る	たてまつる	to offer, to do respectfully	JLPT_1 JLPT
+だと	だと	if it's the case	JLPT_1 JLPT
+他動詞	たどうし	transitive verb (direct object)	JLPT_1 JLPT
+辿り着く	たどりつく	to reach, to make it somehow	JLPT_1 JLPT
+辿る	たどる	to follow (road, to pursue (course), to follow up	JLPT_1 JLPT
+束ねる	たばねる	to tie up in a bundle, to control	JLPT_1 JLPT
+だぶだぶ	だぶだぶ	loose, baggy	JLPT_1 JLPT
+他方	たほう	another side, on the other hand	JLPT_1 JLPT
+多忙	たぼう	busy	JLPT_1 JLPT
+給う	たまう	to receive, to grant	JLPT_1 JLPT
+魂	たましい	soul, spirit	JLPT_1 JLPT
+溜まり	たまり	collected things, gathering place, arrears	JLPT_1 JLPT
+賜る	たまわる	to grant, to bestow	JLPT_1 JLPT
+保つ	たもつ	to keep, to preserve, to sustain	JLPT_1 JLPT
+たやすい	たやすい	easy, simple, light	JLPT_1 JLPT
+多様	たよう	diversity, variety	JLPT_1 JLPT
+だるい	だるい	sluggish, feel heavy (tired), languid	JLPT_1 JLPT Intermediate_Japanese_Ln.12 Intermediate_Japanese
+弛み	たるみ	slack, slackening	JLPT_1 JLPT
+弛む	たるむ	to slacken, to loosen, to relax	JLPT_1 JLPT
+垂れる	たれる	to hang, to droop; to drip	JLPT_1 JLPT
+タレント	タレント	talent, star, personality	JLPT_1 JLPT
+タワー	タワー	tower	JLPT_1 JLPT
+単一	たんいつ	single, simple, sole	JLPT_1 JLPT
+短歌	たんか	31-syllable Japanese poem	JLPT_1 JLPT
+担架	たんか	stretcher, litter	JLPT_1 JLPT
+短気	たんき	quick temper	JLPT_1 JLPT
+団結	だんけつ	unity, union, solidarity	JLPT_1 JLPT
+探検	たんけん	exploration, expedition	JLPT_1 JLPT
+断言	だんげん	assertion, declaration, affirmation	JLPT_1 JLPT
+短縮	たんしゅく	shortening, abbreviation, reduction	JLPT_1 JLPT
+断然	だんぜん	firmly, absolutely, definitely	JLPT_1 JLPT
+炭素	たんそ	carbon (C)	JLPT_1 JLPT
+短大	たんだい	junior college	JLPT_1 JLPT
+単調	たんちょう	monotony, monotone, dullness	JLPT_1 JLPT
+単独	たんどく	sole, single	JLPT_1 JLPT
+旦那	だんな	master (of house), husband (informal)	JLPT_1 JLPT
+短波	たんぱ	short wave	JLPT_1 JLPT
+蛋白質	たんぱくしつ	protein	JLPT_1 JLPT
+ダンプ	ダンプ	dump truck	JLPT_1 JLPT
+断面	だんめん	cross section	JLPT_1 JLPT
+弾力	だんりょく	elasticity, flexibility	JLPT_1 JLPT
+治安	ちあん	public order, security	JLPT_1 JLPT
+チームワーク	チームワーク	teamwork	JLPT_1 JLPT
+チェンジ	チェンジ	change	JLPT_1 JLPT
+違える	ちがえる	to change	JLPT_1 JLPT
+畜産	ちくさん	animal husbandry	JLPT_1 JLPT
+畜生	ちくしょう	beast, brute, damn	JLPT_1 JLPT
+蓄積	ちくせき	accumulation, accumulate, store	JLPT_1 JLPT
+地形	ちけい	landform, geographical features, topography	JLPT_1 JLPT
+知性	ちせい	intelligence	JLPT_1 JLPT
+乳	ちち	milk, breast, loop	JLPT_1 JLPT
+縮まる	ちぢまる	to be shortened, to be contracted, to shrink	JLPT_1 JLPT
+秩序	ちつじょ	order, regularity	JLPT_1 JLPT Intermediate_Japanese_Ln.10 Intermediate_Japanese
+窒息	ちっそく	suffocation	JLPT_1 JLPT
+知的	ちてき	intellectual	JLPT_1 JLPT
+着手	ちゃくしゅ	embarkation, launch	JLPT_1 JLPT
+着色	ちゃくしょく	coloring, coloring	JLPT_1 JLPT
+着席	ちゃくせき	sit down, seat	JLPT_1 JLPT
+着目	ちゃくもく	attention	JLPT_1 JLPT
+着陸	ちゃくりく	landing, touch down	JLPT_1 JLPT
+着工	ちゃっこう	start of (construction) work	JLPT_1 JLPT
+茶の間	ちゃのま	living room (Japanese style)	JLPT_1 JLPT
+茶の湯	ちゃのゆ	tea ceremony	JLPT_1 JLPT
+ちやほや	ちやほや	pamper, make a fuss of, spoil	JLPT_1 JLPT
+チャンネル	チャンネル	a channel	JLPT_1 JLPT
+宙返り	ちゅうがえり	somersault, looping-the-loop	JLPT_1 JLPT
+中継	ちゅうけい	relay, hook-up	JLPT_1 JLPT
+忠告	ちゅうこく	advice, warning	JLPT_1 JLPT
+中傷	ちゅうしょう	slander, libel, defamation	JLPT_1 JLPT
+中枢	ちゅうすう	center, mainstay, nucleus	JLPT_1 JLPT
+抽選	ちゅうせん	lottery, raffle, drawing (of lots)	JLPT_1 JLPT
+中断	ちゅうだん	interruption, suspension, break	JLPT_1 JLPT
+中毒	ちゅうどく	poisoning	JLPT_1 JLPT
+中腹	ちゅうふく	mountain side, halfway up	JLPT_1 JLPT
+中立	ちゅうりつ	neutrality	JLPT_1 JLPT
+中和	ちゅうわ	neutralize, counteract	JLPT_1 JLPT
+～著	～ちょ	written by ~	JLPT_1 JLPT
+腸	ちょう	bowels, intestines	JLPT_1 JLPT
+蝶	ちょう	butterfly	JLPT_1 JLPT
+超	ちょう	super-, ultra-, hyper-	JLPT_1 JLPT
+調印	ちょういん	signature, sign, sealing	JLPT_1 JLPT
+聴覚	ちょうかく	the sense of hearing	JLPT_1 JLPT
+長官	ちょうかん	chief, (government) secretary	JLPT_1 JLPT
+聴講	ちょうこう	lecture attendance, auditing	JLPT_1 JLPT
+徴収	ちょうしゅう	collection, levy	JLPT_1 JLPT
+聴診器	ちょうしんき	stethoscope	JLPT_1 JLPT
+調停	ちょうてい	arbitration, conciliation, mediation	JLPT_1 JLPT
+重複	ちょうふく	duplication, repetition, overlapping, redundancy, restoration	JLPT_1 JLPT
+長編	ちょうへん	long (e.g., novel, film)	JLPT_1 JLPT
+重宝	ちょうほう	convenient, useful	JLPT_1 JLPT
+調理	ちょうり	cooking	JLPT_1 JLPT
+調和	ちょうわ	harmony	JLPT_1 JLPT
+ちょくちょく	ちょくちょく	often, frequently, now and then, occasionally	JLPT_1 JLPT
+直面	ちょくめん	confrontation	JLPT_1 JLPT
+著書	ちょしょ	literary work, book	JLPT_1 JLPT
+貯蓄	ちょちく	savings	JLPT_1 JLPT
+直感	ちょっかん	intuition, instinct	JLPT_1 JLPT
+著名	ちょめい	well-known, noted, celebrated	JLPT_1 JLPT
+ちらっと	ちらっと	at a glance, by accident	JLPT_1 JLPT
+塵	ちり	dust, dirt	JLPT_1 JLPT
+塵取り	ちりとり	dustpan	JLPT_1 JLPT
+賃金	ちんぎん	wages	JLPT_1 JLPT
+沈殿	ちんでん	precipitation, deposition, settlement	JLPT_1 JLPT
+沈没	ちんぼつ	sinking, foundering	JLPT_1 JLPT
+沈黙	ちんもく	silence, reticence	JLPT_1 JLPT
+陳列	ちんれつ	exhibition, display, show	JLPT_1 JLPT
+追及	ついきゅう	investigation, inquiry	JLPT_1 JLPT
+追跡	ついせき	pursuit	JLPT_1 JLPT
+追放	ついほう	exile, banishment	JLPT_1 JLPT
+費やす	ついやす	to spend, to devote, to waste	JLPT_1 JLPT
+墜落	ついらく	falling, crashing	JLPT_1 JLPT
+痛感	つうかん	feeling keenly, fully realizing	JLPT_1 JLPT
+通常	つうじょう	common, normal, usual	JLPT_1 JLPT
+痛切	つうせつ	keen, deep	JLPT_1 JLPT
+杖	つえ	cane	JLPT_1 JLPT
+使い道	つかいみち	use	JLPT_1 JLPT
+仕える	つかえる	to serve, to work for	JLPT_1 JLPT
+司る	つかさどる	to rule, to govern, to administer	JLPT_1 JLPT
+つかの間	つかのま	moment, brief time,	JLPT_1 JLPT
+月並	つきなみ	conventional, trite, common	JLPT_1 JLPT
+継目	つぎめ	joint, seam	JLPT_1 JLPT
+尽きる	つきる	to be used up, to be run out	JLPT_1 JLPT
+尽くす	つくす	to exhaust, to run out; to devote, to serve	JLPT_1 JLPT
+つくづく	つくづく	completely, really	JLPT_1 JLPT
+作り	つくり	make up, structure, physique	JLPT_1 JLPT
+造り	つくり	make up, structure, physique	JLPT_1 JLPT
+繕う	つくろう	to mend, to repair	JLPT_1 JLPT
+付け加える	つけくわえる	to add one thing to another	JLPT_1 JLPT
+告げる	つげる	to inform	JLPT_1 JLPT
+つじつま (はなしの～)	つじつま (はなしの～)	coherence, consistency	JLPT_1 JLPT
+筒	つつ	pipe, tube	JLPT_1 JLPT
+突く	つつく	to thrust, to strike, to attack; to poke, to nudge, to pick at	JLPT_1 JLPT
+突っ突く	つっつく	to prompt someone	JLPT_1 JLPT
+謹む	つつしむ	to be careful, to be chaste or discreet	JLPT_1 JLPT
+突っ張る	つっぱる	to support, to become stiff; to thrust (ones opponent), to stick to (ones opinion), to insist on	JLPT_1 JLPT
+務まる	つとまる	be equal, be fit	JLPT_1 JLPT
+勤め先	つとめさき	place of work	JLPT_1 JLPT
+努めて	つとめて	make an effort!, work hard!	JLPT_1 JLPT
+津波	つなみ	tsunami, tidal wave	JLPT_1 JLPT
+つねる	つねる	to pinch	JLPT_1 JLPT
+角	つの	horn	JLPT_1 JLPT
+募る	つのる	to invite, to solicit help, participation, etc	JLPT_1 JLPT
+唾	つば	saliva, spit, sputum	JLPT_1 JLPT
+呟く	つぶやく	to mutter, to murmur	JLPT_1 JLPT
+つぶら	つぶら	round, rotund	JLPT_1 JLPT
+つぶる (めを～)	つぶる (めを～)	to close the eyes	JLPT_1 JLPT
+壷	つぼ	jar, pot, vase	JLPT_1 JLPT
+蕾	つぼみ	bud, flower bud	JLPT_1 JLPT
+連なる	つらなる	to extend, to stretch out, to stand in a row	JLPT_1 JLPT
+貫く	つらぬく	to go through	JLPT_1 JLPT
+連ねる	つらねる	to link, to join, to put together	JLPT_1 JLPT
+釣り鐘	つりがね	temple bell (for striking)	JLPT_1 JLPT
+吊り革	つりかわ	strap	JLPT_1 JLPT
+手当	てあて	allowance, compensation; treatment	JLPT_1 JLPT
+定義	ていぎ	definition	JLPT_1 JLPT
+提供	ていきょう	offer, program sponsoring	JLPT_1 JLPT
+提携	ていけい	cooperation, tie-up, joint business	JLPT_1 JLPT
+体裁	ていさい	decency, style, form, appearance	JLPT_1 JLPT
+提示	ていじ	presentation, exhibit, suggest, citation	JLPT_1 JLPT
+ティシュペーパー	ティシュペーパー	tissue	JLPT_1 JLPT
+定食	ていしょく	fixed-price lunch, set meal, dinner	JLPT_1 JLPT Intermediate_Japanese_Ln.13 Intermediate_Japanese
+訂正	ていせい	correction, revision	JLPT_1 JLPT
+停滞	ていたい	stagnation, tie-up, congestion, retention	JLPT_1 JLPT
+邸宅	ていたく	mansion, residence	JLPT_1 JLPT
+定年	ていねん	retirement age	JLPT_1 JLPT
+堤防	ていぼう	bank, weir
+惑星	わくせい	planet	JLPT_1 JLPT
+技	わざ	art, technique	JLPT_1 JLPT
+わざわざ	わざわざ	take the trouble (to do), doing something especially rather than incidentally	JLPT_1 JLPT Intermediate_Japanese_Ln.9 Intermediate_Japanese
+煩わしい	わずらわしい	burdensome, troublesome, complicated	JLPT_1 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese
+渡り鳥	わたりどり	migratory bird, bird of passage	JLPT_1 JLPT
+ワット	ワット	watt	JLPT_1 JLPT
+詫び	わび	apology	JLPT_1 JLPT
+和文	わぶん	Japanese text, sentence in Japanese	JLPT_1 JLPT
+藁	わら	straw	JLPT_1 JLPT
+～割	～わり	~ percent	JLPT_1 JLPT
+割当	わりあて	allotment, allocation, quota	JLPT_1 JLPT
+割込む	わりこむ	to cut in, to disturb	JLPT_1 JLPT
+悪者	わるもの	bad fellow, rascal	JLPT_1 JLPT
+我	われ	me, oneself, self, ego	JLPT_1 JLPT
+捗る	はかどる	to make progress, to move right ahead (with the work), to advance	JLPT_1 JLPT
+はかない	はかない	short-lived, momentary, ephemeral	JLPT_1 JLPT
+ばかばかしい	ばかばかしい	stupid	JLPT_1 JLPT
+破棄	はき	revocation, annulment, breaking (e.g., treaty)	JLPT_1 JLPT
+剥ぐ	はぐ	to tear off, to peel off, to rip off	JLPT_1 JLPT
+迫害	はくがい	persecution	JLPT_1 JLPT
+薄弱	はくじゃく	feebleness, weakness, weak	JLPT_1 JLPT
+白状	はくじょう	confession	JLPT_1 JLPT
+漠然	ばくぜん	obscure, vague, equivocal	JLPT_1 JLPT
+爆弾	ばくだん	bomb	JLPT_1 JLPT
+爆破	ばくは	blast, explosion, blow up	JLPT_1 JLPT
+暴露	ばくろ	disclosure, exposure, revelation	JLPT_1 JLPT
+励ます	はげます	to encourage, to cheer, to raise (the voice)	JLPT_1 JLPT Intermediate_Japanese_Ln.13 Intermediate_Japanese
+励む	はげむ	to be zealous, to make an effort	JLPT_1 JLPT
+剥げる	はげる	to come off, to be worn off, to fade, to discolor	JLPT_1 JLPT
+化ける	ばける	to disguise, to take the form of	JLPT_1 JLPT
+派遣	はけん	dispatch, send	JLPT_1 JLPT
+恥	はじ	shame, embarrassment	JLPT_1 JLPT
+弾く	はじく	to play (piano, guitar)	JLPT_1 JLPT
+パジャマ	パジャマ	pajamas	JLPT_1 JLPT
+恥じらう	はじらう	to feel shy, to be bashful, to blush	JLPT_1 JLPT
+恥じる	はじる	to feel ashamed	JLPT_1 JLPT
+橋渡し	はしわたし	bridge building', mediation	JLPT_1 JLPT
+弾む	はずむ	to bounce, to be encouraged, to splurge on	JLPT_1 JLPT
+破損	はそん	damage	JLPT_1 JLPT
+叩く	はたく	to strike, to clap, to dust, to beat	JLPT_1 JLPT
+裸足	はだし	barefoot	JLPT_1 JLPT
+果たす	はたす	to accomplish, to fulfill, to carry out, to achieve	JLPT_1 JLPT
+蜂蜜	はちみつ	honey	JLPT_1 JLPT
+パチンコ	パチンコ	pachinko (Japanese pinball)	JLPT_1 JLPT
+罰	ばつ	punishment, penalty	JLPT_1 JLPT
+発育	はついく	(physical) growth, development	JLPT_1 JLPT
+発芽	はつが	germination	JLPT_1 JLPT
+発掘	はっくつ	excavation, exhumation; discovery (e.g., new talent)	JLPT_1 JLPT
+発言	はつげん	utterance, speech, proposal	JLPT_1 JLPT
+バッジ	バッジ	badge	JLPT_1 JLPT
+発生	はっせい	outbreak, spring forth, occurrence	JLPT_1 JLPT
+仕立てる	したてる	to tailor, to make, to prepare	JLPT_1 JLPT
+下取り	したどり	trade in, part exchange	JLPT_1 JLPT
+下火	したび	burning low, waning, declining	JLPT_1 JLPT
+実	じつ	fruit, good result	JLPT_1 JLPT
+実家	じっか	(one's parents') home	JLPT_1 JLPT
+失格	しっかく	disqualification, elimination, incapacity (legal)	JLPT_1 JLPT
+質疑	しつぎ	question	JLPT_1 JLPT
+失脚	しっきゃく	losing one's standing, being overthrown, falling	JLPT_1 JLPT
+実業家	じつぎょうか	industrialist, businessman	JLPT_1 JLPT
+シック	シック	chic	JLPT_1 JLPT
+じっくり	じっくり	deliberately, carefully	JLPT_1 JLPT
+躾	しつけ	discipline, training	JLPT_1 JLPT
+躾ける	しつける	to discipline, to teach manners	JLPT_1 JLPT
+実践	じっせん	practice, put into practice	JLPT_1 JLPT
+質素	しっそ	simplicity, modesty, frugality	JLPT_1 JLPT
+実態	じったい	truth, fact	JLPT_1 JLPT
+失調	しっちょう	lack of harmony, imbalance	JLPT_1 JLPT
+嫉妬	しっと	jealousy	JLPT_1 JLPT
+実費	じっぴ	actual expense, cost price	JLPT_1 JLPT
+指摘	してき	pointing out, identification	JLPT_1 JLPT
+自転	じてん	rotation, spin	JLPT_1 JLPT
+助動詞	じょどうし	auxiliary verb	JLPT_1 JLPT
+淑やか	しとやか	graceful	JLPT_1 JLPT
+萎びる	しなびる	to shrivel, to fade	JLPT_1 JLPT
+シナリオ	シナリオ	scenario	JLPT_1 JLPT
+しなやか	しなやか	supple, flexible, elastic	JLPT_1 JLPT
+屎尿	しにょう	human waste	JLPT_1 JLPT
+地主	じぬし	landlord	JLPT_1 JLPT
+凌ぐ	しのぐ	to outdo, to surpass; to endure	JLPT_1 JLPT
+芝	しば	lawn	JLPT_1 JLPT
+始発	しはつ	first train	JLPT_1 JLPT
+耳鼻科	じびか	otolaryngology	JLPT_1 JLPT
+私物	しぶつ	private property, personal effects	JLPT_1 JLPT
+しぶとい	しぶとい	tenacious, stubborn	JLPT_1 JLPT
+司法	しほう	administration of justice	JLPT_1 JLPT
+始末	しまつ	disposal; cleaning up afterwards	JLPT_1 JLPT
+染みる	しみる	to soak; pierce	JLPT_1 JLPT
+使命	しめい	mission, errand, message	JLPT_1 JLPT
+地元	じもと	local	JLPT_1 JLPT
+視野	しや	field of vision, outlook	JLPT_1 JLPT
+弱	じゃく	delicate, supple	JLPT_1 JLPT
+社交	しゃこう	social life	JLPT_1 JLPT
+ジャズ	ジャズ	jazz	JLPT_1 JLPT
+謝絶	しゃぜつ	refusal	JLPT_1 JLPT
+社宅	しゃたく	company owned house	JLPT_1 JLPT
+若干	じゃっかん	some, few, number of	JLPT_1 JLPT
+三味線	しゃみせん	three-stringed Japanese guitar	JLPT_1 JLPT
+斜面	しゃめん	slope, slanting surface, bevel	JLPT_1 JLPT
+砂利	じゃり	gravel, ballast, pebbles	JLPT_1 JLPT
+洒落る	しゃれる	to joke, to play on words; stylish	JLPT_1 JLPT
+ジャンパー	ジャンパー	jacket, jumper	JLPT_1 JLPT
+ジャンプ	ジャンプ	jump	JLPT_1 JLPT
+ジャンボ	ジャンボ	jumbo	JLPT_1 JLPT
+ジャンル	ジャンル	genre	JLPT_1 JLPT
+主	しゅ	owner, master, god	JLPT_1 JLPT
+種	しゅ	seed; variety	JLPT_1 JLPT
+私有	しゆう	private ownership	JLPT_1 JLPT
+～宗	～しゅう	sect	JLPT_1 JLPT
+収益	しゅうえき	earnings, proceeds, returns	JLPT_1 JLPT
+修学	しゅうがく	learning	JLPT_1 JLPT
+周期	しゅうき	cycle, period	JLPT_1 JLPT
+衆議院	しゅうぎいん	Lower House, House of Representatives	JLPT_1 JLPT
+就業	しゅうぎょう	employment, starting work	JLPT_1 JLPT
+従業員	じゅうぎょういん	employee, worker	JLPT_1 JLPT
+集計	しゅうけい	totalization, aggregate	JLPT_1 JLPT
+襲撃	しゅうげき	attack, charge, raid	JLPT_1 JLPT
+収支	しゅうし	income and expenditure	JLPT_1 JLPT
+終始	しゅうし	from beginning to end; consistent(ly)	JLPT_1 JLPT
+修士	しゅうし	Masters degree program	JLPT_1 JLPT
+従事	じゅうじ	engaging, pursuing, following	JLPT_1 JLPT
+終日	しゅうじつ	all day	JLPT_1 JLPT
+充実	じゅうじつ	fullness, perfection	JLPT_1 JLPT
+収集	しゅうしゅう	gathering up, collection	JLPT_1 JLPT
+十字路	じゅうじろ	crossroads	JLPT_1 JLPT
+執着	しゅうじゃく	attachment, adhesion, tenacity	JLPT_1 JLPT
+執着	しゅうちゃく	attachment, adhesion, tenacity	JLPT_1 JLPT
+柔軟	じゅうなん	flexible	JLPT_1 JLPT
+重複	じゅうふく	duplication, repetition, overlapping	JLPT_1 JLPT
+収容	しゅうよう	accommodation; seating; custody	JLPT_1 JLPT
+従来	じゅうらい	up to now, so far, traditional	JLPT_1 JLPT
+守衛	しゅえい	security guard, doorkeeper	JLPT_1 JLPT
+主演	しゅえん	starring, playing the leading part	JLPT_1 JLPT
+主観	しゅかん	subjectivity, subject, ego	JLPT_1 JLPT
+修行	しゅぎょう	pursuit of knowledge, training, ascetic practice	JLPT_1 JLPT
+塾	じゅく	after-school (cram) school	JLPT Intermediate_Japanese JLPT_1 Intermediate_Japanese_Ln.5 Genki_Ln.22 Genki
+祝賀	しゅくが	celebration, congratulations	JLPT_1 JLPT
+宿命	しゅくめい	fate, destiny, predestination	JLPT_1 JLPT
+手芸	しゅげい	handicrafts	JLPT_1 JLPT
+主権	しゅけん	sovereignty	JLPT_1 JLPT
+主催	しゅさい	organization, sponsorship, to host	JLPT_1 JLPT
+取材	しゅざい	coverage, collecting data	JLPT_1 JLPT
+趣旨	しゅし	object, meaning	JLPT_1 JLPT
+種々	しゅじゅ	variety	JLPT_1 JLPT
+主食	しゅしょく	staple food	JLPT_1 JLPT
+主人公	しゅじんこう	protagonist	JLPT_1 JLPT
+主体	しゅたい	subject, main constituent	JLPT_1 JLPT
+主題	しゅだい	subject, theme, motif	JLPT_1 JLPT
+出演	しゅつえん	leading performer, stage appearance	JLPT_1 JLPT
+出血	しゅっけつ	bleeding	JLPT_1 JLPT
+出現	しゅつげん	appearance, arrival	JLPT_1 JLPT
+出産	しゅっさん	childbirth	JLPT_1 Intermediate_Japanese_Ln.14 JLPT Intermediate_Japanese
+出社	しゅっしゃ	come to work	JLPT_1 JLPT
+出生	しゅっしょう	birth	JLPT_1 JLPT
+出生	しゅっせい	birth	JLPT_1 JLPT
+微量	びりょう	minuscule amount, extremely small quantity	JLPT_1 JLPT
+昼飯	ひるめし	lunch (mid-day meal)	JLPT_1 JLPT
+比例	ひれい	proportion	JLPT_1 JLPT
+疲労	ひろう	fatigue, weariness	JLPT_1 JLPT
+敏感	びんかん	sensibility, susceptibility, sensitive (to)	JLPT_1 JLPT
+貧困	ひんこん	poverty, lack	JLPT_1 JLPT
+品質	ひんしつ	quality	JLPT_1 JLPT
+貧弱	ひんじゃく	poor, meager, insubstantial	JLPT_1 JLPT
+品種	ひんしゅ	breed, type, variety	JLPT_1 JLPT
+ヒント	ヒント	hint	JLPT_1 JLPT
+頻繁	ひんぱん	frequency	JLPT_1 JLPT
+貧乏	びんぼう	poverty, destitute, poor	JLPT_1 JLPT
+ファイト	ファイト	fight	JLPT_1 JLPT
+ファイル	ファイル	file; portfolio	JLPT_1 Genki_Ln.16 JLPT Genki
+ファン	ファン	fan	JLPT_1 JLPT
+不意	ふい	sudden, abrupt, unexpected	JLPT_1 JLPT
+フィルタ	フィルタ	filter	JLPT_1 JLPT
+封	ふう	seal	JLPT_1 JLPT
+封鎖	ふうさ	blockade, freezing (funds)	JLPT_1 JLPT
+風車	ふうしゃ	windmill	JLPT_1 JLPT
+風習	ふうしゅう	custom	JLPT_1 JLPT
+風俗	ふうぞく	manners, customs; sex industry	JLPT_1 JLPT
+ブーツ	ブーツ	boots	JLPT_1 JLPT
+風土	ふうど	natural features, climate	JLPT_1 JLPT
+ブーム	ブーム	boom	JLPT_1 JLPT
+フォーム	フォーム	foam; form	JLPT_1 JLPT
+部下	ぶか	one's subordinate	JLPT Intermediate_Japanese JLPT_1 Intermediate_Japanese_Ln.9 Genki_Ln.22 Genki
+不可欠	ふかけつ	indispensable, essential	JLPT_1 JLPT
+ぶかぶか	ぶかぶか	too big, baggy	JLPT_1 JLPT
+不吉	ふきつ	ominous, sinister, bad luck, ill omen	JLPT_1 JLPT
+不況	ふきょう	recession, depression, slump	JLPT_1 JLPT
+布巾	ふきん	dish cloth	JLPT_1 JLPT
+複合	ふくごう	composite, complex	JLPT_1 JLPT
+福祉	ふくし	welfare, well-being	JLPT_1 JLPT
+覆面	ふくめん	mask, veil, disguise	JLPT_1 JLPT
+膨れる	ふくれる	to swell (out), to be inflated, to bulge	JLPT_1 JLPT
+不景気	ふけいき	business recession, hard times, depression	JLPT_1 JLPT
+耽る	ふける	to indulge in, to give oneself up to, to be absorbed in	JLPT_1 JLPT
+老ける	ふける	to age	JLPT_1 JLPT
+富豪	ふごう	wealthy person, millionaire	JLPT_1 JLPT
+布告	ふこく	edict, ordinance, proclamation	JLPT_1 JLPT
+ブザー	ブザー	buzzer	JLPT_1 JLPT
+負債	ふさい	debt, liabilities	JLPT_1 JLPT
+不在	ふざい	absence	JLPT_1 JLPT
+ふさわしい	ふさわしい	appropriate	JLPT_1 JLPT
+不順	ふじゅん	irregularity, unseasonableness	JLPT_1 JLPT
+負傷	ふしょう	injury, wound	JLPT_1 JLPT
+侮辱	ぶじょく	insult, contempt, slight	JLPT_1 JLPT
+不審	ふしん	suspicious, doubt, infidelity	JLPT_1 JLPT
+不振	ふしん	dullness, slump, stagnation	JLPT_1 JLPT
+武装	ぶそう	arms, armament, armed	JLPT_1 JLPT
+札	ふだ	token, label; ticket, card; charm, talisman	JLPT_1 JLPT
+負担	ふたん	burden; load	JLPT_1 Intermediate_Japanese_Ln.14 JLPT Intermediate_Japanese
+不調	ふちょう	bad condition, disorder, slump	JLPT_1 JLPT
+復活	ふっかつ	revival (e.g., musical), restoration	JLPT_1 JLPT
+物議	ぶつぎ	public discussion (criticism)	JLPT_1 JLPT
+復旧	ふっきゅう	restoration, restitution, rehabilitation	JLPT_1 JLPT
+復興	ふっこう	revival, renaissance, reconstruction	JLPT_1 JLPT
+物資	ぶっし	goods, materials	JLPT_1 JLPT
+仏像	ぶつぞう	Buddhist image (statue)	JLPT_1 JLPT
+物体	ぶったい	object	JLPT_1 JLPT
+沸騰	ふっとう	boiling, seething	JLPT_1 JLPT
+不当	ふとう	injustice, impropriety, unfair	JLPT_1 JLPT
+不動産	ふどうさん	real estate	JLPT_1 JLPT
+無難	ぶなん	safety, security	JLPT_1 JLPT
+赴任	ふにん	(proceeding to) new appointment	JLPT_1 JLPT
+腐敗	ふはい	decay, depravity	JLPT_1 JLPT
+不評	ふひょう	bad reputation, disgrace, unpopularity	JLPT_1 JLPT
+不服	ふふく	dissatisfaction, discontent, disapproval	JLPT_1 JLPT
+普遍	ふへん	universality, ubiquity, omnipresence	JLPT_1 JLPT
+踏まえる	ふまえる	to be based on, to have origin in	JLPT_1 JLPT
+踏み込む	ふみこむ	to step into (someone else's territory, to break into, to raid	JLPT_1 JLPT
+不明	ふめい	unknown, ambiguous	JLPT_1 JLPT
+部門	ぶもん	class, group, category, department, field, branch	JLPT_1 JLPT
+扶養	ふよう	support, maintenance	JLPT_1 JLPT
+ふらふら	ふらふら	unsteady on one's feet, totter, dizzy	JLPT_1 JLPT
+ぶらぶら	ぶらぶら	dangle heavily, sway to and fro, stroll idly	JLPT_1 JLPT
+振り返る	ふりかえる	to turn head, to turn around, to look back	JLPT_1 JLPT
+振り出し	ふりだし	outset, starting point, drawing or issuing (draft)	JLPT_1 JLPT
+不良	ふりょう	badness, delinquent, failure	JLPT_1 JLPT
+浮力	ふりょく	buoyancy	JLPT_1 JLPT
+武力	ぶりょく	armed might, military power, the sword, force	JLPT_1 JLPT
+ブル	ブル	bull	JLPT_1 JLPT
+震わせる	ふるわせる	to be shaking, to be trembling	JLPT_1 JLPT
+無礼	ぶれい	impolite, rude	JLPT_1 JLPT
+付録	ふろく	appendix, supplement	JLPT_1 JLPT
+フロント	フロント	front	JLPT_1 JLPT
+憤慨	ふんがい	indignation, resentment	JLPT_1 JLPT
+文化財	ぶんかざい	cultural assets, cultural property	JLPT_1 JLPT
+分業	ぶんぎょう	division of labor, specialization, assembly-line production	JLPT_1 JLPT
+文語	ぶんご	written language, literary language	JLPT_1 JLPT
+分散	ぶんさん	dispersion, decentralization, variance (statistics)	JLPT_1 JLPT
+分子	ぶんし	numerator, molecule	JLPT_1 JLPT
+紛失	ふんしつ	losing something	JLPT_1 JLPT
+噴出	ふんしゅつ	spewing, gushing, spouting	JLPT_1 JLPT
+文書	ぶんしょ	document, writing	JLPT_1 JLPT
+紛争	ふんそう	dispute, trouble, strife	JLPT_1 JLPT
+ふんだん	ふんだん	plentiful, abundant, lavish	JLPT_1 JLPT
+分担	ぶんたん	apportionment, sharing	JLPT_1 JLPT
+奮闘	ふんとう	hard struggle, strenuous effort	JLPT_1 JLPT
+分配	ぶんぱい	division, sharing	JLPT_1 JLPT
+分母	ぶんぼ	denominator	JLPT_1 JLPT
+粉末	ふんまつ	fine powder	JLPT_1 JLPT
+分離	ぶんり	separation, detachment, segregation	JLPT_1 JLPT
+分裂	ぶんれつ	split, division, break up	JLPT_1 JLPT
+ペア	ペア	pair, pear	JLPT_1 JLPT
+兵器	へいき	arms, weapons, ordinance	JLPT_1 JLPT
+閉口	へいこう	shut mouth	JLPT_1 JLPT
+閉鎖	へいさ	closing, closure, shutdown	JLPT_1 JLPT
+兵士	へいし	soldier	JLPT_1 JLPT
+平常	へいじょう	normal, usual	JLPT_1 JLPT
+平方	へいほう	square (e.g., meter, square)	JLPT_1 JLPT
+並列	へいれつ	arrangement, parallel, abreast	JLPT_1 JLPT
+ベース	ベース	base, bass	JLPT_1 JLPT
+辟易	へきえき	wince, shrink back, succumbing to, being frightened	JLPT_1 JLPT
+ぺこぺこ	ぺこぺこ	fawn, be very hungry	JLPT_1 JLPT
+ベスト	ベスト	best; vest	JLPT_1 JLPT
+ベストセラー	ベストセラー	best-seller	JLPT_1 JLPT
+隔たる	へだたる	to be distant	JLPT_1 JLPT
+縁	へり	edge	JLPT_1 JLPT
+へりくだる	へりくだる	to deprecate oneself and praise the listener	JLPT_1 JLPT
+弁解	べんかい	explanation, justification, excuse	JLPT_1 JLPT
+変革	へんかく	change, reform(the) Reformation	JLPT_1 JLPT
+返還	へんかん	return, restoration	JLPT_1 JLPT
+便宜	べんぎ	convenience, accommodation	JLPT_1 JLPT
+偏見	へんけん	prejudice, narrow view	JLPT_1 JLPT
+弁護	べんご	defense, pleading, advocacy	JLPT_1 JLPT
+返済	へんさい	repayment	JLPT_1 JLPT
+弁償	べんしょう	compensation, reparation, reimbursement	JLPT_1 JLPT
+変遷	へんせん	change, transition, vicissitudes	JLPT_1 JLPT
+返答	へんとう	reply	JLPT_1 JLPT
+変動	へんどう	change, fluctuation	JLPT_1 JLPT
+弁論	べんろん	discussion, debate, argument	JLPT_1 JLPT
+穂	ほ	ear (of plant), head (of plant)	JLPT_1 JLPT
+保育	ほいく	nursing, nurturing, rearing	JLPT_1 JLPT
+ボイコット	ボイコット	boycott	JLPT_1 JLPT
+ポイント	ポイント	point	JLPT_1 JLPT
+法案	ほうあん	bill (law)	JLPT_1 JLPT
+防衛	ぼうえい	defense, protection, self-defense	JLPT_1 JLPT
+防火	ぼうか	fire prevention, fire fighting, fire proof	JLPT_1 JLPT
+崩壊	ほうかい	collapse, decay (physics), crumbling	JLPT_1 JLPT
+妨害	ぼうがい	disturbance, obstruction, interference	JLPT_1 JLPT
+法学	ほうがく	law, jurisprudence	JLPT_1 JLPT
+封建	ほうけん	feudalistic	JLPT_1 JLPT
+豊作	ほうさく	abundant harvest, bumper crop	JLPT_1 JLPT
+方策	ほうさく	plan, policy	JLPT_1 JLPT
+奉仕	ほうし	attendance, service	JLPT_1 JLPT
+方式	ほうしき	form, method, system	JLPT_1 JLPT
+放射	ほうしゃ	radiation, emission	JLPT_1 JLPT
+放射能	ほうしゃのう	radioactivity	JLPT_1 JLPT
+報酬	ほうしゅう	remuneration, recompense, reward	JLPT_1 JLPT
+放出	ほうしゅつ	release, emit	JLPT_1 JLPT
+報じる	ほうじる	to inform, to report	JLPT_1 JLPT
+報ずる	ほうずる	to inform, to report	JLPT_1 JLPT
+紡績	ぼうせき	spinning	JLPT_1 JLPT
+呆然	ぼうぜん	dumbfounded, overcome with surprise	JLPT_1 JLPT
+放置	ほうち	leave as is, leave alone, neglect	JLPT_1 JLPT
+膨張	ぼうちょう	expansion, swelling, increase	JLPT_1 JLPT
+法廷	ほうてい	courtroom	JLPT_1 JLPT
+報道	ほうどう	coverage, report	JLPT_1 JLPT
+冒頭	ぼうとう	beginning, start, outset	JLPT_1 JLPT
+暴動	ぼうどう	insurrection, riot, uprising	JLPT_1 JLPT
+褒美	ほうび	reward, prize	JLPT_1 JLPT
+暴風	ぼうふう	storm, windstorm, gale	JLPT_1 JLPT
+葬る	ほうむる	to bury, to entomb	JLPT_1 JLPT
+放り込む	ほうりこむ	to throw into	JLPT_1 JLPT
+放り出す	ほうりだす	to throw out, to give up, to abandon	JLPT_1 JLPT
+暴力	ぼうりょく	violence	JLPT_1 JLPT
+飽和	ほうわ	saturation	JLPT_1 JLPT
+ホース	ホース	hose	JLPT_1 JLPT
+ポーズ	ポーズ	pause	JLPT_1 JLPT
+ホール	ホール	hall; hole	JLPT_1 JLPT
+保温	ほおん	retaining warmth, keeping heat in, heat insulation	JLPT_1 JLPT
+捕獲	ほかく	capture, seizure	JLPT_1 JLPT
+保管	ほかん	custody, safekeeping, storage	JLPT_1 JLPT
+補給	ほきゅう	supply, supplying, replenishment	JLPT_1 JLPT
+補強	ほきょう	reinforcement	JLPT_1 JLPT
+募金	ぼきん	fund-raising, collection of funds	JLPT_1 JLPT
+牧師	ぼくし	pastor, minister, clergyman	JLPT_1 JLPT
+捕鯨	ほげい	whaling	JLPT_1 JLPT
+惚ける	ぼける	to grow senile, to fade	JLPT_1 JLPT
+保険	ほけん	insurance, guarantee	JLPT_1 JLPT
+母校	ぼこう	alma mater	JLPT_1 JLPT
+母国	ぼこく	one's home country (same as 自分の国 (じぶんのくに))	JLPT_1 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese
+誇る	ほこる	to boast of, to be proud of	JLPT_1 JLPT
+綻びる	ほころびる	to come apart at the seams, to smile broadly	JLPT_1 JLPT
+干し～	ほし～	dried ~	JLPT_1 JLPT
+ポジション	ポジション	position	JLPT_1 JLPT
+干し物	ほしもの	dried washing (clothes	JLPT_1 JLPT
+保守	ほしゅ	conservative, maintaining	JLPT_1 JLPT
+補充	ほじゅう	supplementation, replenishment, replenishing	JLPT_1 JLPT
+補助	ほじょ	assistance, support, auxiliary	JLPT_1 JLPT
+舗装	ほそう	pavement, road surface	JLPT_1 JLPT
+補足	ほそく	supplement, complement	JLPT_1 JLPT
+墓地	ぼち	cemetery, graveyard	JLPT_1 JLPT
+発作	ほっさ	fit, attack	JLPT_1 JLPT
+没収	ぼっしゅう	forfeited	JLPT_1 JLPT
+発足	ほっそく	starting, inauguration	JLPT_1 JLPT
+ポット	ポット	pot	JLPT_1 JLPT
+ほっぺた	ほっぺた	cheek	JLPT_1 JLPT
+ぼつぼつ	ぼつぼつ	gradually, here and there, spots	JLPT_1 JLPT
+没落	ぼつらく	ruin, fall, collapse	JLPT_1 JLPT
+解ける	ほどける	to come untied, to come apart	JLPT_1 JLPT
+施す	ほどこす	to give, to conduct, to perform	JLPT_1 JLPT
+ほとり	ほとり	vicinity of lake; river	JLPT_1 JLPT
+ぼやく	ぼやく	to grumble, to complain	JLPT_1 JLPT
+ぼやける	ぼやける	to become dim, to become blurred	JLPT_1 JLPT
+保養	ほよう	health preservation, recuperation, recreation	JLPT_1 JLPT
+捕虜	ほりょ	prisoner of war	JLPT_1 JLPT
+ボルト	ボルト	volt; bolt	JLPT_1 JLPT
+滅びる	ほろびる	to be ruined, to perish, to be destroyed	JLPT_1 JLPT
+滅ぼす	ほろぼす	to destroy, to overthrow, to ruin	JLPT_1 JLPT
+本格	ほんかく	propriety, full-scale	JLPT_1 JLPT
+本館	ほんかん	main building	JLPT_1 JLPT
+本気	ほんき	seriousness, truth, sanctity	JLPT_1 JLPT
+本国	ほんごく	one's own country	JLPT_1 JLPT
+本質	ほんしつ	essence, true nature, reality	JLPT_1 JLPT
+本体	ほんたい	substance, body, trunk	JLPT_1 JLPT
+本音	ほんね	(one's) real intention, motive	JLPT_1 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese
+本能	ほんのう	instinct	JLPT_1 JLPT
+本場	ほんば	home, best place, genuine	JLPT_1 JLPT
+ポンプ	ポンプ	pump	JLPT_1 JLPT
+本文	ほんぶん	text (of document), body (of letter)	JLPT_1 JLPT
+本名	ほんみょう	real name	JLPT_1 JLPT
+マーク	マーク	mark	JLPT_1 JLPT
+マイ～	マイ～	my ~, one's own ~	JLPT_1 JLPT
+マイクロフォン	マイクロフォン	microphone	JLPT_1 JLPT
+埋蔵	まいぞう	buried property, treasure trove	JLPT_1 JLPT
+舞う	まう	to dance, to flutter about, to revolve	JLPT_1 JLPT
+真上	まうえ	just above, right overhead	JLPT_1 JLPT
+前売	まえうり	advance sale, booking	JLPT_1 JLPT
+無念	むねん	chagrin, regret	JLPT_1 JLPT
+無能	むのう	inefficiency, incompetence	JLPT_1 JLPT
+無闇に	むやみに	unreasonably, absurdly, at random	JLPT_1 JLPT
+無用	むよう	useless, needlessness, unnecessariness	JLPT_1 JLPT
+斑	むら	unevenness, inconsistency, irregularity	JLPT_1 JLPT
+群がる	むらがる	to swarm, to gather	JLPT_1 JLPT
+無論	むろん	of course, naturally	JLPT_1 JLPT
+名産	めいさん	noted product	JLPT_1 JLPT
+名称	めいしょう	name	JLPT_1 JLPT
+命中	めいちゅう	a hit	JLPT_1 JLPT
+明白	めいはく	obvious, clear	JLPT_1 JLPT
+名簿	めいぼ	register of names	JLPT_1 JLPT
+名誉	めいよ	honor, credit, prestige	JLPT_1 JLPT
+明瞭	めいりょう	clarity	JLPT_1 JLPT
+明朗	めいろう	bright, clear, cheerful	JLPT_1 JLPT
+メーカー	メーカー	manufacturer	JLPT_1 JLPT
+目方	めかた	weight	JLPT_1 JLPT
+恵み	めぐみ	blessing	JLPT_1 JLPT
+恵む	めぐむ	to bless, to show mercy to	JLPT_1 JLPT
+目覚しい	めざましい	brilliant, remarkable	JLPT_1 JLPT
+目覚める	めざめる	to wake up	JLPT_1 JLPT
+召す	めす	to call, to send for, to put on	JLPT_1 JLPT
+雌	めす	female (animal)	JLPT_1 JLPT
+目付き	めつき	look, expression of the eyes, eyes	JLPT_1 JLPT
+滅亡	めつぼう	downfall, collapse, destruction	JLPT_1 JLPT
+メディア	メディア	media	JLPT_1 JLPT
+目途	めど	goal, outlook	JLPT_1 JLPT
+目盛	めもり	scale, gradations	JLPT_1 JLPT
+メロディー	メロディー	melody	JLPT_1 JLPT
+面会	めんかい	interview	JLPT_1 JLPT
+免除	めんじょ	exemption, exoneration, discharge	JLPT_1 JLPT
+面する	めんする	to face on, to look out on to	JLPT_1 JLPT
+面目	めんぼく	face, honor, reputation	JLPT_1 JLPT
+面目	めんもく	face, honor, reputation	JLPT_1 JLPT
+～網	～もう	~ network	JLPT_1 JLPT
+設ける	もうける	to create, to establish	JLPT_1 JLPT
+申し入れる	もうしいれる	to propose, to suggest	JLPT_1 JLPT
+申込	もうしこみ	application, request, proposal	JLPT_1 JLPT
+申出	もうしで	request, claim, report	JLPT_1 JLPT
+申し出る	もうしでる	to report to, to tell, to suggest	JLPT_1 JLPT
+申し分	もうしぶん	objection, shortcomings	JLPT_1 JLPT
+盲点	もうてん	blind spot	JLPT_1 JLPT
+猛烈	もうれつ	violent, vehement, rage	JLPT_1 JLPT
+モーテル	モーテル	motel	JLPT_1 JLPT
+もがく	もがく	to struggle, to wriggle, to be impatient	JLPT_1 JLPT
+目録	もくろく	catalogue, catalog, list	JLPT_1 JLPT
+目論見	もくろみ	a plan, a scheme, intention	JLPT_1 JLPT
+模型	もけい	model, dummy, marquette	JLPT_1 JLPT
+模索	もさく	groping (for)	JLPT_1 JLPT
+もしかして	もしかして	perhaps, possibly	JLPT_1 JLPT
+もしくは	もしくは	or, otherwise	JLPT_1 JLPT
+もたらす	もたらす	to bring, to take, to bring about	JLPT_1 JLPT
+持ち切り	もちきり	hot topic, talk of the town	JLPT_1 JLPT
+目下	もっか	at present, now	JLPT_1 JLPT
+専ら	もっぱら	wholly, solely, entirely	JLPT_1 JLPT
+もてなす	もてなす	to entertain, to make welcome	JLPT_1 JLPT
+もてる	もてる	to be well liked, to be popular	JLPT_1 JLPT
+モニター	モニター	(computer) monitor	JLPT_1 JLPT
+物好き	ものずき	(idle) curiosity	JLPT_1 JLPT
+物足りない	ものたりない	unsatisfied, unsatisfactory	JLPT_1 JLPT
+もはや	もはや	already, now	JLPT_1 JLPT
+模範	もはん	model, example	JLPT_1 JLPT
+模倣	もほう	imitation, copying	JLPT_1 JLPT
+もめる	もめる	to disagree, to dispute	JLPT_1 JLPT
+股	もも	thigh, femur	JLPT_1 JLPT
+腿	もも	thigh, femur	JLPT_1 JLPT
+催す	もよおす	to hold (a meeting), to give (a dinner)	JLPT_1 JLPT
+漏らす	もらす	to let leak, to reveal	JLPT_1 JLPT
+盛り上がる	もりあがる	to rouse, to swell, to rise	JLPT_1 JLPT
+漏る	もる	to leak, to run out	JLPT_1 JLPT
+漏れる	もれる	to leak out, to escape, to filter out	JLPT_1 JLPT
+脆い	もろい	brittle, fragile, tender-hearted	JLPT_1 JLPT
+もろに	もろに	completely, altogether, bodily	JLPT_1 JLPT
+矢	や	arrow	JLPT_1 JLPT
+野外	やがい	fields, outskirts, open air, suburbs	JLPT_1 JLPT
+～薬	～やく	medicine	JLPT_1 JLPT
+夜具	やぐ	bedding	JLPT_1 JLPT
+役職	やくしょく	post, managerial position, official position	JLPT_1 JLPT
+役場	やくば	town hall	JLPT_1 JLPT
+やけに	やけに	sure, very	JLPT_1 JLPT
+屋敷	やしき	mansion	JLPT_1 JLPT
+養う	やしなう	to rear, to maintain, to cultivate	JLPT_1 JLPT
+野心	やしん	ambition, aspiration	JLPT_1 JLPT
+安っぽい	やすっぽい	cheap-looking, tawdry	JLPT_1 JLPT
+休める	やすめる	to rest, to suspend, to give relief	JLPT_1 JLPT
+野生	やせい	wild	JLPT_1 JLPT
+奴	やつ	(vulg.) fellow, guy, chap	JLPT_1 JLPT
+闇	やみ	darkness, shady, illegal	JLPT_1 JLPT
+病む	やむ	to fall ill, to be ill	JLPT_1 JLPT
+ややこしい	ややこしい	puzzling, tangled, complicated, complex	JLPT_1 JLPT
+やりとおす	やりとおす	to carry through, to achieve, to complete	JLPT_1 JLPT
+やりとげる	やりとげる	to accomplish	JLPT_1 JLPT
+和らげる	やわらげる	to soften, to moderate, to relieve	JLPT_1 JLPT
+ヤング	ヤング	young	JLPT_1 JLPT
+～油	～ゆ	~ oil	JLPT_1 JLPT
+優位	ゆうい	predominance, ascendancy, superiority	JLPT_1 JLPT
+憂鬱	ゆううつ	depression, melancholy	JLPT_1 JLPT
+有益	ゆうえき	beneficial, profitable	JLPT_1 JLPT
+優越	ゆうえつ	supremacy, predominance, being superior to	JLPT_1 JLPT
+勇敢	ゆうかん	bravery, heroism, gallantry	JLPT_1 JLPT
+夕暮れ	ゆうぐれ	evening, (evening) twilight	JLPT_1 JLPT
+融資	ゆうし	financing, loan	JLPT_1 JLPT
+有する	ゆうする	to own, to be endowed with	JLPT_1 JLPT
+優勢	ゆうせい	superiority, superior power, predominance	JLPT_1 JLPT
+優先	ゆうせん	preference, priority	JLPT_1 JLPT
+誘導	ゆうどう	guidance, leading, inducement	JLPT_1 JLPT
+融通	ゆうずう	adaptability, versatility, finance	JLPT_1 JLPT
+優美	ゆうび	grace, refinement, elegance	JLPT_1 JLPT
+有望	ゆうぼう	good prospects, full of hope, promising	JLPT_1 JLPT
+遊牧	ゆうぼく	nomadism	JLPT_1 JLPT
+夕焼け	ゆうやけ	sunset	JLPT_1 JLPT
+有力	ゆうりょく	influence, prominence; potent	JLPT_1 JLPT
+幽霊	ゆうれい	ghost, specter, phantom	JLPT_1 JLPT
+誘惑	ゆうわく	temptation, allurement, lure	JLPT_1 JLPT
+故	ゆえ	reason, cause, circumstances	JLPT_1 JLPT
+歪む	ゆがむ	to warp, to be crooked, to be distorted	JLPT_1 JLPT
+揺さぶる	ゆさぶる	to shake, to jolt, to rock, to swing	JLPT_1 JLPT
+濯ぐ	ゆすぐ	to rinse, to wash out	JLPT_1 JLPT
+ゆとり	ゆとり	reserve, affluence, time (to spare)	JLPT_1 JLPT
+ユニーク	ユニーク	unique	JLPT_1 JLPT
+ユニフォーム	ユニフォーム	uniform	JLPT_1 JLPT
+指差す	ゆびさす	to point at	JLPT_1 JLPT
+弓	ゆみ	bow	JLPT_1 JLPT
+揺らぐ	ゆらぐ	to swing, to sway, to shake	JLPT_1 JLPT
+緩む	ゆるむ	to become loose, to slacken	JLPT_1 JLPT
+緩める	ゆるめる	to loosen, to slow down	JLPT_1 JLPT
+緩やか	ゆるやか	lenient	JLPT_1 JLPT
+要因	よういん	primary factor, main cause	JLPT_1 JLPT
+溶液	ようえき	solution	JLPT_1 JLPT
+用件	ようけん	business	JLPT_1 JLPT
+養護	ようご	protection, nursing, protective care	JLPT_1 JLPT
+用紙	ようし	a form	JLPT_1 JLPT Intermediate_Japanese Intermediate_Japanese_Ln.3
+様式	ようしき	style, form, pattern	JLPT_1 JLPT
+要する	ようする	to demand, to require, to take	JLPT_1 JLPT
+要請	ようせい	claim, demand, request, application	JLPT_1 JLPT
+様相	ようそう	aspect	JLPT_1 JLPT
+用品	ようひん	articles, supplies, parts	JLPT_1 JLPT
+洋風	ようふう	western style	JLPT_1 JLPT
+用法	ようほう	directions, rules of use	JLPT_1 JLPT
+要望	ようぼう	demand for, request	JLPT_1 JLPT
+余暇	よか	leisure, leisure time, spare time	JLPT_1 JLPT
+予感	よかん	presentiment, premonition	JLPT_1 JLPT
+余興	よきょう	side show, entertainment	JLPT_1 JLPT
+預金	よきん	deposit, bank account	JLPT_1 JLPT
+欲	よく	greed, wants	JLPT_1 JLPT
+抑圧	よくあつ	restraint, oppression, suppression	JLPT_1 JLPT
+浴室	よくしつ	bathroom, bath	JLPT_1 JLPT
+抑制	よくせい	control, restraint, suppression	JLPT_1 JLPT
+欲深い	よくふかい	greedy	JLPT_1 JLPT
+欲望	よくぼう	desire, appetite	JLPT_1 JLPT Intermediate_Japanese_Ln.13 Intermediate_Japanese
+避ける	よける	to avoid (physical contact with; to ward off, to avert	JLPT_1 JLPT
+予言	よげん	prediction, promise, prognostication	JLPT_1 JLPT
+横綱	よこづな	sumo grand champion	JLPT_1 JLPT
+汚れ	よごれ	dirt, filth	JLPT_1 JLPT
+よし (かん)	よし (かん)	all right!	JLPT_1 JLPT
+良し	よし	all right!	JLPT_1 JLPT
+善し悪し	よしあし	good or bad, merits or demerits, quality	JLPT_1 JLPT
+余所見	よそみ	looking away, looking aside	JLPT_1 JLPT
+余地	よち	place, room, margin	JLPT_1 JLPT
+よって (よりどころ)	よって (よりどころ)	therefore, consequently	JLPT_1 JLPT
+与党	よとう	government party, (ruling) party in power, government	JLPT_1 JLPT
+呼び止める	よびとめる	to flag down	JLPT_1 Intermediate_Japanese_Ln.6 JLPT Intermediate_Japanese
+夜更し	よふかし	staying up late, keeping late hours	JLPT_1 JLPT
+夜更け	よふけ	late at night	JLPT_1 JLPT
+余程	よほど	very, much, to a large extent, quite	JLPT_1 JLPT
+読み上げる	よみあげる	to read out loud (and clearly), to call a roll	JLPT_1 JLPT
+～寄り	～より	near to ~ (e.g., North by East)	JLPT_1 JLPT
+寄り掛かる	よりかかる	to lean against, to recline on, to lean on, to rely on	JLPT_1 JLPT
+世論	よろん	public opinion	JLPT_1 JLPT
+弱る	よわる	to weaken, to be troubled, to be emaciated	JLPT_1 JLPT
+来場	らいじょう	attendance	JLPT_1 JLPT
+ライス	ライス	rice	JLPT_1 JLPT
+酪農	らくのう	dairy farming	JLPT_1 JLPT
+落下	らっか	fall, drop, come down	JLPT_1 JLPT
+楽観	らっかん	optimism	JLPT_1 JLPT
+ランプ	ランプ	lamp; ramp	JLPT_1 JLPT
+濫用	らんよう	abuse, misuse, using to excess	JLPT_1 JLPT
+リード	リード	lead; reed	JLPT_1 JLPT
+理屈	りくつ	theory, reason	JLPT_1 JLPT
+利子	りし	interest (bank)	JLPT_1 JLPT
+利潤	りじゅん	profit, returns	JLPT_1 JLPT
+理性	りせい	reason, sense	JLPT_1 JLPT
+利息	りそく	interest (bank)	JLPT_1 JLPT
+立体	りったい	solid body	JLPT_1 JLPT
+立方	りっぽう	cube	JLPT_1 JLPT
+立法	りっぽう	legislation, lawmaking	JLPT_1 JLPT
+利点	りてん	advantage, point in favor	JLPT_1 JLPT
+略奪	りゃくだつ	pillage, looting, robbery	JLPT_1 JLPT
+略語	りゃくご	abbreviation, acronym	JLPT_1 JLPT
+流通	りゅうつう	circulation of money or goods, distribution	JLPT_1 JLPT
+領域	りょういき	area, territory, region	JLPT_1 JLPT
+了解	りょうかい	comprehension, consent, understanding	JLPT_1 JLPT
+領海	りょうかい	territorial waters	JLPT_1 JLPT
+両極	りょうきょく	both extremities, north and south poles	JLPT_1 JLPT
+良好	りょうこう	favorable, satisfactory	JLPT_1 JLPT
+良識	りょうしき	good sense	JLPT_1 JLPT
+良質	りょうしつ	good quality, superior quality	JLPT_1 JLPT
+了承	りょうしょう	acknowledgment, understanding	JLPT_1 JLPT
+良心	りょうしん	conscience	JLPT_1 JLPT
+領地	りょうち	territory	JLPT_1 JLPT
+領土	りょうど	territory, possession	JLPT_1 JLPT
+両立	りょうりつ	compatibility, coexistence, standing together	JLPT_1 JLPT
+旅客	りょかく	passenger	JLPT_1 JLPT
+旅券	りょけん	passport	JLPT_1 JLPT
+履歴	りれき	personal history, background, log	JLPT_1 JLPT
+理論	りろん	theory	JLPT_1 JLPT
+林業	りんぎょう	forestry	JLPT_1 JLPT
+類	るい	kind, class, family	JLPT_1 JLPT
+類推	るいすい	analogy	JLPT_1 JLPT
+類似	るいじ	analogous	JLPT_1 JLPT
+ルーズ	ルーズ	loose	JLPT_1 JLPT
+冷酷	れいこく	cruelty, coldheartedness, ruthless	JLPT_1 JLPT
+冷蔵	れいぞう	refrigeration	JLPT_1 JLPT
+冷淡	れいたん	coolness, indifference	JLPT_1 JLPT
+レース	レース	race; lace	JLPT_1 JLPT
+レギュラー	レギュラー	regular	JLPT_1 JLPT
+レッスン	レッスン	lesson	JLPT_1 JLPT
+レディー	レディー	lady	JLPT_1 JLPT
+レバー	レバー	lever; liver	JLPT_1 JLPT
+恋愛	れんあい	love, romance	JLPT_1 JLPT
+バッテリー	バッテリー	battery	JLPT_1 JLPT
+バット	バット	bat, vat	JLPT_1 JLPT
+発病	はつびょう	attack, to become sick	JLPT_1 JLPT
+初耳	はつみみ	something heard for the first time	JLPT_1 JLPT
+果て	はて	the end, the extremity, the limit(s)	JLPT_1 JLPT
+果てる	はてる	to end, to be finished, to be exhausted	JLPT_1 JLPT
+ばてる	ばてる	to be exhausted, to be worn out	JLPT_1 JLPT
+パトカー	パトカー	patrol car	JLPT_1 JLPT
+甚だ	はなはだ	very, greatly, exceedingly	JLPT_1 JLPT
+華々しい	はなばなしい	brilliant, magnificent, spectacular	JLPT_1 JLPT
+花びら	はなびら	(flower) petal	JLPT_1 JLPT
+華やか	はなやか	brilliant, gorgeous, florid	JLPT_1 JLPT
+阻む	はばむ	to keep someone from doing, to stop, to oppose	JLPT_1 JLPT
+浜	はま	beach, seashore	JLPT_1 JLPT
+浜辺	はまべ	beach, foreshore	JLPT_1 JLPT
+はまる	はまる	to get into, to go into, to fit, to be fit for, to suit	JLPT_1 JLPT
+早める	はやめる	to hasten, to quicken, to accelerate	JLPT_1 JLPT
+腹立ち	はらだち	anger	JLPT_1 JLPT
+原っぱ	はらっぱ	open field, empty lot, plain	JLPT_1 JLPT
+はらはら	はらはら	feel nervous	JLPT_1 JLPT
+ばらまく	ばらまく	to disseminate, to scatter	JLPT_1 JLPT
+張り紙	はりがみ	notice, poster	JLPT_1 JLPT
+遥か	はるか	far, far-away, distant	JLPT_1 JLPT
+破裂	はれつ	explosion, rupture, break off	JLPT_1 JLPT
+腫れる	はれる	to swell (from inflammation, to become swollen)	JLPT_1 JLPT
+繁栄	はんえい	prospering, prosperity, flourishing	JLPT_1 JLPT
+版画	はんが	art print	JLPT_1 JLPT
+ハンガー	ハンガー	(coat) hanger	JLPT_1 JLPT
+反感	はんかん	antipathy, revolt, animosity	JLPT_1 JLPT
+反響	はんきょう	echo, reverberation, repercussion	JLPT_1 JLPT
+パンク	パンク	puncture, bursting; punk	JLPT_1 JLPT
+反撃	はんげき	counterattack, counteroffensive, counterblow	JLPT_1 JLPT
+判決	はんけつ	judicial decision, judgment, sentence, decree	JLPT_1 JLPT
+反射	はんしゃ	reflection, reverberation	JLPT_1 JLPT
+繁盛	はんじょう	prosperity, flourishing, thriving	JLPT_1 JLPT
+繁殖	はんしょく	breed, multiply, propagation	JLPT_1 JLPT
+反する	はんする	to be inconsistent with, to oppose, to contradict	JLPT_1 JLPT
+判定	はんてい	judgment, decision, award, verdict	JLPT_1 JLPT
+万人	ばんにん	all people, everybody, 10000 people	JLPT_1 JLPT
+晩年	ばんねん	(one's) last years	JLPT_1 JLPT
+反応	はんのう	reaction, response	JLPT_1 JLPT
+万能	ばんのう	all-purpose, almighty, omnipotent	JLPT_1 JLPT
+半端	はんぱ	fragment, fraction, incompleteness	JLPT_1 JLPT
+反発	はんぱつ	repelling, rebound, oppose	JLPT_1 JLPT
+反乱	はんらん	rebellion, revolt, uprising	JLPT_1 JLPT
+氾濫	はんらん	overflowing, flood	JLPT_1 JLPT
+美	び	beauty	JLPT_1 JLPT
+ひいては	ひいては	not only…but also, in addition to, consequently	JLPT_1 JLPT
+ビールス	ビールス	virus	JLPT_1 JLPT
+控室	ひかえしつ	waiting room	JLPT_1 JLPT
+控える	ひかえる	to hold back; to make notes	JLPT_1 JLPT
+悲観	ひかん	pessimism, disappointment	JLPT_1 JLPT
+引き上げる	ひきあげる	to withdraw, to leave, to pull out	JLPT_1 JLPT
+率いる	ひきいる	to lead, to spearhead (a group), to command (troops)	JLPT_1 JLPT
+引き起こす	ひきおこす	to cause	JLPT_1 JLPT
+引下げる	ひきさげる	to pull down, to lower, to reduce, to withdraw	JLPT_1 JLPT
+引きずる	ひきずる	to drag along, to pull, to prolong	JLPT_1 JLPT
+引取る	ひきとる	to take back; to adopt; to leave	JLPT_1 JLPT
+否決	ひけつ	rejection, negation, voting down	JLPT_1 JLPT
+日頃	ひごろ	normally, habitually	JLPT_1 JLPT
+久しい	ひさしい	long, long-continued, old (story)	JLPT_1 JLPT
+悲惨	ひさん	tragedy, disaster; misery, wretched, pitiful	JLPT_1 JLPT
+ビジネス	ビジネス	business	JLPT JLPT_1 Genki_Ln.2 Genki_Ln.1 Genki
+比重	ひじゅう	specific gravity	JLPT_1 JLPT
+美術	びじゅつ	art, fine arts	JLPT_1 JLPT
+秘書	ひしょ	(private) secretary	JLPT_1 JLPT
+微笑	びしょう	smile	JLPT_1 JLPT
+歪む	ひずむ	to warp, to be distorted	JLPT_1 JLPT
+密か	ひそか	secret, private, surreptitious	JLPT_1 JLPT
+浸す	ひたす	to soak, to dip, to drench	JLPT_1 JLPT
+ひたすら	ひたすら	nothing but, earnestly, intently	JLPT_1 JLPT
+左利き	ひだりきき	left-handedness, sake drinker, left-hander	JLPT_1 JLPT
+引っ掻く	ひっかく	to scratch	JLPT_1 JLPT
+必修	ひっしゅう	required (subject)	JLPT_1 JLPT
+びっしょり	びっしょり	wet through, drenched	JLPT_1 JLPT
+必然	ひつぜん	inevitable, necessary	JLPT_1 JLPT
+匹敵	ひってき	comparing with, rival, equal	JLPT_1 JLPT
+一息	ひといき	a breath, a pause, an effort	JLPT_1 JLPT
+人影	ひとかげ	man's shadow, soul	JLPT_1 JLPT
+人柄	ひとがら	personality, character	JLPT_1 JLPT
+人気	ひとけ	sign of life	JLPT_1 JLPT
+一頃	ひところ	once, some time ago	JLPT_1 JLPT
+人質	ひとじち	hostage	JLPT_1 JLPT
+一筋	ひとすじ	a line, earnestly, blindly, straightforwardly	JLPT_1 JLPT
+人目	ひとめ	glimpse, public gaze	JLPT_1 JLPT
+日取り	ひどり	fixed date, appointed day	JLPT_1 JLPT
+雛	ひな	young bird, chick, doll	JLPT_1 JLPT
+雛祭	ひなまつり	Girls' (dolls') Festival	JLPT_1 JLPT
+日向	ひなた	sunny place, in the sun	JLPT_1 JLPT
+非難	ひなん	blame, attack, criticism	JLPT_1 JLPT
+避難	ひなん	taking refuge, finding shelter	JLPT_1 JLPT
+日の丸	ひのまる	the Japanese flag	JLPT_1 JLPT
+火花	ひばな	spark	JLPT_1 JLPT
+ひび (かべの～)	ひび (かべの～)	crack, fissure, flaw	JLPT_1 JLPT
+悲鳴	ひめい	shriek, scream	JLPT_1 JLPT
+冷やかす	ひやかす	to banter, to make fun of, to jeer at, to cool, to refrigerate	JLPT_1 JLPT
+日焼け	ひやけ	sunburn	JLPT_1 JLPT
+標語	ひょうご	motto, slogan, catchword	JLPT_1 JLPT
+描写	びょうしゃ	depiction, description, portrayal	JLPT_1 JLPT
+ひょっと	ひょっと	possibly, accidentally	JLPT_1 JLPT
+びら	びら	handout, leaflet	JLPT_1 JLPT
+平たい	ひらたい	flat, even, level	JLPT_1 JLPT
+びり	びり	last on the list, at the bottom	JLPT_1 JLPT
+比率	ひりつ	ratio, proportion, percentage	JLPT_1 JLPT
