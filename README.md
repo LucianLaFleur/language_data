@@ -8,6 +8,11 @@ A target for a given sentence is what the student is intended to learn by practi
 Sentences need to be organized in such a manner that makes the overall structure appropriate for their level while consistently introducing them to new material.
 To achieve this balance, I use reference lists to prioritize terms and grammar concepts in relative orders of difficulty (this is my square-1 starting point for any language) 
 
+### Mandarin Chinese ---
+
+- All Anki Cloze document shows sentences added to study decks in anki-compatable import format for the clozes.
+- Added sentences is incomplete, and may include sentences that are not sorted to their appropriate level, and therefore not yet included in a proper study deck.
+
 ### Japanese ---
 
 - the JPNT "N" system
