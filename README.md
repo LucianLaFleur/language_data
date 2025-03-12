@@ -15,6 +15,9 @@ To achieve this balance, I use reference lists to prioritize terms and grammar c
 
 ### Japanese ---
 
+- **jpn_sent_tatoeba_aud** is an unorganized list of japanese sentences with audio (followed by their audio resource links).
+  (intended for use in searching for an example word, alongside having google translate in another window) 
+
 - the JPNT "N" system
 In the JLPT (Japanese Language Proficiency Test) there are 5 tiers, which I'll roughly sum up as:
 - N5: very basic (and probably not able to string together a sentence)
@@ -43,8 +46,7 @@ grammarConceptCollection.txt is ordered from easy to hard, but not in a point-by
 - Japanese Kanji
 Although I try to balance kanji associated with each level in the N-tier system, I have 2 extra lists:
 
-- joyoukanji full - the common-use kanji, which are considered common knowledge for fluency
-
-- 10k kanji based on simplicity - an expanded list of a lot of kanji including many obscure items for advanced study
+- **joyoukanji full** - the common-use kanji, which are considered common knowledge for fluency
+- **10k kanji based on simplicity** - an expanded list of a lot of kanji including many obscure items for advanced study
 
 
