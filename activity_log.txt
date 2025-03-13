@@ -1,9 +1,19 @@
 
 
-Upcoming - JLPT and Joyou reference lists
 
+
+(most updates will only be tracked offline on the related discord and not here)
 
 ----
+3/13:
+- JLPT and Japanese Joyou reference lists confirmed
+- Resources for chinese voice lines from games (Genshin, Star Rail, Arknights) added in the characters_already_scanned list; tracking who I've already looked over for audio data.
+
+3/12 
+~ 170 sentences are in the staging area, undergoing revision before adding to the active deck (salvaging poorly structured cards from before I organized things well)
+(I have a lot of cleaning up to do before adding anything new)
+- Added Python stopwatch to language resources so you can time your study sessions (stopwatch has 15 min and 30 min audio hits to cue in how much time has passed, along with a GUI visual display)
 
 3/9/2025 :
 Offline, staged 35 Mandarin words (custom sentences ~70, checking for approval and still needing audio)
+
