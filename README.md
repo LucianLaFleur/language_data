@@ -10,8 +10,10 @@ To achieve this balance, I use reference lists to prioritize terms and grammar c
 
 ### Mandarin Chinese ---
 
-- All Anki Cloze document shows sentences added to study decks in anki-compatable import format for the clozes.
+- **All Anki Cloze** document shows sentences added to study decks in anki-compatable import format for the clozes.
 - Added sentences is incomplete, and may include sentences that are not sorted to their appropriate level, and therefore not yet included in a proper study deck.
+- **zh_added_sentences_master** shows all completed vocab that has at least 1 sentence, (whilst under development, prioritized by HSK order).
+- all added sentences, regardless of targets, are kept here in the format I use before processing them into cloze-deletion cards
 
 ### Japanese ---
 
