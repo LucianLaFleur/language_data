@@ -1,0 +1,888 @@
+#separator:tab
+#html:false
+看[...]  kàn jiàn glimpse	看见   kàn jiàn glimpse
+看见   kàn jiàn [...]	看见   kàn jiàn glimpse
+看见   kàn [...] glimpse [...]	看见   kàn jiàn glimpse
+我们 现在 没有 钱。 Wǒmen xiànzài méiyǒu qián. We [...] now.	我们 现在 没有 钱。 Wǒmen xiànzài méiyǒu qián. We don't have money now.
+我们 现在 没有 钱。 Wǒmen xiànzài [...] qián. We don't have money now. [...]	我们 现在 没有 钱。 Wǒmen xiànzài méiyǒu qián. We don't have money now.
+我们 现在 [...] 钱。 Wǒmen xiànzài méiyǒu qián. We don't have money now.	我们 现在 没有 钱。 Wǒmen xiànzài méiyǒu qián. We don't have money now.
+这 家 饭店 贵 不 贵? Zhè jiā fàn[...] guì bu guì? Is this restaurant expensive or not? [...]	这 家 饭店 贵 不 贵? Zhè jiā fàndiàn guì bu guì? Is this restaurant expensive or not?
+这 家 饭店 贵 不 贵? Zhè jiā fàndiàn guì bu guì? Is this [...] expensive or not?	这 家 饭店 贵 不 贵? Zhè jiā fàndiàn guì bu guì? Is this restaurant expensive or not?
+还没整理完？没关系 Hái méi zhěnglǐ wán? [...]guānxì Not finished yet? It doesn't matter [...]	还没整理完？没关系 Hái méi zhěnglǐ wán? Méiguānxì Not finished yet? It doesn't matter
+还没整理完？没关系 Hái méi zhěnglǐ wán? Méiguānxì Not finished yet? [...]	还没整理完？没关系 Hái méi zhěnglǐ wán? Méiguānxì Not finished yet? It doesn't matter
+下午 热不热？ Xiàwǔ [...] bu [...] Is the afternoon hot (or not)? [...]	下午 热不热？ Xiàwǔ rè bu rè? Is the afternoon hot (or not)?
+下午 热不热？ Xiàwǔ rè bu rè? Is the [...] hot (or not)?	下午 热不热？ Xiàwǔ rè bu rè? Is the afternoon hot (or not)?
+下午 [...]不[...]？ Xiàwǔ rè bu rè? Is the afternoon hot (or not)?	下午 热不热？ Xiàwǔ rè bu rè? Is the afternoon hot (or not)?
+"我 没[...] 问题。 Wǒ méiyǒu wèntí. I don't have (any) questions.    	(altering translation focus since meiyou is covered multiple times)"	我 没有 问题。 Wǒ méiyǒu wèntí. I don't have (any) questions.
+"我 没有 问题。 Wǒ méiyǒu wèntí. I don't have (any) [...]    	(altering translation focus since meiyou is covered multiple times)"	我 没有 问题。 Wǒ méiyǒu wèntí. I don't have (any) questions.
+"我 没有 问题。 Wǒ méi[...] wèntí. I don't have (any) questions. [...]   	(altering translation focus since meiyou is covered multiple times)"	我 没有 问题。 Wǒ méiyǒu wèntí. I don't have (any) questions.
+我们 现在 没有 钱。 Wǒmen [...]zài méiyǒu qián. We don't have money now. [...]	我们 现在 没有 钱。 Wǒmen xiànzài méiyǒu qián. We don't have money now.
+我们 [...]在 没有 钱。 Wǒmen xiànzài méiyǒu qián. We don't have money now.	我们 现在 没有 钱。 Wǒmen xiànzài méiyǒu qián. We don't have money now.
+我们 现在 没有 钱。 Wǒmen xiànzài méiyǒu qián. We don't have [...] now.	我们 现在 没有 钱。 Wǒmen xiànzài méiyǒu qián. We don't have money now.
+谁会信呢? [...] huì xìn ne?  Who will believe that? [...]	谁会信呢? Shéi huì xìn ne?  Who will believe that?
+谁会信呢? Shéi huì xìn ne?  [...] will believe that?	谁会信呢? Shéi huì xìn ne?  Who will believe that?
+你要白酒还是红酒？     Nǐ yào  bái[...] háishì hóng[...]?    Do you want white wine or red wine? [...]	你要白酒还是红酒？     Nǐ yào  báijiǔ háishì hóngjiǔ?    Do you want white wine or red wine?
+你要白酒还是红酒？     Nǐ yào  báijiǔ háishì hóngjiǔ?    Do you want [...]	你要白酒还是红酒？     Nǐ yào  báijiǔ háishì hóngjiǔ?    Do you want white wine or red wine?
+你要白[...]还是红[...]？     Nǐ yào  báijiǔ háishì hóngjiǔ?    Do you want white wine or red wine?	你要白酒还是红酒？     Nǐ yào  báijiǔ háishì hóngjiǔ?    Do you want white wine or red wine?
+没有什么不可能     méi  yǒu shén me bù kě néng [...] impossible	没有什么不可能     méi  yǒu shén me bù kě néng nothing is impossible
+没有什么不可能     méi  yǒu shén me bù kě [...] nothing is impossible [...]	没有什么不可能     méi  yǒu shén me bù kě néng nothing is impossible
+打电话 [...] diànhuà make a phone call [...]	打电话 dǎ diànhuà make a phone call
+出租车 chū[...]chē taxi [...]	出租车 chūzūchē taxi
+书记官的工作很简单 Shūjì guān de gōngzuò hěn jiǎn[...] The clerk's job is very simple  [...]	书记官的工作很简单 Shūjì guān de gōngzuò hěn jiǎndān The clerk's job is very simple
+这个世界 Zhège [...]jiè this world [...]	这个世界 Zhège shìjiè this world
+这样的好天气 Zhèyàng de [...] tiānqì Such good weather [...]	这样的好天气 Zhèyàng de hǎo tiānqì Such good weather
+不客气 Bù kè[...] You're welcome [...]	不客气 Bù kèqì You're welcome
+在工作 Zài [...]zuò get to work [...]	在工作 Zài gōngzuò get to work
+对不起 [...]bùqǐ sorry...  [...]	对不起 Duìbùqǐ sorry...
+不明白。 [...]míngbai. I don't understand [...]	不明白。 Bùmíngbai. I don't understand
+明白了吗？ [...]bái le ma? Got it? (is that clear?, casual) [...]	明白了吗？ Míngbái le ma? Got it? (is that clear?, casual)
+再 好 不 過 [...] hǎo bú guò can't be better (id.)  [...]	再 好 不 過 zài hǎo bú guò can't be better (id.)
+他在哪裡工作？ Tā zài nǎlǐ gōng[...]? Where does he work at? [...]	他在哪裡工作？ Tā zài nǎlǐ gōngzuò? Where does he work at?
+我不会来 Wǒ bù huì {{c1:lái}} I won't come [...]	我不会来 Wǒ bù huì {{c1:lái}} I won't come
+出口成章 chū [...] chéng zhāng To speak eloquently and fluently (id.) [...]	出口成章 chū kǒu chéng zhāng To speak eloquently and fluently (id.)
+出乎意料 [...] hū yì liào Beyond expectation; unexpected [...]	出乎意料 chū hū yì liào Beyond expectation; unexpected
+学以致用 xué yǐ zhì [...] To apply what you have learned [...]	学以致用 xué yǐ zhì yòng To apply what you have learned
+"会心一笑 [...] xīn yī xiào To smile knowingly; to share an understanding smile [...]   	Together, heart, 1 smile"	会心一笑 huì xīn yī xiào To smile knowingly; to share an understanding smile
+一夔已足 yī kuí [...] zú one talented person is enough for the job (id.) [...]	一夔已足 yī kuí yǐ zú one talented person is enough for the job (id.)
+哪兒是出口？ Nǎr [...] chūkǒu? Where is the exit? [...]	哪兒是出口？ Nǎr shì chūkǒu? Where is the exit?
+你什么时候回国？ Nǐ shén[...] shíhòu huíguó? When will you return home? [...]	你什么时候回国？ Nǐ shénme shíhòu huíguó? When will you return home?
+对于 这 种 事情 Duìyú zhè [...] shìqing As for this kind of thing... [...]	对于 这 种 事情 Duìyú zhè zhǒng shìqing As for this kind of thing...
+他在做白日梦 Tā zài zuò [...] rì mèng he's daydreaming [...]	他在做白日梦 Tā zài zuò bái rì mèng he's daydreaming
+我不想回去。 Wǒ bù[...] huíqù.	我不想回去。 Wǒ bùxiǎng huíqù.
+说吧，我在听。 Shuō ba, wǒ zài [...]. Go ahead, I'm listening. [...]	说吧，我在听。 Shuō ba, wǒ zài tīng. Go ahead, I'm listening.
+这个 问题 的话 [...] ge wèntí dehuà As for this question [...]	这个 问题 的话 Zhè ge wèntí dehuà As for this question
+"对于我}}，我不反对。 [...]yú wǒ, wǒ bù fǎnduì. As for me, I have no objection. {{c1   	exceptional example (hanzi)"	对于我}}，我不反对。 Duìyú wǒ, wǒ bù fǎnduì. As for me, I have no objection. {{c1
+感谢你出面邀请 Gǎnxiè nǐ chūmiàn yāoqǐng [...]	感谢你出面邀请 Gǎnxiè nǐ chūmiàn yāoqǐng Thank you for the invitation
+是哪里来的 Shì [...]lǐ lái de?	是哪里来的 Shì nǎlǐ lái de?
+要不要一起去酒馆坐坐。 [...] bùyào yīqǐ qù jiǔguǎn zuò zuò. Would you like to go to the pub together?	要不要一起去酒馆坐坐。 Yào bùyào yīqǐ qù jiǔguǎn zuò zuò. Would you like to go to the pub together?
+这里是我的猎场 Zhèlǐ shì [...]}} lièchǎng This place is my hunting ground [...]	这里是我的猎场 Zhèlǐ shì wǒ de}} lièchǎng This place is my hunting ground
+哪里…出了错 Nǎ[...]... Chūle cuò Where.. did I go wrong? / (What... went wrong?) [...]	哪里…出了错 Nǎlǐ... Chūle cuò Where.. did I go wrong? / (What... went wrong?)
+请坐请坐，饮杯茶先 Qǐng zuò qǐng zuò, yǐn [...] chá xiān Please have a seat, drink a cup of tea first [...]	请坐请坐，饮杯茶先 Qǐng zuò qǐng zuò, yǐn bēi chá xiān Please have a seat, drink a cup of tea first
+我不可 能坐视不管 Wǒ bù kěnéng zuò[...] bùguǎn I can't just sit back and watch  [...]	我不可 能坐视不管 Wǒ bù kěnéng zuòshì bùguǎn I can't just sit back and watch
+最好起身走一走 [...] hǎo qǐshēn zǒu yī zǒu It's best if I get up and take a walk  [...]	最好起身走一走 Zuì hǎo qǐshēn zǒu yī zǒu It's best if I get up and take a walk
+最好早日离开 Zuì hǎo [...] rì líkāi Better leave as soon as possible  [...]	最好早日离开 Zuì hǎo zǎo rì líkāi Better leave as soon as possible
+现在每次吃叉烧 Xiànzài měi [...] chī chāshāo Now I eat barbecued pork every time  [...]	现在每次吃叉烧 Xiànzài měi cì chī chāshāo Now I eat barbecued pork every time
+现在开始处理任务吧。 [...]zài kāishǐ chǔlǐ rènwù ba. Now let’s get down to business.  [...]	现在开始处理任务吧。 Xiànzài kāishǐ chǔlǐ rènwù ba. Now let’s get down to business.
+请随我来 [...] suí wǒ lái Please come with me  {{c1}}	请随我来 Qǐng suí wǒ lái Please come with me  {{c1}}
+追不上我！ Zhuī bù [...] wǒ!  Can't catch up with me! [...]	追不上我！ Zhuī bù shàng wǒ!  Can't catch up with me!
+高 不 高兴？ [...] bu [...]xìng? Are you happy (or not)? [...]	高 不 高兴？ Gāo bu gāoxìng? Are you happy (or not)?
+那个 地方 好不好玩？ [...]ge dìfang hǎo bu hǎowán? (Is) that place fun (or isn't it)? [...]	那个 地方 好不好玩？ Nàge dìfang hǎo bu hǎowán? (Is) that place fun (or isn't it)?
+高 不 高兴？ Gāo bu gāoxìng? Are you [...] (or not)?	高 不 高兴？ Gāo bu gāoxìng? Are you happy (or not)?
+[...] 不 [...]兴？ Gāo bu gāoxìng? Are you happy (or not)?	高 不 高兴？ Gāo bu gāoxìng? Are you happy (or not)?
+追不上我！ Zhuī bù shàng wǒ!  Can't [...]!	追不上我！ Zhuī bù shàng wǒ!  Can't catch up with me!
+追不[...]我！ Zhuī bù shàng wǒ!  Can't catch up with me!	追不上我！ Zhuī bù shàng wǒ!  Can't catch up with me!
+那个 地方 好不好玩？ Nàge dìfang hǎo bu hǎowán? (Is) [...] place fun (or isn't it)?	那个 地方 好不好玩？ Nàge dìfang hǎo bu hǎowán? (Is) that place fun (or isn't it)?
+[...]个 地方 好不好玩？ Nàge dìfang hǎo bu hǎowán? (Is) that place fun (or isn't it)?	那个 地方 好不好玩？ Nàge dìfang hǎo bu hǎowán? (Is) that place fun (or isn't it)?
+打电话 dǎ diànhuà [...]	打电话 dǎ diànhuà make a phone call
+[...]电话 dǎ diànhuà make a phone call	打电话 dǎ diànhuà make a phone call
+出租车 chūzūchē [...]	出租车 chūzūchē taxi
+出[...]车 chūzūchē taxi	出租车 chūzūchē taxi
+书记官的工作很简单 Shūjì guān de gōngzuò hěn jiǎndān The clerk's job is very [...]	书记官的工作很简单 Shūjì guān de gōngzuò hěn jiǎndān The clerk's job is very simple
+书记官的工作很简[...] Shūjì guān de gōngzuò hěn jiǎndān The clerk's job is very simple	书记官的工作很简单 Shūjì guān de gōngzuò hěn jiǎndān The clerk's job is very simple
+又有新工作了? Yòu yǒu xīn gōngzuòle? Got a [...] job?	又有新工作了? Yòu yǒu xīn gōngzuòle? Got a new job?
+又有新工作了? Yòu yǒu [...] gōngzuòle? Got a new job?  [...]	又有新工作了? Yòu yǒu xīn gōngzuòle? Got a new job?
+又有[...]工作了? Yòu yǒu xīn gōngzuòle? Got a new job?	又有新工作了? Yòu yǒu xīn gōngzuòle? Got a new job?
+这个世界 Zhège shìjiè [...]	这个世界 Zhège shìjiè this world
+这个[...]界 Zhège shìjiè this world	这个世界 Zhège shìjiè this world
+这样的[...]天气 Zhèyàng de hǎo tiānqì Such good weather	这样的好天气 Zhèyàng de hǎo tiānqì Such good weather
+不客气 Bù kèqì [...]	不客气 Bù kèqì You're welcome
+不客[...] Bù kèqì You're welcome	不客气 Bù kèqì You're welcome
+对不起 Duìbùqǐ [...]	对不起 Duìbùqǐ sorry...
+[...]不起 Duìbùqǐ sorry...	对不起 Duìbùqǐ sorry...
+"我不记得了 Wǒ bù [...]dow* le I don't remember [...]   	*unique sound-combination, betraying pinyin"	我不记得了 Wǒ bù jìdow* le I don't remember
+"我不记得了 Wǒ bù jìdow* le I don't [...]    	*unique sound-combination, betraying pinyin"	我不记得了 Wǒ bù jìdow* le I don't remember
+"我不[...]得了 Wǒ bù jìdow* le I don't remember    	*unique sound-combination, betraying pinyin"	我不记得了 Wǒ bù jìdow* le I don't remember
+不明白。 Bùmíngbai. [...]	不明白。 Bùmíngbai. I don't understand
+[...]明白。 Bùmíngbai. I don't understand	不明白。 Bùmíngbai. I don't understand
+明白了吗？ Míngbái le ma? [...]	明白了吗？ Míngbái le ma? Got it? (is that clear?, casual)
+[...]白了吗？ Míngbái le ma? Got it? (is that clear?, casual)	明白了吗？ Míngbái le ma? Got it? (is that clear?, casual)
+再 好 不 過 zài hǎo bú guò [...]	再 好 不 過 zài hǎo bú guò can't be better (id.)
+[...] 好 不 過 zài hǎo bú guò can't be better (id.)	再 好 不 過 zài hǎo bú guò can't be better (id.)
+他在哪裡工作？ Tā zài nǎlǐ gōngzuò? Where does he [...]	他在哪裡工作？ Tā zài nǎlǐ gōngzuò? Where does he work at?
+他在哪裡工[...]？ Tā zài nǎlǐ gōngzuò? Where does he work at?	他在哪裡工作？ Tā zài nǎlǐ gōngzuò? Where does he work at?
+我不会来 Wǒ bù huì {{c1:lái}} I won't [...]	我不会来 Wǒ bù huì {{c1:lái}} I won't come
+我不会[...] Wǒ bù huì {{c1:lái}} I won't come	我不会来 Wǒ bù huì {{c1:lái}} I won't come
+出口成章 chū kǒu chéng zhāng [...]	出口成章 chū kǒu chéng zhāng To speak eloquently and fluently (id.)
+出[...]成章 chū kǒu chéng zhāng To speak eloquently and fluently (id.)	出口成章 chū kǒu chéng zhāng To speak eloquently and fluently (id.)
+出乎意料 chū hū yì liào [...]	出乎意料 chū hū yì liào Beyond expectation; unexpected
+学以致用 xué yǐ zhì yòng [...]	学以致用 xué yǐ zhì yòng To apply what you have learned
+学以致[...] xué yǐ zhì yòng To apply what you have learned	学以致用 xué yǐ zhì yòng To apply what you have learned
+"会心一笑 huì xīn yī xiào [...]    	Together, heart, 1 smile"	会心一笑 huì xīn yī xiào To smile knowingly; to share an understanding smile
+"[...]心一笑 huì xīn yī xiào To smile knowingly; to share an understanding smile    	Together, heart, 1 smile"	会心一笑 huì xīn yī xiào To smile knowingly; to share an understanding smile
+一夔已足 yī kuí yǐ zú [...]	一夔已足 yī kuí yǐ zú one talented person is enough for the job (id.)
+一夔[...]足 yī kuí yǐ zú one talented person is enough for the job (id.)	一夔已足 yī kuí yǐ zú one talented person is enough for the job (id.)
+哪兒是出口？ Nǎr shì chūkǒu? [...] the exit?	哪兒是出口？ Nǎr shì chūkǒu? Where is the exit?
+哪兒[...]出口？ Nǎr shì chūkǒu? Where is the exit?	哪兒是出口？ Nǎr shì chūkǒu? Where is the exit?
+你什么时候回国？ Nǐ shénme shíhòu huíguó? [...] will you return home?	你什么时候回国？ Nǐ shénme shíhòu huíguó? When will you return home?
+我不[...]回去。 Wǒ bùxiǎng huíqù.	我不想回去。 Wǒ bùxiǎng huíqù.
+他在做白日梦 Tā zài zuò bái rì mèng [...]	他在做白日梦 Tā zài zuò bái rì mèng he's daydreaming
+他在做[...]日梦 Tā zài zuò bái rì mèng he's daydreaming	他在做白日梦 Tā zài zuò bái rì mèng he's daydreaming
+对于 这 种 事情 Duìyú zhè zhǒng shìqing As for [...]	对于 这 种 事情 Duìyú zhè zhǒng shìqing As for this kind of thing...
+对于 这 [...] 事情 Duìyú zhè zhǒng shìqing As for this kind of thing...	对于 这 种 事情 Duìyú zhè zhǒng shìqing As for this kind of thing...
+说吧，我在听。 Shuō ba, wǒ zài tīng. Go ahead, [...].	说吧，我在听。 Shuō ba, wǒ zài tīng. Go ahead, I'm listening.
+说吧，我在[...]。 Shuō ba, wǒ zài tīng. Go ahead, I'm listening.	说吧，我在听。 Shuō ba, wǒ zài tīng. Go ahead, I'm listening.
+这个 问题 的话 Zhè ge wèntí dehuà As for [...]	这个 问题 的话 Zhè ge wèntí dehuà As for this question
+[...]个 问题 的话 Zhè ge wèntí dehuà As for this question	这个 问题 的话 Zhè ge wèntí dehuà As for this question
+"对于我}}，我不反对。 Duìyú wǒ, wǒ bù fǎnduì. [...]   	exceptional example (hanzi)"	对于我}}，我不反对。 Duìyú wǒ, wǒ bù fǎnduì. As for me, I have no objection. {{c1
+"[...]于我}}，我不反对。 Duìyú wǒ, wǒ bù fǎnduì. As for me, I have no objection. {{c1   	exceptional example (hanzi)"	对于我}}，我不反对。 Duìyú wǒ, wǒ bù fǎnduì. As for me, I have no objection. {{c1
+是[...]里来的 Shì nǎlǐ lái de?	是哪里来的 Shì nǎlǐ lái de?
+要不要一起去酒馆坐坐。 Yào bùyào yīqǐ qù jiǔguǎn zuò zuò. [...] to go to the pub together? [...]	要不要一起去酒馆坐坐。 Yào bùyào yīqǐ qù jiǔguǎn zuò zuò. Would you like to go to the pub together?
+[...]不[...]一起去酒馆坐坐。 Yào bùyào yīqǐ qù jiǔguǎn zuò zuò. Would you like to go to the pub together?	要不要一起去酒馆坐坐。 Yào bùyào yīqǐ qù jiǔguǎn zuò zuò. Would you like to go to the pub together?
+这里是我的猎场 Zhèlǐ shì wǒ de}} lièchǎng [...] hunting ground	这里是我的猎场 Zhèlǐ shì wǒ de}} lièchǎng This place is my hunting ground
+这里是[...]的猎场 Zhèlǐ shì wǒ de}} lièchǎng This place is my hunting ground	这里是我的猎场 Zhèlǐ shì wǒ de}} lièchǎng This place is my hunting ground
+哪里…出了错 Nǎlǐ... Chūle cuò [...].. did I go wrong? / (What... went wrong?)	哪里…出了错 Nǎlǐ... Chūle cuò Where.. did I go wrong? / (What... went wrong?)
+哪[...]…出了错 Nǎlǐ... Chūle cuò Where.. did I go wrong? / (What... went wrong?)	哪里…出了错 Nǎlǐ... Chūle cuò Where.. did I go wrong? / (What... went wrong?)
+请坐请坐，饮杯茶先 Qǐng zuò qǐng zuò, yǐn bēi chá xiān Please have a seat, [...] first	请坐请坐，饮杯茶先 Qǐng zuò qǐng zuò, yǐn bēi chá xiān Please have a seat, drink a cup of tea first
+请坐请坐，饮[...]茶先 Qǐng zuò qǐng zuò, yǐn bēi chá xiān Please have a seat, drink a cup of tea first	请坐请坐，饮杯茶先 Qǐng zuò qǐng zuò, yǐn bēi chá xiān Please have a seat, drink a cup of tea first
+我不可 能坐视不管 Wǒ bù kěnéng zuòshì bùguǎn I can't just [...]	我不可 能坐视不管 Wǒ bù kěnéng zuòshì bùguǎn I can't just sit back and watch
+我不可 能坐[...]不管 Wǒ bù kěnéng zuòshì bùguǎn I can't just sit back and watch	我不可 能坐视不管 Wǒ bù kěnéng zuòshì bùguǎn I can't just sit back and watch
+来，说吧 Lái, shuō ba [...] tell me	来，说吧 Lái, shuō ba Come on, tell me
+[...]，说吧 Lái, shuō ba Come on, tell me	来，说吧 Lái, shuō ba Come on, tell me
+来，说吧 [...], shuō ba Come on, tell me [...]	来，说吧 Lái, shuō ba Come on, tell me
+多嘴！ [...]zuǐ! You're saying too much (you talk too much) [...]	多嘴！ Duōzuǐ! You're saying too much (you talk too much)
+多嘴！ Duōzuǐ! [...]	多嘴！ Duōzuǐ! You're saying too much (you talk too much)
+[...]嘴！ Duōzuǐ! You're saying too much (you talk too much)	多嘴！ Duōzuǐ! You're saying too much (you talk too much)
+最好起身走一走 Zuì hǎo qǐshēn zǒu yī zǒu [...] get up and take a walk	最好起身走一走 Zuì hǎo qǐshēn zǒu yī zǒu It's best if I get up and take a walk
+[...]好起身走一走 Zuì hǎo qǐshēn zǒu yī zǒu It's best if I get up and take a walk	最好起身走一走 Zuì hǎo qǐshēn zǒu yī zǒu It's best if I get up and take a walk
+午餐[...]不要久坐 Wǔcān hòu bùyào jiǔ zuò Don’t sit for too long after lunch	午餐后不要久坐 Wǔcān hòu bùyào jiǔ zuò Don’t sit for too long after lunch
+午餐后不要久坐 Wǔcān hòu bùyào jiǔ zuò Don’t sit for too long [...]	午餐后不要久坐 Wǔcān hòu bùyào jiǔ zuò Don’t sit for too long after lunch
+午餐后不要久坐 Wǔcān [...]bùyào jiǔ zuò Don’t sit for too long after lunch [...]	午餐后不要久坐 Wǔcān hòu bùyào jiǔ zuò Don’t sit for too long after lunch
+最好早日离开 Zuì hǎo zǎo rì líkāi Better [...]	最好早日离开 Zuì hǎo zǎo rì líkāi Better leave as soon as possible
+最好[...]日离开 Zuì hǎo zǎo rì líkāi Better leave as soon as possible	最好早日离开 Zuì hǎo zǎo rì líkāi Better leave as soon as possible
+完全信得过的人很少 wánquán xìndéguò de rén hěn shǎo There are [...] people (I) can trust completely	完全信得过的人很少 wánquán xìndéguò de rén hěn shǎo There are very few people (I) can trust completely
+完全信得过的人很[...] wánquán xìndéguò de rén hěn shǎo There are very few people (I) can trust completely	完全信得过的人很少 wánquán xìndéguò de rén hěn shǎo There are very few people (I) can trust completely
+完全信得过的人很少 wánquán xìndéguò de rén hěn [...] There are very few people (I) can trust completely [...]	完全信得过的人很少 wánquán xìndéguò de rén hěn shǎo There are very few people (I) can trust completely
+现在每次吃叉烧 Xiànzài měi cì chī chāshāo Now [...] every time	现在每次吃叉烧 Xiànzài měi cì chī chāshāo Now I eat barbecued pork every time
+现在每[...]吃叉烧 Xiànzài měi cì chī chāshāo Now I eat barbecued pork every time	现在每次吃叉烧 Xiànzài měi cì chī chāshāo Now I eat barbecued pork every time
+[...]在开始处理任务吧。 Xiànzài kāishǐ chǔlǐ rènwù ba. Now let’s get down to business.	现在开始处理任务吧。 Xiànzài kāishǐ chǔlǐ rènwù ba. Now let’s get down to business.
+今天也请加油。 Jīntiān yě qǐng jiāyóu Please do your best [...] too	今天也请加油。 Jīntiān yě qǐng jiāyóu Please do your best today too
+[...]天也请加油。 Jīntiān yě qǐng jiāyóu Please do your best today too	今天也请加油。 Jīntiān yě qǐng jiāyóu Please do your best today too
+请随我来 Qǐng suí wǒ lái [...] come with me  {{c1}}	请随我来 Qǐng suí wǒ lái Please come with me  {{c1}}
+[...]随我来 Qǐng suí wǒ lái Please come with me  {{c1}}	请随我来 Qǐng suí wǒ lái Please come with me  {{c1}}
+那么，失礼了。 Nàme, shīlǐle so, [...]	那么，失礼了。 Nàme, shīlǐle so, sorry... (after mentinoing an inconvenient thing)
+那么，失礼了。 Nàme, [...]lǐle so, sorry... (after mentinoing an inconvenient thing)[...]	那么，失礼了。 Nàme, shīlǐle so, sorry... (after mentinoing an inconvenient thing)
+那么，[...]礼了。 Nàme, shīlǐle so, sorry... (after mentinoing an inconvenient thing)	那么，失礼了。 Nàme, shīlǐle so, sorry... (after mentinoing an inconvenient thing)
+我妄自猜测 Wǒ wàng zì cāicè [...]	我妄自猜测 Wǒ wàng zì cāicè I'm guessing
+我妄自猜测 Wǒ wàng [...] cāicè I'm guessing [...]	我妄自猜测 Wǒ wàng zì cāicè I'm guessing
+只要走一小段路 Zhǐyào zǒu yī xiǎoduàn lù [...] a short walk	只要走一小段路 Zhǐyào zǒu yī xiǎoduàn lù Just a short walk
+只要走一小段路 [...]yào zǒu yī xiǎoduàn lù Just a short walk [...]	只要走一小段路 Zhǐyào zǒu yī xiǎoduàn lù Just a short walk
+[...]要走一小段路 Zhǐyào zǒu yī xiǎoduàn lù Just a short walk	只要走一小段路 Zhǐyào zǒu yī xiǎoduàn lù Just a short walk
+不会耽搁你太长时间的哦 [...] dāngē nǐ tài cháng shíjiān de  I won't delay you for too long.	不会耽搁你太长时间的哦 Bù huì dāngē nǐ tài cháng shíjiān de  I won't delay you for too long.
+不会耽搁你太长时间的哦 Bù huì dāngē nǐ tài cháng shíjiān de  I won't delay you for too long. [...]	不会耽搁你太长时间的哦 Bù huì dāngē nǐ tài cháng shíjiān de  I won't delay you for too long.
+那处山巅日日下雪， Nà chù shān diān rì rì [...] xuě, It snows on that mountain top every day. [...]	那处山巅日日下雪， Nà chù shān diān rì rì xià xuě, It snows on that mountain top every day.
+那处山巅日日下雪， Nà chù shān diān rì rì xià xuě, It snows on that mountain top every day. [...]	那处山巅日日下雪， Nà chù shān diān rì rì xià xuě, It snows on that mountain top every day.
+那处山巅日日下雪， Nà chù shān diān rì rì xià xuě, It [...] on that mountain top every day.	那处山巅日日下雪， Nà chù shān diān rì rì xià xuě, It snows on that mountain top every day.
+那处山巅日日[...]雪， Nà chù shān diān rì rì xià xuě, It snows on that mountain top every day.	那处山巅日日下雪， Nà chù shān diān rì rì xià xuě, It snows on that mountain top every day.
+还会惹别[...]生气 Hái huì rě biérén shēngqì It will make others angry	还会惹别人生气 Hái huì rě biérén shēngqì It will make others angry
+还会惹别人生气 Hái huì rě biérén shēngqì [...] angry	还会惹别人生气 Hái huì rě biérén shēngqì It will make others angry
+还会惹别人生气 Hái huì rě [...] shēngqì It will make others angry [...]	还会惹别人生气 Hái huì rě biérén shēngqì It will make others angry
+需要重新评估 Xūyào chóngxīn pínggū [...]	需要重新评估 Xūyào chóngxīn pínggū Need to reassess
+需要[...]新评估 Xūyào chóngxīn pínggū Need to reassess	需要重新评估 Xūyào chóngxīn pínggū Need to reassess
+需要重新评估 Xūyào [...]xīn pínggū Need to reassess [...]	需要重新评估 Xūyào chóngxīn pínggū Need to reassess
+必须改变策略。  Bìxū gǎibiàn cèlüè.  [...]	必须改变策略。  Bìxū gǎibiàn cèlüè.  The strategy must be changed.
+尘归尘，土归土… Chén guī chén, tǔ guī tǔ... [...]	尘归尘，土归土… Chén guī chén, tǔ guī tǔ... from dust to dust, and ashes to ashes (phrase)
+失算了…  [...]suànle  Miscalculated [...]	失算了…  Shīsuànle  Miscalculated
+[...]算了…  Shīsuànle  Miscalculated	失算了…  Shīsuànle  Miscalculated
+一起探索吧。 [...] tànsuǒ ba. Let's explore together. [...]	一起探索吧。 Yīqǐ tànsuǒ ba. Let's explore together.
+[...]探索吧。 Yīqǐ tànsuǒ ba. Let's explore together.	一起探索吧。 Yīqǐ tànsuǒ ba. Let's explore together.
+我[...]伞，你随意。 Wǒ bùyòng sǎn, nǐ suíyì. I don't need an umbrella, you can use it as you like.	我不用伞，你随意。 Wǒ bùyòng sǎn, nǐ suíyì. I don't need an umbrella, you can use it as you like.
+我不用伞，你随意。 Wǒ bùyòng sǎn, nǐ suíyì. [...] an umbrella, you can use it as you like.	我不用伞，你随意。 Wǒ bùyòng sǎn, nǐ suíyì. I don't need an umbrella, you can use it as you like.
+我不用伞，你随意。 Wǒ [...] sǎn, nǐ suíyì. I don't need an umbrella, you can use it as you like. [...]	我不用伞，你随意。 Wǒ bùyòng sǎn, nǐ suíyì. I don't need an umbrella, you can use it as you like.
+夜晚到了。 [...]wǎn dàole. night has arrived [...]	夜晚到了。 Yèwǎn dàole. night has arrived
+夜晚到了。 Yèwǎn dàole. [...] has arrived	夜晚到了。 Yèwǎn dàole. night has arrived
+[...]晚到了。 Yèwǎn dàole. night has arrived	夜晚到了。 Yèwǎn dàole. night has arrived
+有何贵干 Yǒu hé guìgàn [...]	有何贵干 Yǒu hé guìgàn What's the point? (phrase)
+有[...]贵干 Yǒu hé guìgàn What's the point? (phrase)	有何贵干 Yǒu hé guìgàn What's the point? (phrase)
+有何贵干 Yǒu [...] guìgàn What's the point? (phrase) [...]	有何贵干 Yǒu hé guìgàn What's the point? (phrase)
+没什么可多谈的 Méishénme kě [...] tán de There's nothing much to talk about. (not really talkative) [...]	没什么可多谈的 Méishénme kě duō tán de There's nothing much to talk about. (not really talkative)
+没什么可[...]谈的 Méishénme kě duō tán de There's nothing much to talk about. (not really talkative)	没什么可多谈的 Méishénme kě duō tán de There's nothing much to talk about. (not really talkative)
+不错的[...]肴。 Bùcuò de càiyáo. Nice dishes. (about food, eg. a kind of food, not a ceramic plate)	不错的菜肴。 Bùcuò de càiyáo. Nice dishes. (about food, eg. a kind of food, not a ceramic plate)
+不错的菜肴。 Bùcuò de [...]yáo. Nice dishes. (about food, eg. a kind of food, not a ceramic plate) [...]	不错的菜肴。 Bùcuò de càiyáo. Nice dishes. (about food, eg. a kind of food, not a ceramic plate)
+不错的菜肴。 Bùcuò de càiyáo. [...]	不错的菜肴。 Bùcuò de càiyáo. Nice dishes. (about food, eg. a kind of food, not a ceramic plate)
+在[...]——宣判！ Zài cǐ——xuānpàn! here... is the verdict! (now for the verdict)	在此——宣判！ Zài cǐ——xuānpàn! here... is the verdict! (now for the verdict)
+在此——宣判！ Zài [...]——xuānpàn! here... is the verdict! (now for the verdict) [...]	在此——宣判！ Zài cǐ——xuānpàn! here... is the verdict! (now for the verdict)
+在此——宣判！ Zài cǐ——xuānpàn! [...] the verdict! ([...] the verdict)	在此——宣判！ Zài cǐ——xuānpàn! here... is the verdict! (now for the verdict)
+火焰——烧尽。 [...]yàn⸺ Shāojìn. Flames... burn up! [...]	火焰——烧尽。 Huǒyàn⸺ Shāojìn. Flames... burn up!
+[...]焰——烧尽。 Huǒyàn⸺ Shāojìn. Flames... burn up!	火焰——烧尽。 Huǒyàn⸺ Shāojìn. Flames... burn up!
+火焰——烧尽。 Huǒyàn⸺ Shāojìn. [...]... burn up!	火焰——烧尽。 Huǒyàn⸺ Shāojìn. Flames... burn up!
+还不赖。 Hái bùlài. [...]	还不赖。 Hái bùlài. not bad
+还不赖。 [...] bùlài. not bad [...]	还不赖。 Hái bùlài. not bad
+[...]不赖。 Hái bùlài. not bad	还不赖。 Hái bùlài. not bad
+一点一滴地积累吧 Yī diǎn yī dī dì jīlěi ba Accumulate [...]	一点一滴地积累吧 Yī diǎn yī dī dì jīlěi ba Accumulate bit by bit
+一点一滴地积累吧 Yī [...] yī dī dì jīlěi ba Accumulate bit by bit  [...]	一点一滴地积累吧 Yī diǎn yī dī dì jīlěi ba Accumulate bit by bit
+一[...]一滴地积累吧 Yī diǎn yī dī dì jīlěi ba Accumulate bit by bit	一点一滴地积累吧 Yī diǎn yī dī dì jīlěi ba Accumulate bit by bit
+你会付出代价 Nǐ huì [...]chū dàijià you will pay the price (fig. statement of revenge) [...]	你会付出代价 Nǐ huì fùchū dàijià you will pay the price (fig. statement of revenge)
+你会付出代价 Nǐ huì fùchū dàijià [...]	你会付出代价 Nǐ huì fùchū dàijià you will pay the price (fig. statement of revenge)
+你会[...]出代价 Nǐ huì fùchū dàijià you will pay the price (fig. statement of revenge)	你会付出代价 Nǐ huì fùchū dàijià you will pay the price (fig. statement of revenge)
+任务的目标是… Rènwù de mùbiāo shì... The [...] of the task is... (what? / leaving ending open)	任务的目标是… Rènwù de mùbiāo shì... The goal of the task is... (what? / leaving ending open)
+任务的[...]标是… Rènwù de mùbiāo shì... The goal of the task is... (what? / leaving ending open)	任务的目标是… Rènwù de mùbiāo shì... The goal of the task is... (what? / leaving ending open)
+任务的目标是… Rènwù de [...]biāo shì... The goal of the task is... (what? / leaving ending open) [...]	任务的目标是… Rènwù de mùbiāo shì... The goal of the task is... (what? / leaving ending open)
+当心点 [...]xīn diǎn be careful [...]	当心点 Dāngxīn diǎn be careful
+[...]心点 Dāngxīn diǎn be careful	当心点 Dāngxīn diǎn be careful
+当心点 Dāngxīn diǎn [...]	当心点 Dāngxīn diǎn be careful
+舒适的天气 Shūshì de [...]qì comfortable weather (The weather's comfortable) [...]	舒适的天气 Shūshì de tiānqì comfortable weather (The weather's comfortable)
+舒适的[...]气 Shūshì de tiānqì comfortable weather (The weather's comfortable)	舒适的天气 Shūshì de tiānqì comfortable weather (The weather's comfortable)
+舒适的天气 Shūshì de tiānqì [...]	舒适的天气 Shūshì de tiānqì comfortable weather (The weather's comfortable)
+[...]样子 Kàn yàngzǐ it seems	看样子 Kàn yàngzǐ it seems
+看样子 [...] it seems [...]	看样子 Kàn yàngzǐ it seems
+看样子 Kàn yàngzǐ [...]	看样子 Kàn yàngzǐ it seems
+差不[...]已经对咖啡免疫了 Chàbùduō yǐjīng duì kāfēi miǎnyìle I'm almost immune to coffee.	差不多已经对咖啡免疫了 Chàbùduō yǐjīng duì kāfēi miǎnyìle I'm almost immune to coffee.
+差不多已经对咖啡免疫了 Chàbù[...] yǐjīng duì kāfēi miǎnyìle I'm almost immune to coffee. [...]	差不多已经对咖啡免疫了 Chàbùduō yǐjīng duì kāfēi miǎnyìle I'm almost immune to coffee.
+差不多已经对咖啡免疫了 Chàbùduō yǐjīng duì kāfēi miǎnyìle [...] coffee.	差不多已经对咖啡免疫了 Chàbùduō yǐjīng duì kāfēi miǎnyìle I'm almost immune to coffee.
+问问丽莎好了 [...] lì shā hǎole Just ask Lisa. [...]	问问丽莎好了 Wèn wèn lì shā hǎole Just ask Lisa.
+[...]丽莎好了 Wèn wèn lì shā hǎole Just ask Lisa.	问问丽莎好了 Wèn wèn lì shā hǎole Just ask Lisa.
+问问丽莎好了 Wèn wèn lì shā hǎole [...]	问问丽莎好了 Wèn wèn lì shā hǎole Just ask Lisa.
+一日之计在[...]晨 Yī rì zhī jì zàiyú chén the day's planning (should start) in the morning (ph.)	一日之计在于晨 Yī rì zhī jì zàiyú chén the day's planning (should start) in the morning (ph.)
+一日之计在于晨 Yī rì zhī jì zài[...] chén the day's planning (should start) in the morning (ph.) [...]	一日之计在于晨 Yī rì zhī jì zàiyú chén the day's planning (should start) in the morning (ph.)
+一日之计在于晨 Yī rì zhī jì zàiyú chén the day's planning (should start) [...] (ph.)	一日之计在于晨 Yī rì zhī jì zàiyú chén the day's planning (should start) in the morning (ph.)
+今天也请加油 Jīntiān yě qǐng jiāyóu Please do your best [...]	今天也请加油 Jīntiān yě qǐng jiāyóu Please do your best today too
+今天也请加油 Jīn[...] yě qǐng jiāyóu Please do your best today too [...]	今天也请加油 Jīntiān yě qǐng jiāyóu Please do your best today too
+今[...]也请加油 Jīntiān yě qǐng jiāyóu Please do your best today too	今天也请加油 Jīntiān yě qǐng jiāyóu Please do your best today too
+有她[...]的话 Yǒu tā zài dehuà if she were here...	有她在的话 Yǒu tā zài dehuà if she were here...
+有她在的话 Yǒu tā [...] dehuà if she were here... [...]	有她在的话 Yǒu tā zài dehuà if she were here...
+有她在的话 Yǒu tā zài dehuà if she [...]	有她在的话 Yǒu tā zài dehuà if she were here...
+我会安心[...]多 Wǒ huì ānxīn hěnduō I would feel a lot of relief	我会安心很多 Wǒ huì ānxīn hěnduō I would feel a lot of relief
+我会安心很多 Wǒ huì ānxīn hěnduō I would feel [...] relief	我会安心很多 Wǒ huì ānxīn hěnduō I would feel a lot of relief
+我会安心很多 Wǒ huì ānxīn [...]duō I would feel a lot of relief [...]	我会安心很多 Wǒ huì ānxīn hěnduō I would feel a lot of relief
+希望有朝一日 Xīwàng yǒuzhāoyī[...] I hope, one day [...]	希望有朝一日 Xīwàng yǒuzhāoyīrì I hope, one day
+希望有朝一[...] Xīwàng yǒuzhāoyīrì I hope, one day	希望有朝一日 Xīwàng yǒuzhāoyīrì I hope, one day
+希望有朝一日 Xīwàng yǒuzhāoyīrì I hope, [...]	希望有朝一日 Xīwàng yǒuzhāoyīrì I hope, one day
+只是…不，没[...]么 Zhǐshì…bù, méishénme It's just... no, it's nothing	只是…不，没什么 Zhǐshì…bù, méishénme It's just... no, it's nothing
+只是…不，没什么 Zhǐshì…bù, méi[...]me It's just... no, it's nothing [...]	只是…不，没什么 Zhǐshì…bù, méishénme It's just... no, it's nothing
+只是…不，没什么 Zhǐshì…bù, méishénme It's just... no, [...]	只是…不，没什么 Zhǐshì…bù, méishénme It's just... no, it's nothing
+沉浸在自己的世界里 Chénjìn zài zìjǐ de shìjiè lǐ [...]	沉浸在自己的世界里 Chénjìn zài zìjǐ de shìjiè lǐ Immersed in your own world
+也不算坏事吧。 Yě bù suàn huàishì ba. [...]	也不算坏事吧。 Yě bù suàn huàishì ba. It’s not a bad thing.
+总之，辛苦你了 Zǒng[...], xīnkǔ nǐle Anyway, thank you for your hard work. / in short, thanks a lot (sincere) [...]	总之，辛苦你了 Zǒngzhī, xīnkǔ nǐle Anyway, thank you for your hard work. / in short, thanks a lot (sincere)
+总之，辛苦你了 Zǒngzhī, xīnkǔ nǐle [...] thank you for your hard work. / [...] thanks a lot (sincere)	总之，辛苦你了 Zǒngzhī, xīnkǔ nǐle Anyway, thank you for your hard work. / in short, thanks a lot (sincere)
+总[...]，辛苦你了 Zǒngzhī, xīnkǔ nǐle Anyway, thank you for your hard work. / in short, thanks a lot (sincere)	总之，辛苦你了 Zǒngzhī, xīnkǔ nǐle Anyway, thank you for your hard work. / in short, thanks a lot (sincere)
+历来最低点         lì lái zuì dī [...]     all-time low (point) [...]	历来最低点         lì lái zuì dī diǎn     all-time low (point)
+历来最低点         lì lái zuì dī diǎn     [...]	历来最低点         lì lái zuì dī diǎn     all-time low (point)
+历来最低[...]         lì lái zuì dī diǎn     all-time low (point)	历来最低点         lì lái zuì dī diǎn     all-time low (point)
+[...]应我吧  Huíyīng wǒ ba answer me	回应我吧  Huíyīng wǒ ba answer me
+回应我吧  Huíyīng wǒ ba [...]	回应我吧  Huíyīng wǒ ba answer me
+回应我吧  [...]yīng wǒ ba answer me [...]	回应我吧  Huíyīng wǒ ba answer me
+惊喜的收获 Jīngxǐ de shōuhuò [...]	惊喜的收获 Jīngxǐ de shōuhuò a surprising harvest / bounty
+还不能放弃  Hái bùnéng fàngqì  [...]	还不能放弃  Hái bùnéng fàngqì  can't give up yet
+请暂时退后吧 Qǐng zhànshí tuì [...] ba Please step back for now. [...]	请暂时退后吧 Qǐng zhànshí tuì hòu ba Please step back for now.
+请暂时退后吧 Qǐng zhànshí tuì hòu ba [...]	请暂时退后吧 Qǐng zhànshí tuì hòu ba Please step back for now.
+请暂时退[...]吧 Qǐng zhànshí tuì hòu ba Please step back for now.	请暂时退后吧 Qǐng zhànshí tuì hòu ba Please step back for now.
+你受伤[...] Nǐ shòushāngle you're hurt (+declarative sentence end particle)	你受伤了 Nǐ shòushāngle you're hurt (+declarative sentence end particle)
+你受伤了 Nǐ shòushāng[...] you're hurt (+declarative sentence end particle) [...]	你受伤了 Nǐ shòushāngle you're hurt (+declarative sentence end particle)
+你受伤了 Nǐ shòushāngle [...]	你受伤了 Nǐ shòushāngle you're hurt (+declarative sentence end particle)
+让我来吧。 [...] wǒ lái ba. let me do it [...]	让我来吧。 Ràng wǒ lái ba. let me do it
+[...]我来吧。 Ràng wǒ lái ba. let me do it	让我来吧。 Ràng wǒ lái ba. let me do it
+让我来吧。 Ràng wǒ lái ba. [...]	让我来吧。 Ràng wǒ lái ba. let me do it
+还不够称职 Hái bùgòu chènzhí [...]	还不够称职 Hái bùgòu chènzhí (I'm) Not competent enough
+没什么可多谈的 Méishénme kě duō tán de [...]	没什么可多谈的 Méishénme kě duō tán de There's nothing much to talk about. (not really talkative)
+随时可以出发 Suíshí [...]yǐ chūfā ready to go (I can set off at any time) [...]	随时可以出发 Suíshí kěyǐ chūfā ready to go (I can set off at any time)
+随时[...]以出发 Suíshí kěyǐ chūfā ready to go (I can set off at any time)	随时可以出发 Suíshí kěyǐ chūfā ready to go (I can set off at any time)
+随时可以出发 Suíshí kěyǐ chūfā [...]	随时可以出发 Suíshí kěyǐ chūfā ready to go (I can set off at any time)
+已做好万全准备 Yǐ zuò hǎo wànquán zhǔnbèi [...]	已做好万全准备 Yǐ zuò hǎo wànquán zhǔnbèi Fully prepared
+你来得不巧 Nǐ [...]dé bù qiǎo You came at an unfortunate time [...]	你来得不巧 Nǐ láidé bù qiǎo You came at an unfortunate time
+你来得不巧 Nǐ láidé bù qiǎo [...] unfortunate time	你来得不巧 Nǐ láidé bù qiǎo You came at an unfortunate time
+你[...]得不巧 Nǐ láidé bù qiǎo You came at an unfortunate time	你来得不巧 Nǐ láidé bù qiǎo You came at an unfortunate time
+我已经吃过了 Wǒ [...] chīguòle I've already eaten	我已经吃过了 Wǒ yǐjīng chīguòle I've already eaten
+我[...]经吃过了 Wǒ yǐjīng chīguòle I've already eaten	我已经吃过了 Wǒ yǐjīng chīguòle I've already eaten
+我已经吃过了 Wǒ yǐjīng chīguòle I've [...]	我已经吃过了 Wǒ yǐjīng chīguòle I've already eaten
+我已经吃过了 Wǒ yǐjīng chīguòle I've already eaten [...]	我已经吃过了 Wǒ yǐjīng chīguòle I've already eaten
+已经正午了 Yǐjīng zhèngwǔle [...]	已经正午了 Yǐjīng zhèngwǔle It's noon
+已经正[...]了 Yǐjīng zhèngwǔle It's noon	已经正午了 Yǐjīng zhèngwǔle It's noon
+已经正午了 Yǐjīng zhèng[...]le It's noon [...]	已经正午了 Yǐjīng zhèngwǔle It's noon
+去[...]点东西吧 Qù chī diǎn dōngxī ba Let's go and get something to eat (/ How about we go and get a spot of something to eat?)	去吃点东西吧 Qù chī diǎn dōngxī ba Let's go and get something to eat (/ How about we go and get a spot of something to eat?)
+去吃点东西吧 Qù [...] diǎn dōngxī ba Let's go and get something to eat (/ How about we go and get a spot of something to eat?) [...]	去吃点东西吧 Qù chī diǎn dōngxī ba Let's go and get something to eat (/ How about we go and get a spot of something to eat?)
+去吃点东西吧 Qù chī diǎn dōngxī ba [...]	去吃点东西吧 Qù chī diǎn dōngxī ba Let's go and get something to eat (/ How about we go and get a spot of something to eat?)
+我吃份沙拉就行了 wǒ chī fèn shālā jiùxíngle [...]	我吃份沙拉就行了 wǒ chī fèn shālā jiùxíngle I'll just have a salad.
+已经这么晚了 Yǐjīng zhème wǎnle [...] so late	已经这么晚了 Yǐjīng zhème wǎnle It's already so late
+[...]经这么晚了 Yǐjīng zhème wǎnle It's already so late	已经这么晚了 Yǐjīng zhème wǎnle It's already so late
+已经这么晚了 [...]jīng zhème wǎnle It's already so late [...]	已经这么晚了 Yǐjīng zhème wǎnle It's already so late
+你要去休息了 Nǐ yào qù xiūxíle  [...]	你要去休息了 Nǐ yào qù xiūxíle  You're going to take a break? (You want to go and rest?)
+你要去休息了 Nǐ [...] qù xiūxíle  You're going to take a break? (You want to go and rest?) [...]	你要去休息了 Nǐ yào qù xiūxíle  You're going to take a break? (You want to go and rest?)
+你[...]去休息了 Nǐ yào qù xiūxíle  You're going to take a break? (You want to go and rest?)	你要去休息了 Nǐ yào qù xiūxíle  You're going to take a break? (You want to go and rest?)
+我也想去睡觉 Wǒ yě xiǎng qù shuìjiào I want to go to sleep [...]	我也想去睡觉 Wǒ yě xiǎng qù shuìjiào I want to go to sleep too
+我[...]想去睡觉 Wǒ yě xiǎng qù shuìjiào I want to go to sleep too	我也想去睡觉 Wǒ yě xiǎng qù shuìjiào I want to go to sleep too
+我也想去睡觉 Wǒ [...] xiǎng qù shuìjiào I want to go to sleep too [...]	我也想去睡觉 Wǒ yě xiǎng qù shuìjiào I want to go to sleep too
+房租和伙食费 Fángzū [...] huǒshí fèi Rent and food expenses	房租和伙食费 Fángzū hé huǒshí fèi Rent and food expenses
+房租[...]伙食费 Fángzū hé huǒshí fèi Rent and food expenses	房租和伙食费 Fángzū hé huǒshí fèi Rent and food expenses
+房租和伙食费 Fángzū hé huǒshí fèi Rent and food expenses [...]	房租和伙食费 Fángzū hé huǒshí fèi Rent and food expenses
+房租和伙食费 Fángzū hé huǒshí fèi [...] food expenses	房租和伙食费 Fángzū hé huǒshí fèi Rent and food expenses
+都有着落了 [...] yǒu zhuóluòle All (of them) have been found [...]	都有着落了 Dōu yǒu zhuóluòle All (of them) have been found
+[...]有着落了 Dōu yǒu zhuóluòle All (of them) have been found	都有着落了 Dōu yǒu zhuóluòle All (of them) have been found
+都有着落了 Dōu yǒu zhuóluòle [...] have been found	都有着落了 Dōu yǒu zhuóluòle All (of them) have been found
+命运，倒映水中。  Mìngyùn, dàoyìng shuǐ zhōng. Destiny, reflected [...]	命运，倒映水中。  Mìngyùn, dàoyìng shuǐ zhōng. Destiny, reflected in the water
+命运，倒映[...]中。  Mìngyùn, dàoyìng shuǐ zhōng. Destiny, reflected in the water	命运，倒映水中。  Mìngyùn, dàoyìng shuǐ zhōng. Destiny, reflected in the water
+命运，倒映水中。  Mìngyùn, dàoyìng [...] zhōng. Destiny, reflected in the water [...]	命运，倒映水中。  Mìngyùn, dàoyìng shuǐ zhōng. Destiny, reflected in the water
+命定于此。 Mìng dìng [...] cǐ.  (it was) destiny (to be) here [...]	命定于此。 Mìng dìng yú cǐ.  (it was) destiny (to be) here
+命定于此。 Mìng dìng yú cǐ.  (it was) destiny [...]	命定于此。 Mìng dìng yú cǐ.  (it was) destiny (to be) here
+命定[...]此。 Mìng dìng yú cǐ.  (it was) destiny (to be) here	命定于此。 Mìng dìng yú cǐ.  (it was) destiny (to be) here
+我妄[...]猜测 Wǒ wàng zì cāicè I'm guessing	我妄自猜测 Wǒ wàng zì cāicè I'm guessing
+今天也请加油。 [...]tiān yě qǐng jiāyóu Please do your best today too [...]	今天也请加油。 Jīntiān yě qǐng jiāyóu Please do your best today too
+现在开始处理任务吧。 Xiànzài kāishǐ chǔlǐ rènwù ba. [...] let’s get down to business.	现在开始处理任务吧。 Xiànzài kāishǐ chǔlǐ rènwù ba. Now let’s get down to business.
+这样的好天气 Zhèyàng de hǎo tiānqì Such [...] weather	这样的好天气 Zhèyàng de hǎo tiānqì Such good weather
+你什[...]时候回国？ Nǐ shénme shíhòu huíguó? When will you return home?	你什么时候回国？ Nǐ shénme shíhòu huíguó? When will you return home?
+[...]乎意料 chū hū yì liào Beyond expectation; unexpected	出乎意料 chū hū yì liào Beyond expectation; unexpected
+在工作 Zài gōngzuò [...]	在工作 Zài gōngzuò get to work
+在[...]作 Zài gōngzuò get to work	在工作 Zài gōngzuò get to work
+没有什么不可[...]     méi  yǒu shén me bù kě néng nothing is impossible	没有什么不可能     méi  yǒu shén me bù kě néng nothing is impossible
+[...]会信呢? Shéi huì xìn ne?  Who will believe that?	谁会信呢? Shéi huì xìn ne?  Who will believe that?
+还没整理完？[...]关系 Hái méi zhěnglǐ wán? Méiguānxì Not finished yet? It doesn't matter	还没整理完？没关系 Hái méi zhěnglǐ wán? Méiguānxì Not finished yet? It doesn't matter
+这 家 饭[...] 贵 不 贵? Zhè jiā fàndiàn guì bu guì? Is this restaurant expensive or not?	这 家 饭店 贵 不 贵? Zhè jiā fàndiàn guì bu guì? Is this restaurant expensive or not?
+讨厌的[...]运 Tǎoyàn de mìngyùn a nasty fate	讨厌的命运 Tǎoyàn de mìngyùn a nasty fate
+讨厌的命运 Tǎoyàn de [...]yùn a nasty [...] [...]	讨厌的命运 Tǎoyàn de mìngyùn a nasty fate
+你还没到命运的终点。 Nǐ háiméi dào mìngyùn de zhōngdiǎn. [...] the end point of your destiny!	你还没到命运的终点。 Nǐ háiméi dào mìngyùn de zhōngdiǎn. You've not yet met the end point of your destiny!
+你[...]没到命运的终点。 Nǐ háiméi dào mìngyùn de zhōngdiǎn. You've not yet met the end point of your destiny!	你还没到命运的终点。 Nǐ háiméi dào mìngyùn de zhōngdiǎn. You've not yet met the end point of your destiny!
+你还没到命运的终点。 Nǐ [...] dào mìngyùn de zhōngdiǎn. You've not yet met the end point of your destiny! [...]	你还没到命运的终点。 Nǐ háiméi dào mìngyùn de zhōngdiǎn. You've not yet met the end point of your destiny!
+[...]空…黯淡 Xīngkōng…àndàn The starry sky, grows dim...	星空…黯淡 Xīngkōng…àndàn The starry sky, grows dim...
+星空…黯淡 [...]kōng…àndàn The starry sky, grows dim... [...]	星空…黯淡 Xīngkōng…àndàn The starry sky, grows dim...
+星空…黯淡 Xīngkōng…àndàn [...], grows dim...	星空…黯淡 Xīngkōng…àndàn The starry sky, grows dim...
+烦人。 Fán[...] annoying [...]	烦人。 Fánrén. annoying
+烦人。 Fánrén. [...]	烦人。 Fánrén. annoying
+烦[...]。 Fánrén. annoying	烦人。 Fánrén. annoying
+繁星，尽在掌握。 Fán[...], jìn zài zhǎngwò. The stars are under control (fig. at your fingertips)[...]	繁星，尽在掌握。 Fánxīng, jìn zài zhǎngwò. The stars are under control (fig. at your fingertips)
+繁[...]，尽在掌握。 Fánxīng, jìn zài zhǎngwò. The stars are under control (fig. at your fingertips)	繁星，尽在掌握。 Fánxīng, jìn zài zhǎngwò. The stars are under control (fig. at your fingertips)
+繁星，尽在掌握。 Fánxīng, jìn zài zhǎngwò. [...] are under control (fig. at your fingertips)	繁星，尽在掌握。 Fánxīng, jìn zài zhǎngwò. The stars are under control (fig. at your fingertips)
+求饶吧。 Qiúráo [...]. beg for mercy [...]	求饶吧。 Qiúráo ba. beg for mercy
+求饶[...]。 Qiúráo ba. beg for mercy	求饶吧。 Qiúráo ba. beg for mercy
+求饶吧。 Qiúráo ba. [...]	求饶吧。 Qiúráo ba. beg for mercy
+结[...]！ Jiéshuāng! forming frost! (turn to ice)	结霜！ Jiéshuāng! forming frost! (turn to ice)
+结霜！ Jiéshuāng! forming [...]! (turn to ice)	结霜！ Jiéshuāng! forming frost! (turn to ice)
+结霜！ Jié[...]! forming frost! (turn to ice) [...]	结霜！ Jiéshuāng! forming frost! (turn to ice)
+以眼还眼！ Yǐyǎn huányǎn! [...]	以眼还眼！ Yǐyǎn huányǎn! An eye for an eye!
+以[...]还[...]！ Yǐyǎn huányǎn! An eye for an eye!	以眼还眼！ Yǐyǎn huányǎn! An eye for an eye!
+以眼还眼！ Yǐ[...] huán[...]! An eye for an eye! [...]	以眼还眼！ Yǐyǎn huányǎn! An eye for an eye!
+[...]快脚步 Jiākuài jiǎobù quicken the pace	加快脚步 Jiākuài jiǎobù quicken the pace
+加快脚步 [...]kuài jiǎobù quicken the pace [...]	加快脚步 Jiākuài jiǎobù quicken the pace
+加快脚步 Jiākuài jiǎobù [...]	加快脚步 Jiākuài jiǎobù quicken the pace
+有[...]发现 Yǒu suǒ fāxiàn discovered something	有所发现 Yǒu suǒ fāxiàn discovered something
+有所发现 Yǒu suǒ fāxiàn [...]	有所发现 Yǒu suǒ fāxiàn discovered something
+有所发现 Yǒu [...] fāxiàn discovered something [...]	有所发现 Yǒu suǒ fāxiàn discovered something
+退回去，都交给我 Tuì huíqù, dōu jiāo gěi wǒ [...]	退回去，都交给我 Tuì huíqù, dōu jiāo gěi wǒ Go back, leave it all to me
+罪人的结局吗… Zuìrén de jiéjú ma... [...]	罪人的结局吗… Zuìrén de jiéjú ma... Is this a sinner's end?
+率先行动 Shuàixiān xíngdòng [...]	率先行动 Shuàixiān xíngdòng take the lead
+率[...]行动 Shuàixiān xíngdòng take the lead	率先行动 Shuàixiān xíngdòng take the lead
+率先行动 Shuài[...] xíngdòng take the lead [...]	率先行动 Shuàixiān xíngdòng take the lead
+由我[...]前锋。 Yóu wǒ dǎ qiánfēng. I'll be the [forward/point-man]	由我打前锋。 Yóu wǒ dǎ qiánfēng. I'll be the [forward/point-man]
+由我打前锋。 Yóu wǒ [...] qiánfēng. I'll be the [forward/point-man] [...]	由我打前锋。 Yóu wǒ dǎ qiánfēng. I'll be the [forward/point-man]
+由我打前锋。 Yóu wǒ dǎ qiánfēng. [...]	由我打前锋。 Yóu wǒ dǎ qiánfēng. I'll be the [forward/point-man]
+别逃哟。 [...] táo yo. don't run away [...]	别逃哟。 Bié táo yo. don't run away
+别逃哟。 Bié táo yo. [...]	别逃哟。 Bié táo yo. don't run away
+[...]逃哟。 Bié táo yo. don't run away	别逃哟。 Bié táo yo. don't run away
+快点投降吧。 [...]diǎn tóuxiáng ba. hurry up and surrender [...]	快点投降吧。 Kuàidiǎn tóuxiáng ba. hurry up and surrender
+[...]点投降吧。 Kuàidiǎn tóuxiáng ba. hurry up and surrender	快点投降吧。 Kuàidiǎn tóuxiáng ba. hurry up and surrender
+快点投降吧。 Kuàidiǎn tóuxiáng ba. [...] and surrender	快点投降吧。 Kuàidiǎn tóuxiáng ba. hurry up and surrender
+努力，获得回报了哟。 Nǔlì, huòdé huíbàole yō. the [...] paid off.	努力，获得回报了哟。 Nǔlì, huòdé huíbàole yō. the hard work paid off.
+努力，获得回报了哟。 Nǔlì, huòdé huíbàole yō. the hard work paid off. [...]	努力，获得回报了哟。 Nǔlì, huòdé huíbàole yō. the hard work paid off.
+努力，获得回报了哟。 Nǔ[...], huòdé huíbàole yō. the hard work paid off.	努力，获得回报了哟。 Nǔlì, huòdé huíbàole yō. the hard work paid off.
+努[...]，获得回报了哟。 Nǔlì, huòdé huíbàole yō. the hard work paid off.	努力，获得回报了哟。 Nǔlì, huòdé huíbàole yō. the hard work paid off.
+可别上瘾喔。 Kě bié shàngyǐn o. [...] hooked on it]	可别上瘾喔。 Kě bié shàngyǐn o. Don't get [addicted / hooked on it]
+可别上瘾喔。 Kě [...] shàngyǐn o. Don't get [addicted / hooked on it] [...]	可别上瘾喔。 Kě bié shàngyǐn o. Don't get [addicted / hooked on it]
+可[...]上瘾喔。 Kě bié shàngyǐn o. Don't get [addicted / hooked on it]	可别上瘾喔。 Kě bié shàngyǐn o. Don't get [addicted / hooked on it]
+[...]点生疏了呀… Yǒu diǎn shēngshūle ya... A bit unfamiliar	有点生疏了呀… Yǒu diǎn shēngshūle ya... A bit unfamiliar
+有点生疏了呀… Yǒu diǎn shēngshūle ya... [...] unfamiliar	有点生疏了呀… Yǒu diǎn shēngshūle ya... A bit unfamiliar
+有点生疏了呀… [...] diǎn shēngshūle ya... A bit unfamiliar [...]	有点生疏了呀… Yǒu diǎn shēngshūle ya... A bit unfamiliar
+要姐姐帮忙吗 Yào [...] bāngmáng ma Do you want sister to help? [...]	要姐姐帮忙吗 Yào jiějiě bāngmáng ma Do you want sister to help?
+要[...]帮忙吗 Yào jiějiě bāngmáng ma Do you want sister to help?	要姐姐帮忙吗 Yào jiějiě bāngmáng ma Do you want sister to help?
+要姐姐帮忙吗 Yào jiějiě bāngmáng ma Do you want [...] to help?	要姐姐帮忙吗 Yào jiějiě bāngmáng ma Do you want sister to help?
+逞强可不好 Chěngqiáng kěbù [...] Showing off your strength is no good [...]	逞强可不好 Chěngqiáng kěbù hǎo Showing off your strength is no good
+逞强可不好 Chěngqiáng kěbù hǎo Showing off your strength is no [...]	逞强可不好 Chěngqiáng kěbù hǎo Showing off your strength is no good
+逞强可不[...] Chěngqiáng kěbù hǎo Showing off your strength is no good	逞强可不好 Chěngqiáng kěbù hǎo Showing off your strength is no good
+看来我大意了呢… Kàn lái wǒ dàyìle ne... [...] I was careless	看来我大意了呢… Kàn lái wǒ dàyìle ne... seems I was careless
+看来我大意了呢… [...] lái wǒ dàyìle ne... seems I was careless [...]	看来我大意了呢… Kàn lái wǒ dàyìle ne... seems I was careless
+[...]来我大意了呢… Kàn lái wǒ dàyìle ne... seems I was careless	看来我大意了呢… Kàn lái wǒ dàyìle ne... seems I was careless
+不要[...]么粗暴 Bùyào nàme cūbào Don't be so rough	不要那么粗暴 Bùyào nàme cūbào Don't be so rough
+不要那么粗暴 Bùyào [...]me cūbào Don't be so rough [...]	不要那么粗暴 Bùyào nàme cūbào Don't be so rough
+不要那么粗暴 Bùyào nàme cūbào [...]	不要那么粗暴 Bùyào nàme cūbào Don't be so rough
+果然不该出门的… Guǒrán bùgāi chūmén de... I really shouldn't have [...].	果然不该出门的… Guǒrán bùgāi chūmén de... I really shouldn't have gone out.
+果然不该出[...]的… Guǒrán bùgāi chūmén de... I really shouldn't have gone out.	果然不该出门的… Guǒrán bùgāi chūmén de... I really shouldn't have gone out.
+果然不该出门的… Guǒrán bùgāi chū[...] de... I really shouldn't have gone out. [...]	果然不该出门的… Guǒrán bùgāi chūmén de... I really shouldn't have gone out.
+我会看着你的 Wǒ huì kànzhe nǐ de I'll [...] you	我会看着你的 Wǒ huì kànzhe nǐ de I'll watch (over) you
+我会看着你的 Wǒ huì [...]zhe nǐ de I'll watch (over) you [...]	我会看着你的 Wǒ huì kànzhe nǐ de I'll watch (over) you
+我会[...]着你的 Wǒ huì kànzhe nǐ de I'll watch (over) you	我会看着你的 Wǒ huì kànzhe nǐ de I'll watch (over) you
+要出门了吗 Yào chūménle ma [...]	要出门了吗 Yào chūménle ma you want to go out? (sense: going outdoors, not a date...)
+要[...]门了吗 Yào chūménle ma you want to go out? (sense: going outdoors, not a date...)	要出门了吗 Yào chūménle ma you want to go out? (sense: going outdoors, not a date...)
+要出门了吗 Yào [...]ménle ma you want to go out? (sense: going outdoors, not a date...) [...]	要出门了吗 Yào chūménle ma you want to go out? (sense: going outdoors, not a date...)
+你怎么[...]道这件事？ Nǐ zěnme zhīdào zhè jiàn shì? How do you know about this?	你怎么知道这件事？ Nǐ zěnme zhīdào zhè jiàn shì? How do you know about this?
+你怎么知道这件事？ Nǐ zěnme [...]dào zhè jiàn shì? How do you know about this? [...]	你怎么知道这件事？ Nǐ zěnme zhīdào zhè jiàn shì? How do you know about this?
+你怎么知道这件事？ Nǐ zěnme zhīdào zhè jiàn shì? How do you [...]	你怎么知道这件事？ Nǐ zěnme zhīdào zhè jiàn shì? How do you know about this?
+你怎么去学校？ Nǐ zěnme qù xuéxiào? [...] school?	你怎么去学校？ Nǐ zěnme qù xuéxiào? How do you go to school?
+你怎么去学校？ Nǐ [...]me qù xuéxiào? How do you go to school? [...]	你怎么去学校？ Nǐ zěnme qù xuéxiào? How do you go to school?
+你[...]么去学校？ Nǐ zěnme qù xuéxiào? How do you go to school?	你怎么去学校？ Nǐ zěnme qù xuéxiào? How do you go to school?
+兵来将挡，水来[...]掩 Bīng lái jiàng dǎng, shuǐ lái tǔ yǎn When soldiers come, use a general to counter; when water comes, use earth to keep it out (meaning to take measures according to the situation)	兵来将挡，水来土掩 Bīng lái jiàng dǎng, shuǐ lái tǔ yǎn When soldiers come, use a general to counter; when water comes, use earth to keep it out (meaning to take measures according to the situation)
+兵来将挡，水来土掩 Bīng lái jiàng dǎng, shuǐ lái [...] yǎn When soldiers come, use a general to counter; [...] [...]	兵来将挡，水来土掩 Bīng lái jiàng dǎng, shuǐ lái tǔ yǎn When soldiers come, use a general to counter; when water comes, use earth to keep it out (meaning to take measures according to the situation)
+还不走吗？ Hái bù [...] ma? Aren’t you leaving yet? (wanting someone to leave/go.) [...]	还不走吗？ Hái bù zǒu ma? Aren’t you leaving yet? (wanting someone to leave/go.)
+还不[...]吗？ Hái bù zǒu ma? Aren’t you leaving yet? (wanting someone to leave/go.)	还不走吗？ Hái bù zǒu ma? Aren’t you leaving yet? (wanting someone to leave/go.)
+还不走吗？ Hái bù zǒu ma? [...]	还不走吗？ Hái bù zǒu ma? Aren’t you leaving yet? (wanting someone to leave/go.)
+什么都可以商量， Shénme [...] kéyǐ shāngliáng Anything can be discussed/negotiated [...]	什么都可以商量， Shénme dōu kéyǐ shāngliáng Anything can be discussed/negotiated
+什么[...]可以商量， Shénme dōu kéyǐ shāngliáng Anything can be discussed/negotiated	什么都可以商量， Shénme dōu kéyǐ shāngliáng Anything can be discussed/negotiated
+什么都可以商量， Shénme dōu kéyǐ shāngliáng [...] can be discussed/negotiated	什么都可以商量， Shénme dōu kéyǐ shāngliáng Anything can be discussed/negotiated
+除了加[...]。 chúle jiābān. except for overtime	"除了加班。 chúle jiābān. except for overtime    	(rosaria doesn't work overtime)"
+除了加班。 chúle jiā[...]. except for overtime [...]	"除了加班。 chúle jiābān. except for overtime    	(rosaria doesn't work overtime)"
+除了加班。 chúle jiābān. except for [...]	"除了加班。 chúle jiābān. except for overtime    	(rosaria doesn't work overtime)"
+可[...]来找我，   Kěyǐ lái zhǎo wǒ (You) can come find me	可以来找我，   Kěyǐ lái zhǎo wǒ (You) can come find me
+可以来找我，   Kěyǐ lái zhǎo wǒ [...] come find me	可以来找我，   Kěyǐ lái zhǎo wǒ (You) can come find me
+可以来找我，   Kě[...] lái zhǎo wǒ (You) can come find me [...]	可以来找我，   Kěyǐ lái zhǎo wǒ (You) can come find me
+如果只想祈祷， Rúguǒ zhǐ [...] qídǎo If you just want to pray [...]	如果只想祈祷， Rúguǒ zhǐ xiǎng qídǎo If you just want to pray
+如果只[...]祈祷， Rúguǒ zhǐ xiǎng qídǎo If you just want to pray	如果只想祈祷， Rúguǒ zhǐ xiǎng qídǎo If you just want to pray
+如果只想祈祷， Rúguǒ zhǐ xiǎng qídǎo If you just [...] to pray	如果只想祈祷， Rúguǒ zhǐ xiǎng qídǎo If you just want to pray
+你不是信徒吗 Nǐ bùshì [...]tú ma Aren't you a believer? [...]	你不是信徒吗 Nǐ bùshì xìntú ma Aren't you a believer?
+你不是[...]徒吗 Nǐ bùshì xìntú ma Aren't you a believer?	你不是信徒吗 Nǐ bùshì xìntú ma Aren't you a believer?
+你不是信徒吗 Nǐ bùshì xìntú ma Aren't you a [...]	你不是信徒吗 Nǐ bùshì xìntú ma Aren't you a believer?
+嘁，麻烦。 Qi, má[...]. Tch, how troublesome... [...]	嘁，麻烦。 Qi, máfan. Tch, how troublesome...
+嘁，麻烦。 Qi, máfan. Tch, how [...]...	嘁，麻烦。 Qi, máfan. Tch, how troublesome...
+嘁，麻[...]。 Qi, máfan. Tch, how troublesome...	嘁，麻烦。 Qi, máfan. Tch, how troublesome...
+好好[...]成工作 Hǎohǎo wánchéng gōngzuò get the job done well	好好完成工作 Hǎohǎo wánchéng gōngzuò get the job done well
+好好完成工作 Hǎohǎo wánchéng gōngzuò [...] well	好好完成工作 Hǎohǎo wánchéng gōngzuò get the job done well
+好好完成工作 Hǎohǎo [...]chéng gōngzuò get the job done well [...]	好好完成工作 Hǎohǎo wánchéng gōngzuò get the job done well
+好好度过[...]一天。 Hǎohǎo dùguò měi yītiān. Enjoy every day / spend every day well	好好度过每一天。 Hǎohǎo dùguò měi yītiān. Enjoy every day / spend every day well
+好好度过每一天。 Hǎohǎo dùguò měi yītiān. [...] every day well	好好度过每一天。 Hǎohǎo dùguò měi yītiān. Enjoy every day / spend every day well
+好好度过每一天。 Hǎohǎo dùguò [...] yītiān. Enjoy every day / spend every day well [...]	好好度过每一天。 Hǎohǎo dùguò měi yītiān. Enjoy every day / spend every day well
+雪天赶路 [...]tiān gǎnlù On the road on a snowy day (when traveling on the way on a snowy-day) [...]	雪天赶路 Xuětiān gǎnlù On the road on a snowy day (when traveling on the way on a snowy-day)
+雪天赶路 Xuětiān gǎnlù On the road on [...]	雪天赶路 Xuětiān gǎnlù On the road on a snowy day (when traveling on the way on a snowy-day)
+[...]天赶路 Xuětiān gǎnlù On the road on a snowy day (when traveling on the way on a snowy-day)	雪天赶路 Xuětiān gǎnlù On the road on a snowy day (when traveling on the way on a snowy-day)
+最好小[...]一些。 zuìhǎo xiǎoxīn yīxiē. best to be a little careful	最好小心一些。 zuìhǎo xiǎoxīn yīxiē. best to be a little careful
+最好小心一些。 zuìhǎo xiǎo[...] yīxiē. best to be a little careful [...]	最好小心一些。 zuìhǎo xiǎoxīn yīxiē. best to be a little careful
+最好小心一些。 zuìhǎo xiǎoxīn yīxiē. best to be a little [...]	最好小心一些。 zuìhǎo xiǎoxīn yīxiē. best to be a little careful
+你还好吗？ Nǐ [...] hǎo ma? How are you? [...]	你还好吗？ Nǐ hái hǎo ma? How are you?
+你还好吗？ Nǐ hái hǎo ma? [...]	你还好吗？ Nǐ hái hǎo ma? How are you?
+你[...]好吗？ Nǐ hái hǎo ma? How are you?	你还好吗？ Nǐ hái hǎo ma? How are you?
+小心风[...]哦 Xiǎoxīn fēngshā ó Be careful of the sandstorm	小心风沙哦 Xiǎoxīn fēngshā ó Be careful of the sandstorm
+小心风沙哦 Xiǎoxīn fēng[...] ó Be careful of the sandstorm [...]	小心风沙哦 Xiǎoxīn fēngshā ó Be careful of the sandstorm
+小心风沙哦 Xiǎoxīn fēngshā ó Be careful of [...]	小心风沙哦 Xiǎoxīn fēngshā ó Be careful of the sandstorm
+来，跟着我做 Lái, gēnzhe wǒ zuò Come, [...]	来，跟着我做 Lái, gēnzhe wǒ zuò Come, follow me.
+来，跟[...]我做 Lái, gēnzhe wǒ zuò Come, follow me.	来，跟着我做 Lái, gēnzhe wǒ zuò Come, follow me.
+来，跟着我做 Lái, gēn[...] wǒ zuò Come, follow me. [...]	来，跟着我做 Lái, gēnzhe wǒ zuò Come, follow me.
+怎么样，心情好起来了吗？ Zěnme yàng, xīnqíng hǎo qǐláile ma? [...]	怎么样，心情好起来了吗？ Zěnme yàng, xīnqíng hǎo qǐláile ma? How about it? are you feeling better?
+你也[...]吧。 Nǐ yě shì shì ba. You can try it too.	你也试试吧。 Nǐ yě shì shì ba. You can try it too.
+你也试试吧。 Nǐ yě shì shì ba. You can [...]	你也试试吧。 Nǐ yě shì shì ba. You can try it too.
+你也试试吧。 Nǐ yě [...] ba. You can try it too. [...]	你也试试吧。 Nǐ yě shì shì ba. You can try it too.
+不要勉强， Bùyào miǎnqiáng, [...]	不要勉强， Bùyào miǎnqiáng, don't force it/ don't force yourself
+不要[...]强， Bùyào miǎnqiáng, don't force it/ don't force yourself	不要勉强， Bùyào miǎnqiáng, don't force it/ don't force yourself
+不要勉强， Bùyào [...]qiáng, don't force it/ don't force yourself [...]	不要勉强， Bùyào miǎnqiáng, don't force it/ don't force yourself
+有[...]难可以叫我 Yǒu kùnnán kěyǐ jiào wǒ If you have any difficulties, you can call me	有困难可以叫我 Yǒu kùnnán kěyǐ jiào wǒ If you have any difficulties, you can call me
+有困难可以叫我 Yǒu [...]nán kěyǐ jiào wǒ If you have any difficulties, you can call me [...]	有困难可以叫我 Yǒu kùnnán kěyǐ jiào wǒ If you have any difficulties, you can call me
+有困难可以叫我 Yǒu kùnnán kěyǐ jiào wǒ If you have [...] you can call me	有困难可以叫我 Yǒu kùnnán kěyǐ jiào wǒ If you have any difficulties, you can call me
+晚[...]好。  Wǎnshàng hǎo. good evening	晚上好。  Wǎnshàng hǎo. good evening
+晚上好。  Wǎn[...] hǎo. good evening [...]	晚上好。  Wǎnshàng hǎo. good evening
+晚上好。  Wǎnshàng hǎo. [...]	晚上好。  Wǎnshàng hǎo. good evening
+我不参加 Wǒ bù cānjiā I won't [...]	我不参加 Wǒ bù cānjiā I won't participate
+我不[...]加 Wǒ bù cānjiā I won't participate	我不参加 Wǒ bù cānjiā I won't participate
+我不参加 Wǒ bù [...]jiā I won't participate [...]	我不参加 Wǒ bù cānjiā I won't participate
+不为什么 Bù wéi shén me [...]	不为什么 Bù wéi shén me no reason / (I have no reason for it)
+不[...]什么 Bù wéi shén me no reason / (I have no reason for it)	不为什么 Bù wéi shén me no reason / (I have no reason for it)
+不为什么 Bù [...] shén me no reason / (I have no reason for it)	不为什么 Bù wéi shén me no reason / (I have no reason for it)
+不为什么 Bù wéi shén me no reason / (I have no reason for it) [...]	不为什么 Bù wéi shén me no reason / (I have no reason for it)
+去[...]息吧， Qù xiūxí ba, go and rest	去休息吧， Qù xiūxí ba, go and rest
+去休息吧， Qù [...]xí ba, go and rest [...]	去休息吧， Qù xiūxí ba, go and rest
+去休息吧， Qù xiūxí ba, go [...]	去休息吧， Qù xiūxí ba, go and rest
+不用[...]心 Bùyòng cāoxīn You need not worry	不用操心 Bùyòng cāoxīn You need not worry
+不用操心 Bùyòng [...]xīn You need not worry [...]	不用操心 Bùyòng cāoxīn You need not worry
+不用操心 Bùyòng cāoxīn You need not [...]	不用操心 Bùyòng cāoxīn You need not worry
+剩下的事我会[...]理。 Shèng xià de shì wǒ huì chǔlǐ. The remaining things, I'll take care of/ I'll take care of the rest.	剩下的事我会处理。 Shèng xià de shì wǒ huì chǔlǐ. The remaining things, I'll take care of/ I'll take care of the rest.
+剩下的事我会处理。 Shèng xià de shì wǒ huì [...]lǐ. The remaining things, I'll take care of/ I'll take care of the rest. [...]	剩下的事我会处理。 Shèng xià de shì wǒ huì chǔlǐ. The remaining things, I'll take care of/ I'll take care of the rest.
+剩下的事我会处理。 Shèng xià de shì wǒ huì chǔlǐ. The remaining things, [...]	剩下的事我会处理。 Shèng xià de shì wǒ huì chǔlǐ. The remaining things, I'll take care of/ I'll take care of the rest.
+一看就知道了吧 Yī kàn jiù zhīdàole ba You'll know it [...].	一看就知道了吧 Yī kàn jiù zhīdàole ba You'll know it at a glance.
+一看就[...]道了吧 Yī kàn jiù zhīdàole ba You'll know it at a glance.	一看就知道了吧 Yī kàn jiù zhīdàole ba You'll know it at a glance.
+一看就知道了吧 Yī kàn jiù [...]dàole ba You'll know it at a glance. [...]	一看就知道了吧 Yī kàn jiù zhīdàole ba You'll know it at a glance.
+跳过寒暄吧。 Tiào[...] hánxuān ba. skip the small talk / (lit. jump-over the greetings) [...]	跳过寒暄吧。 Tiàoguò hánxuān ba. skip the small talk / (lit. jump-over the greetings)
+跳过寒暄吧。 Tiàoguò hánxuān ba. skip the [...] / (lit. jump-over the greetings)	跳过寒暄吧。 Tiàoguò hánxuān ba. skip the small talk / (lit. jump-over the greetings)
+跳[...]寒暄吧。 Tiàoguò hánxuān ba. skip the small talk / (lit. jump-over the greetings)	跳过寒暄吧。 Tiàoguò hánxuān ba. skip the small talk / (lit. jump-over the greetings)
+我来这里是为了完成工作 Wǒ lái zhèlǐ shì wèile wán[...] gōngzuò I'm here to get the job done. [...]	我来这里是为了完成工作 Wǒ lái zhèlǐ shì wèile wánchéng gōngzuò I'm here to get the job done.
+我来这里是为了完成工作 Wǒ lái zhèlǐ shì wèile wánchéng gōngzuò I'm here to [...]	我来这里是为了完成工作 Wǒ lái zhèlǐ shì wèile wánchéng gōngzuò I'm here to get the job done.
+我来这里是为了完[...]工作 Wǒ lái zhèlǐ shì wèile wánchéng gōngzuò I'm here to get the job done.	我来这里是为了完成工作 Wǒ lái zhèlǐ shì wèile wánchéng gōngzuò I'm here to get the job done.
+做某一件事不代表爱它， Zuò mǒu yī jiàn shì bù dàibiǎo ài tā, Doing something doesn't mean [...]	做某一件事不代表爱它， Zuò mǒu yī jiàn shì bù dàibiǎo ài tā, Doing something doesn't mean loving it.
+做某一件事不代表爱它， Zuò mǒu yī jiàn shì bù dàibiǎo [...] tā, Doing something doesn't mean loving it. [...]	做某一件事不代表爱它， Zuò mǒu yī jiàn shì bù dàibiǎo ài tā, Doing something doesn't mean loving it.
+做某一件事不代表[...]它， Zuò mǒu yī jiàn shì bù dàibiǎo ài tā, Doing something doesn't mean loving it.	做某一件事不代表爱它， Zuò mǒu yī jiàn shì bù dàibiǎo ài tā, Doing something doesn't mean loving it.
+来一[...]吗? Lái yībēi ma Would you like a drink?	来一杯吗? Lái yībēi ma Would you like a drink?
+来一杯吗? Lái yī[...] ma Would you like a drink? [...]	来一杯吗? Lái yībēi ma Would you like a drink?
+来一杯吗? Lái yībēi ma Would you like [...]	来一杯吗? Lái yībēi ma Would you like a drink?
+倒[...]有不错的玩意 Dào yěyǒu bùcuò de wányì there are some good things here	倒也有不错的玩意 Dào yěyǒu bùcuò de wányì there are some good things here
+倒也有不错的玩意 Dào yěyǒu bùcuò de wányì [...] good things here	倒也有不错的玩意 Dào yěyǒu bùcuò de wányì there are some good things here
+倒也有不错的玩意 Dào [...]yǒu bùcuò de wányì there are some good things here [...]	倒也有不错的玩意 Dào yěyǒu bùcuò de wányì there are some good things here
+还行，不算很麻烦。 Hái xíng, bùsuàn hěn máfan. OK, not too [...]	还行，不算很麻烦。 Hái xíng, bùsuàn hěn máfan. OK, not too troublesome.
+还行，不算很麻烦。 Hái xíng, bùsuàn hěn [...]fan. OK, not too troublesome. [...]	还行，不算很麻烦。 Hái xíng, bùsuàn hěn máfan. OK, not too troublesome.
+还行，不算很[...]烦。 Hái xíng, bùsuàn hěn máfan. OK, not too troublesome.	还行，不算很麻烦。 Hái xíng, bùsuàn hěn máfan. OK, not too troublesome.
+没想到 Méi xiǎng[...]. i didn't expect that / unexpectedly / I didn't think that... [...]	没想到 Méi xiǎngdào. i didn't expect that / unexpectedly / I didn't think that...
+没想到 Méi xiǎngdào. [...]	没想到 Méi xiǎngdào. i didn't expect that / unexpectedly / I didn't think that...
+没想[...] Méi xiǎngdào. i didn't expect that / unexpectedly / I didn't think that...	没想到 Méi xiǎngdào. i didn't expect that / unexpectedly / I didn't think that...
+[...]后！ Tuì hòu! Back off! (lit: retreat, back)	退后！ Tuì hòu! Back off! (lit: retreat, back)
+退后！ [...] hòu! Back off! (lit: retreat, back) [...]	退后！ Tuì hòu! Back off! (lit: retreat, back)
+退后！ Tuì hòu! [...]	退后！ Tuì hòu! Back off! (lit: retreat, back)
+我准-准备好了， Wǒ zhǔn-zhǔnbèi hǎole, [...]	我准-准备好了， Wǒ zhǔn-zhǔnbèi hǎole, I'm r-ready!
+我准-准备好了， Wǒ zhǔn-zhǔn[...] hǎole, I'm r-ready! [...]	我准-准备好了， Wǒ zhǔn-zhǔnbèi hǎole, I'm r-ready!
+我准-准[...]好了， Wǒ zhǔn-zhǔnbèi hǎole, I'm r-ready!	我准-准备好了， Wǒ zhǔn-zhǔnbèi hǎole, I'm r-ready!
+请让我试一下！ Qǐng [...] wǒ shì yīxià! Please let me try! [...]	请让我试一下！ Qǐng ràng wǒ shì yīxià! Please let me try!
+请让我试一下！ Qǐng ràng wǒ shì yīxià! Please [...] me try!	请让我试一下！ Qǐng ràng wǒ shì yīxià! Please let me try!
+请[...]我试一下！ Qǐng ràng wǒ shì yīxià! Please let me try!	请让我试一下！ Qǐng ràng wǒ shì yīxià! Please let me try!
+速战速决。 Sù zhàn sùjué. A swift [...]	速战速决。 Sù zhàn sùjué. A swift victory
+速战速决。 Sù zhàn sù[...]. A swift victory [...]	速战速决。 Sù zhàn sùjué. A swift victory
+速战速[...]。 Sù zhàn sùjué. A swift victory	速战速决。 Sù zhàn sùjué. A swift victory
+又有新工作了？ Yòu yǒu xīn gōngzuòle? [...] job again?	又有新工作了？ Yòu yǒu xīn gōngzuòle? (got a) new job again?
+又有新工作了？ Yòu yǒu [...] gōngzuòle? (got a) new job again? [...]	又有新工作了？ Yòu yǒu xīn gōngzuòle? (got a) new job again?
+又有[...]工作了？ Yòu yǒu xīn gōngzuòle? (got a) new job again?	又有新工作了？ Yòu yǒu xīn gōngzuòle? (got a) new job again?
+动身吧，旅行者 [...]shēn ba, lǚxíng zhě Let's head out, traveler [...]	动身吧，旅行者 Dòngshēn ba, lǚxíng zhě Let's head out, traveler
+动身吧，旅行者 Dòngshēn ba, lǚxíng zhě [...]	动身吧，旅行者 Dòngshēn ba, lǚxíng zhě Let's head out, traveler
+[...]身吧，旅行者 Dòngshēn ba, lǚxíng zhě Let's head out, traveler	动身吧，旅行者 Dòngshēn ba, lǚxíng zhě Let's head out, traveler
+要休息了吗？ Yào xiū[...]le ma? Want to rest / take a break? [...]	要休息了吗？ Yào xiūxíle ma? Want to rest / take a break?
+要休[...]了吗？ Yào xiūxíle ma? Want to rest / take a break?	要休息了吗？ Yào xiūxíle ma? Want to rest / take a break?
+要休息了吗？ Yào xiūxíle ma? Want to [...]	要休息了吗？ Yào xiūxíle ma? Want to rest / take a break?
+嘿嘿，[...]安。 Hēihēi, wǎn'ān. Heh, good night (casual)	嘿嘿，晚安。 Hēihēi, wǎn'ān. Heh, good night (casual)
+嘿嘿，晚安。 Hēihēi, [...]'ān. Heh, good night (casual) [...]	嘿嘿，晚安。 Hēihēi, wǎn'ān. Heh, good night (casual)
+嘿嘿，晚安。 Hēihēi, wǎn'ān. Heh, [...]	嘿嘿，晚安。 Hēihēi, wǎn'ān. Heh, good night (casual)
+我喜欢酒！还有风! Wǒ xǐhuān jiǔ! [...] yǒu fēng! I like wine, and also the wind! [...]	我喜欢酒！还有风! Wǒ xǐhuān jiǔ! Hái yǒu fēng! I like wine, and also the wind!
+我喜欢酒！[...]有风! Wǒ xǐhuān jiǔ! Hái yǒu fēng! I like wine, and also the wind!	我喜欢酒！还有风! Wǒ xǐhuān jiǔ! Hái yǒu fēng! I like wine, and also the wind!
+我喜欢酒！还有风! Wǒ xǐhuān jiǔ! Hái yǒu fēng! I like wine, [...] the wind!	我喜欢酒！还有风! Wǒ xǐhuān jiǔ! Hái yǒu fēng! I like wine, and also the wind!
+你也来一个苹果吗，刚摘的 Nǐ yě lái yīgè [...]guǒ ma, gāng zhāi de Would you like an apple? it's freshly picked [...]	你也来一个苹果吗，刚摘的 Nǐ yě lái yīgè píngguǒ ma, gāng zhāi de Would you like an apple? it's freshly picked
+你也来一个[...]果吗，刚摘的 Nǐ yě lái yīgè píngguǒ ma, gāng zhāi de Would you like an apple? it's freshly picked	你也来一个苹果吗，刚摘的 Nǐ yě lái yīgè píngguǒ ma, gāng zhāi de Would you like an apple? it's freshly picked
+你也来一个苹果吗，刚摘的 Nǐ yě lái yīgè píngguǒ ma, gāng zhāi de Would you like an [...]? it's freshly picked	你也来一个苹果吗，刚摘的 Nǐ yě lái yīgè píngguǒ ma, gāng zhāi de Would you like an apple? it's freshly picked
+苹果才是[...]的馈赠吧！ Píngguǒ cái shì shén de kuìzèng ba! Apples are a gift from the Gods	苹果才是神的馈赠吧！ Píngguǒ cái shì shén de kuìzèng ba! Apples are a gift from the Gods
+苹果才是神的馈赠吧！ Píngguǒ cái shì [...] de kuìzèng ba! Apples are a gift from the Gods [...]	苹果才是神的馈赠吧！ Píngguǒ cái shì shén de kuìzèng ba! Apples are a gift from the Gods
+苹果才是神的馈赠吧！ Píngguǒ cái shì shén de kuìzèng ba! Apples are a gift from the [...]	苹果才是神的馈赠吧！ Píngguǒ cái shì shén de kuìzèng ba! Apples are a gift from the Gods
+好[...]足 Hǎo mǎnzú (I'm) so satisfied	好满足 Hǎo mǎnzú (I'm) so satisfied
+好满足 Hǎo mǎnzú (I'm) so [...]	好满足 Hǎo mǎnzú (I'm) so satisfied
+好满足 Hǎo [...]zú (I'm) so satisfied [...]	好满足 Hǎo mǎnzú (I'm) so satisfied
+在这哟 Zài zhè yō I'm over [...]!	在这哟 Zài zhè yō I'm over here!
+在[...]哟 Zài zhè yō I'm over here!	在这哟 Zài zhè yō I'm over here!
+在这哟 Zài [...] yō I'm over here! [...]	在这哟 Zài zhè yō I'm over here!
+明天也会有吧? 后天也会有吧？ [...] uì yǒu ba? Hòutiān yě huì yǒu ba? Will there be (that) tomorrow? And the day after that? (sense. there will be something in the future) [...]	明天也会有吧? 后天也会有吧？ Míngtiān yě  uì yǒu ba? Hòutiān yě huì yǒu ba? Will there be (that) tomorrow? And the day after that? (sense. there will be something in the future)
+明天也会有吧? 后天也会有吧？ Míngtiān yě  uì yǒu ba? Hòutiān yě huì yǒu ba? [...]	明天也会有吧? 后天也会有吧？ Míngtiān yě  uì yǒu ba? Hòutiān yě huì yǒu ba? Will there be (that) tomorrow? And the day after that? (sense. there will be something in the future)
+[...]天也会有吧? 后天也会有吧？ Míngtiān yě  uì yǒu ba? Hòutiān yě huì yǒu ba? Will there be (that) tomorrow? And the day after that? (sense. there will be something in the future)	明天也会有吧? 后天也会有吧？ Míngtiān yě  uì yǒu ba? Hòutiān yě huì yǒu ba? Will there be (that) tomorrow? And the day after that? (sense. there will be something in the future)
+留意脚下 Liú[...] jiǎoxià Watch your step (sense: be careful of...) [...]	留意脚下 Liúyì jiǎoxià Watch your step (sense: be careful of...)
+留意脚下 Liúyì jiǎoxià [...] your step (sense: be careful of...)	留意脚下 Liúyì jiǎoxià Watch your step (sense: be careful of...)
+留[...]脚下 Liúyì jiǎoxià Watch your step (sense: be careful of...)	留意脚下 Liúyì jiǎoxià Watch your step (sense: be careful of...)
+[...]，比跑快吧？ Fēi, bǐ pǎo kuài ba? Flying is faster than running, right?	飞，比跑快吧？ Fēi, bǐ pǎo kuài ba? Flying is faster than running, right?
+飞，比跑快吧？ Fēi, bǐ pǎo kuài ba? [...] is faster than running, right?	飞，比跑快吧？ Fēi, bǐ pǎo kuài ba? Flying is faster than running, right?
+飞，比跑快吧？ [...], bǐ pǎo kuài ba? Flying is faster than running, right? [...]	飞，比跑快吧？ Fēi, bǐ pǎo kuài ba? Flying is faster than running, right?
+收获不[...] Shōuhuò bù shǎo (you) gained a lot / raked in a lot / (lit, harvested in not small)	收获不少 Shōuhuò bù shǎo (you) gained a lot / raked in a lot / (lit, harvested in not small)
+收获不少 Shōuhuò bù [...] (you) gained a lot / raked in a lot / (lit, harvested in not small) [...]	收获不少 Shōuhuò bù shǎo (you) gained a lot / raked in a lot / (lit, harvested in not small)
+收获不少 Shōuhuò bù shǎo [...]	收获不少 Shōuhuò bù shǎo (you) gained a lot / raked in a lot / (lit, harvested in not small)
+等等，这可不好玩！ Děng děng, zhè kěbù hǎo[...]! Wait, this isn't fun! / lit. good-play, (fig. hol' up, this ain't fun) [...]	等等，这可不好玩！ Děng děng, zhè kěbù hǎowán! Wait, this isn't fun! / lit. good-play, (fig. hol' up, this ain't fun)
+等等，这可不好[...]！ Děng děng, zhè kěbù hǎowán! Wait, this isn't fun! / lit. good-play, (fig. hol' up, this ain't fun)	等等，这可不好玩！ Děng děng, zhè kěbù hǎowán! Wait, this isn't fun! / lit. good-play, (fig. hol' up, this ain't fun)
+等等，这可不好玩！ Děng děng, zhè kěbù hǎowán! [...]	等等，这可不好玩！ Děng děng, zhè kěbù hǎowán! Wait, this isn't fun! / lit. good-play, (fig. hol' up, this ain't fun)
+好过分呐 Hǎo [...]fèn nà That's too much / that's excessive/ going too far [...]	好过分呐 Hǎo guòfèn nà That's too much / that's excessive/ going too far
+好过分呐 Hǎo guòfèn nà [...]	好过分呐 Hǎo guòfèn nà That's too much / that's excessive/ going too far
+好[...]分呐 Hǎo guòfèn nà That's too much / that's excessive/ going too far	好过分呐 Hǎo guòfèn nà That's too much / that's excessive/ going too far
+好粗鲁哦 Hǎo [...]lǔ ó so rude [...]	好粗鲁哦 Hǎo cūlǔ ó so rude
+好[...]鲁哦 Hǎo cūlǔ ó so rude	好粗鲁哦 Hǎo cūlǔ ó so rude
+好粗鲁哦 Hǎo cūlǔ ó [...]	好粗鲁哦 Hǎo cūlǔ ó so rude
+调音完成 Diào yīn wán[...] I've finished tuning up (an instrument) [...]	调音完成 Diào yīn wánchéng I've finished tuning up (an instrument)
+调音完成 Diào yīn wánchéng [...] tuning up (an instrument)	调音完成 Diào yīn wánchéng I've finished tuning up (an instrument)
+调音完[...] Diào yīn wánchéng I've finished tuning up (an instrument)	调音完成 Diào yīn wánchéng I've finished tuning up (an instrument)
+让你[...]等了哦 Ràng nǐ jiǔ děngle ó Sorry to have kept you waiting.	让你久等了哦 Ràng nǐ jiǔ děngle ó Sorry to have kept you waiting.
+让你久等了哦 Ràng nǐ [...] děngle ó Sorry to have kept you waiting. [...]	让你久等了哦 Ràng nǐ jiǔ děngle ó Sorry to have kept you waiting.
+让你久等了哦 Ràng nǐ jiǔ děngle ó [...]	让你久等了哦 Ràng nǐ jiǔ děngle ó Sorry to have kept you waiting.
+是要做热[...]运动吗 Shì yào zuò rèshēn yùndòng ma Want to do warm up exercises?	是要做热身运动吗 Shì yào zuò rèshēn yùndòng ma Want to do warm up exercises?
+是要做热身运动吗 Shì yào zuò rè[...] yùndòng ma Want to do warm up exercises? [...]	是要做热身运动吗 Shì yào zuò rèshēn yùndòng ma Want to do warm up exercises?
+是要做热身运动吗 Shì yào zuò rèshēn yùndòng ma Want to do [...]?	是要做热身运动吗 Shì yào zuò rèshēn yùndòng ma Want to do warm up exercises?
+下雨了啊。 Xià yǔle a.  [...]	下雨了啊。 Xià yǔle a.  It's raining
+下[...]了啊。 Xià yǔle a.  It's raining	下雨了啊。 Xià yǔle a.  It's raining
+下雨了啊。 Xià [...]le a.  It's raining [...]	下雨了啊。 Xià yǔle a.  It's raining
+替我打伞吧 Tì wǒ dǎ sǎn ba Please hold the [...] for me.	替我打伞吧 Tì wǒ dǎ sǎn ba Please hold the umbrella for me.
+替我打[...]吧 Tì wǒ dǎ sǎn ba Please hold the umbrella for me.	替我打伞吧 Tì wǒ dǎ sǎn ba Please hold the umbrella for me.
+替我打伞吧 Tì wǒ dǎ [...] ba Please hold the umbrella for me. [...]	替我打伞吧 Tì wǒ dǎ sǎn ba Please hold the umbrella for me.
+是很自然 Shì hěn zìrán [...]	是很自然 Shì hěn zìrán It's natural
+是很自然 Shì hěn [...]rán It's natural [...]	是很自然 Shì hěn zìrán It's natural
+是很[...]然 Shì hěn zìrán It's natural	是很自然 Shì hěn zìrán It's natural
+道不同不相为谋 [...] bùtóng bù xiāng wéi móu Different paths, no cooperation (phrase) [...]	道不同不相为谋 Dào bùtóng bù xiāng wéi móu Different paths, no cooperation (phrase)
+[...]不同不相为谋 Dào bùtóng bù xiāng wéi móu Different paths, no cooperation (phrase)	道不同不相为谋 Dào bùtóng bù xiāng wéi móu Different paths, no cooperation (phrase)
+道不同不相为谋 Dào bùtóng bù xiāng wéi móu Different [...], no cooperation (phrase)	道不同不相为谋 Dào bùtóng bù xiāng wéi móu Different paths, no cooperation (phrase)
+不[...] Bùcuò Good/ well done	不错 Bùcuò Good/ well done
+不错 Bù[...] Good/ well done [...]	不错 Bùcuò Good/ well done
+不错 Bùcuò [...]	不错 Bùcuò Good/ well done
+你总能出乎我的意料。 Nǐ zǒng néng chū hū wǒ de yìliào. [...]	你总能出乎我的意料。 Nǐ zǒng néng chū hū wǒ de yìliào. You're always able to surprise me (lit. unexpected)
+你总能出[...]我的意料。 Nǐ zǒng néng chū hū wǒ de yìliào. You're always able to surprise me (lit. unexpected)	你总能出乎我的意料。 Nǐ zǒng néng chū hū wǒ de yìliào. You're always able to surprise me (lit. unexpected)
+你总能出乎我的意料。 Nǐ zǒng néng chū [...] wǒ de yìliào. You're always able to surprise me (lit. unexpected) [...]	你总能出乎我的意料。 Nǐ zǒng néng chū hū wǒ de yìliào. You're always able to surprise me (lit. unexpected)
+心[...]我领了 Xīnyì wǒ lǐngle I understand your intention. / Your meaning is understood by me	心意我领了 Xīnyì wǒ lǐngle I understand your intention. / Your meaning is understood by me
+心意我领了 Xīn[...] wǒ lǐngle I understand your intention. / Your meaning is understood by me  [...]	心意我领了 Xīnyì wǒ lǐngle I understand your intention. / Your meaning is understood by me
+心意我领了 Xīnyì wǒ lǐngle I understand your [...]	心意我领了 Xīnyì wǒ lǐngle I understand your intention. / Your meaning is understood by me
+别白费功夫 Bié báifèi gōngfū Don't waste your [...]	别白费功夫 Bié báifèi gōngfū Don't waste your effort
+别白费功[...] Bié báifèi gōngfū Don't waste your effort	别白费功夫 Bié báifèi gōngfū Don't waste your effort
+别白费功夫 Bié báifèi gōng[...] Don't waste your effort [...]	别白费功夫 Bié báifèi gōngfū Don't waste your effort
+向我臣服吧 Xiàng wǒ [...]fú ba Surrender to me [...]	向我臣服吧 Xiàng wǒ chénfú ba Surrender to me
+向我臣服吧 Xiàng wǒ chénfú ba [...] to me	向我臣服吧 Xiàng wǒ chénfú ba Surrender to me
+向我[...]服吧 Xiàng wǒ chénfú ba Surrender to me	向我臣服吧 Xiàng wǒ chénfú ba Surrender to me
+永别了 [...]biéle Farewell (eternity, apart...) [...]	永别了 Yǒngbiéle Farewell (eternity, apart...)
+永别了 Yǒngbiéle [...]	永别了 Yǒngbiéle Farewell (eternity, apart...)
+[...]别了 Yǒngbiéle Farewell (eternity, apart...)	永别了 Yǒngbiéle Farewell (eternity, apart...)
+好一双慧眼 Hǎo yī[...] huìyǎn You got a good pair of eyes [...]	好一双慧眼 Hǎo yīshuāng huìyǎn You got a good pair of eyes
+好一[...]慧眼 Hǎo yīshuāng huìyǎn You got a good pair of eyes	好一双慧眼 Hǎo yīshuāng huìyǎn You got a good pair of eyes
+好一双慧眼 Hǎo yīshuāng huìyǎn You got [...]	好一双慧眼 Hǎo yīshuāng huìyǎn You got a good pair of eyes
+财富，多多益善 Cái[...], duōduōyìshàn Wealth, the more the better [...]	财富，多多益善 Cáifù, duōduōyìshàn Wealth, the more the better
+财富，多多益善 Cáifù, duōduōyìshàn [...], the more the better	财富，多多益善 Cáifù, duōduōyìshàn Wealth, the more the better
+财[...]，多多益善 Cáifù, duōduōyìshàn Wealth, the more the better	财富，多多益善 Cáifù, duōduōyìshàn Wealth, the more the better
+我[...]下了。 Wǒ jì xiàle. I wrote that down / I made a note of that	我记下了。 Wǒ jì xiàle. I wrote that down / I made a note of that
+我记下了。 Wǒ [...] xiàle. I wrote that down / I made a note of that [...]	我记下了。 Wǒ jì xiàle. I wrote that down / I made a note of that
+我记下了。 Wǒ jì xiàle. [...]	我记下了。 Wǒ jì xiàle. I wrote that down / I made a note of that
+无礼 [...] lǐ Rude / lit. no respect [...]	无礼 Wú lǐ Rude / lit. no respect
+无礼 Wú lǐ [...]	无礼 Wú lǐ Rude / lit. no respect
+[...]礼 Wú lǐ Rude / lit. no respect	无礼 Wú lǐ Rude / lit. no respect
+既然如此 ... Jìrán [...]cǐ ... In that case / that being the situation [...]	既然如此 ... Jìrán rúcǐ ... In that case / that being the situation
+既然[...]此 ... Jìrán rúcǐ ... In that case / that being the situation	既然如此 ... Jìrán rúcǐ ... In that case / that being the situation
+既然如此 ... Jìrán rúcǐ ... [...]	既然如此 ... Jìrán rúcǐ ... In that case / that being the situation
+"就帮你一[...]。 jiù bāng nǐ yī bǎ. let me help you. / Let me help out a bit (lit. ""a bundle"")"	"就帮你一把。 jiù bāng nǐ yī bǎ. let me help you. / Let me help out a bit (lit. ""a bundle"")"
+"就帮你一把。 jiù bāng nǐ yī [...]. let me help you. / Let me help out a bit (lit. ""a bundle"") [...]"	"就帮你一把。 jiù bāng nǐ yī bǎ. let me help you. / Let me help out a bit (lit. ""a bundle"")"
+就帮你一把。 jiù bāng nǐ yī bǎ. [...]	"就帮你一把。 jiù bāng nǐ yī bǎ. let me help you. / Let me help out a bit (lit. ""a bundle"")"
+胜负已分.  Shèng fù [...] fēn.  The winner has already been decided/ lit. victory or defeat has been divided up [...]	胜负已分.  Shèng fù yǐ fēn.  The winner has already been decided/ lit. victory or defeat has been divided up
+胜负[...]分.  Shèng fù yǐ fēn.  The winner has already been decided/ lit. victory or defeat has been divided up	胜负已分.  Shèng fù yǐ fēn.  The winner has already been decided/ lit. victory or defeat has been divided up
+胜负已分.  Shèng fù yǐ fēn.  The winner has [...]	胜负已分.  Shèng fù yǐ fēn.  The winner has already been decided/ lit. victory or defeat has been divided up
+[...]今的局面,  Rújīn de júmiàn,  In the current situation	如今的局面,  Rújīn de júmiàn,  In the current situation
+如今的局面,  [...]jīn de júmiàn,  In the current situation [...]	如今的局面,  Rújīn de júmiàn,  In the current situation
+如今的局面,  Rújīn de júmiàn,  [...] situation	如今的局面,  Rújīn de júmiàn,  In the current situation
+你没有几成[...]算 nǐ méiyǒu jǐ chéng shèngsuàn You don't have much chance of winning / (you have little by way of your odds of winning)	你没有几成胜算 nǐ méiyǒu jǐ chéng shèngsuàn You don't have much chance of winning / (you have little by way of your odds of winning)
+你没有几成胜算 nǐ méiyǒu jǐ chéng [...]suàn You don't have much chance of winning / (you have little by way of your odds of winning) [...]	你没有几成胜算 nǐ méiyǒu jǐ chéng shèngsuàn You don't have much chance of winning / (you have little by way of your odds of winning)
+你没有几成胜算 nǐ méiyǒu jǐ chéng shèngsuàn You don't have [...]	你没有几成胜算 nǐ méiyǒu jǐ chéng shèngsuàn You don't have much chance of winning / (you have little by way of your odds of winning)
+这世上之人，皆为棋子 Zhè [...]shàng zhī rén, jiē wèi qízǐ Everyone in this world is a chess piece / (..upon the earth) [...]	"这世上之人，皆为棋子 Zhè shìshàng zhī rén, jiē wèi qízǐ Everyone in this world is a chess piece / (..upon the earth)    	irregular compound division"
+这世上之人，皆为棋子 Zhè shìshàng zhī rén, jiē wèi qízǐ [...]	"这世上之人，皆为棋子 Zhè shìshàng zhī rén, jiē wèi qízǐ Everyone in this world is a chess piece / (..upon the earth)    	irregular compound division"
+这[...]上之人，皆为棋子 Zhè shìshàng zhī rén, jiē wèi qízǐ Everyone in this world is a chess piece / (..upon the earth)	"这世上之人，皆为棋子 Zhè shìshàng zhī rén, jiē wèi qízǐ Everyone in this world is a chess piece / (..upon the earth)    	irregular compound division"
+抓紧[...]间吧 Zhuājǐn shíjiān ba Hurry up	抓紧时间吧 Zhuājǐn shíjiān ba Hurry up
+抓紧时间吧 Zhuājǐn [...]jiān ba Hurry up [...]	抓紧时间吧 Zhuājǐn shíjiān ba Hurry up
+抓紧时间吧 Zhuājǐn shíjiān ba [...]	抓紧时间吧 Zhuājǐn shíjiān ba Hurry up
+不要让我失望 Bùyào ràng wǒ shīwàng You'd better not [...]	不要让我失望 Bùyào ràng wǒ shīwàng You'd better not disappoint me / You don't want to let me down
+不要让我失望 Bùyào ràng wǒ [...]wàng You'd better not disappoint me / You don't want to let me down [...]	不要让我失望 Bùyào ràng wǒ shīwàng You'd better not disappoint me / You don't want to let me down
+不要让我[...]望 Bùyào ràng wǒ shīwàng You'd better not disappoint me / You don't want to let me down	不要让我失望 Bùyào ràng wǒ shīwàng You'd better not disappoint me / You don't want to let me down
+今天也要[...]油呀。 Jīntiān yě yào jiāyóu ya Let’s work hard today too / (let's give it our all today!)	今天也要加油呀。 Jīntiān yě yào jiāyóu ya Let’s work hard today too / (let's give it our all today!)
+今天也要加油呀。 Jīntiān yě yào [...]yóu ya Let’s work hard today too / (let's give it our all today!) [...]	今天也要加油呀。 Jīntiān yě yào jiāyóu ya Let’s work hard today too / (let's give it our all today!)
+今天也要加油呀。 Jīntiān yě yào jiāyóu ya Let’s [...]	今天也要加油呀。 Jīntiān yě yào jiāyóu ya Let’s work hard today too / (let's give it our all today!)
+[...]苦了！ Xīnkǔle!  Thank you for your hard work! (lit. pungent, bitter)	辛苦了！ Xīnkǔle!  Thank you for your hard work! (lit. pungent, bitter)
+辛苦了！ [...]kǔle!  Thank you for your hard work! (lit. pungent, bitter) [...]	辛苦了！ Xīnkǔle!  Thank you for your hard work! (lit. pungent, bitter)
+辛苦了！ Xīnkǔle!  [...]	辛苦了！ Xīnkǔle!  Thank you for your hard work! (lit. pungent, bitter)
+请好好休息吧。 Qǐng hǎohǎo xiūxí ba. Please [...]	请好好休息吧。 Qǐng hǎohǎo xiūxí ba. Please take a good break / please rest well.
+请好好休[...]吧。 Qǐng hǎohǎo xiūxí ba. Please take a good break / please rest well.	请好好休息吧。 Qǐng hǎohǎo xiūxí ba. Please take a good break / please rest well.
+请好好休息吧。 Qǐng hǎohǎo xiū[...] ba. Please take a good break / please rest well. [...]	请好好休息吧。 Qǐng hǎohǎo xiūxí ba. Please take a good break / please rest well.
+诺艾尔实在是太可爱了！ Nuò ài ěr shízài shì [...] kě'àile! Noelle really is so cute! [...]	诺艾尔实在是太可爱了！ Nuò ài ěr shízài shì tài kě'àile! Noelle really is so cute!
+诺艾尔实在是太可爱了！ Nuò ài ěr shízài shì tài kě'àile! Noelle really is [...]	诺艾尔实在是太可爱了！ Nuò ài ěr shízài shì tài kě'àile! Noelle really is so cute!
+诺艾尔实在是[...]可爱了！ Nuò ài ěr shízài shì tài kě'àile! Noelle really is so cute!	诺艾尔实在是太可爱了！ Nuò ài ěr shízài shì tài kě'àile! Noelle really is so cute!
+人又温柔，还很有耐心. Rén yòu wēnróu, hái hěn yǒu nàixīn. [...]	人又温柔，还很有耐心. Rén yòu wēnróu, hái hěn yǒu nàixīn. (that person) is gentle and patient
+人又温柔，还很有耐心. Rén yòu wēnróu, hái hěn yǒu [...]xīn. (that person) is gentle and patient [...]	人又温柔，还很有耐心. Rén yòu wēnróu, hái hěn yǒu nàixīn. (that person) is gentle and patient
+人又温柔，还很有[...]心. Rén yòu wēnróu, hái hěn yǒu nàixīn. (that person) is gentle and patient	人又温柔，还很有耐心. Rén yòu wēnróu, hái hěn yǒu nàixīn. (that person) is gentle and patient
+完全不会有什么压力 Wánquán bù huì yǒu shé me yālì there's no [...]	完全不会有什么压力 Wánquán bù huì yǒu shé me yālì there's no pressure at all
+完[...]不会有什么压力 Wánquán bù huì yǒu shé me yālì there's no pressure at all	完全不会有什么压力 Wánquán bù huì yǒu shé me yālì there's no pressure at all
+完全不会有什么压力 Wán[...] bù huì yǒu shé me yālì there's no pressure at all [...]	完全不会有什么压力 Wánquán bù huì yǒu shé me yālì there's no pressure at all
+对了， Duìle, [...]	对了， Duìle, by the way
+对了， [...]le, by the way [...]	对了， Duìle, by the way
+[...]了， Duìle, by the way	对了， Duìle, by the way
+她做的茶点也很特别。 Tā zuò de chádiǎn yě hěn tèbié. The [tea / refreshments] [...]	她做的茶点也很特别。 Tā zuò de chádiǎn yě hěn tèbié. The [tea / refreshments] made by her are quite special
+她做的茶点也很特别。 Tā [...] de chádiǎn yě hěn tèbié. The [tea / refreshments] made by her are quite special [...]	她做的茶点也很特别。 Tā zuò de chádiǎn yě hěn tèbié. The [tea / refreshments] made by her are quite special
+她[...]的茶点也很特别。 Tā zuò de chádiǎn yě hěn tèbié. The [tea / refreshments] made by her are quite special	她做的茶点也很特别。 Tā zuò de chádiǎn yě hěn tèbié. The [tea / refreshments] made by her are quite special
+又香，又甜，而且很健康 Yòu xiāng, yòu tián, érqiě hěn jiànkāng [...]	又香，又甜，而且很健康 Yòu xiāng, yòu tián, érqiě hěn jiànkāng It's fragrant, sweet and healthy
+我不太喜欢苦的东西,特别是…苦瓜。 Wǒ bù tài xǐhuān kǔ de dōngxī, [...]bié shì…kǔguā. I don't really like bitter things. Especially... bitter melon [...]	我不太喜欢苦的东西,特别是…苦瓜。 Wǒ bù tài xǐhuān kǔ de dōngxī, Tèbié shì…kǔguā. I don't really like bitter things. Especially... bitter melon
+我不太喜欢苦的东西,[...]别是…苦瓜。 Wǒ bù tài xǐhuān kǔ de dōngxī, Tèbié shì…kǔguā. I don't really like bitter things. Especially... bitter melon	我不太喜欢苦的东西,特别是…苦瓜。 Wǒ bù tài xǐhuān kǔ de dōngxī, Tèbié shì…kǔguā. I don't really like bitter things. Especially... bitter melon
+我不太喜欢苦的东西,特别是…苦瓜。 Wǒ bù tài xǐhuān kǔ de dōngxī, Tèbié shì…kǔguā. I don't really like bitter things. [...]... bitter melon	我不太喜欢苦的东西,特别是…苦瓜。 Wǒ bù tài xǐhuān kǔ de dōngxī, Tèbié shì…kǔguā. I don't really like bitter things. Especially... bitter melon
+我会保护大[...] Wǒ huì bǎohù dàjiā I will protect everyone	我会保护大家 Wǒ huì bǎohù dàjiā I will protect everyone
+我会保护大家 Wǒ huì bǎohù dàjiā I will protect [...]	我会保护大家 Wǒ huì bǎohù dàjiā I will protect everyone
+我会保护大家 Wǒ huì bǎohù dà[...] I will protect everyone [...]	我会保护大家 Wǒ huì bǎohù dàjiā I will protect everyone
+准[...]好了吗 Zhǔnbèi hǎole ma are you ready?	准备好了吗 Zhǔnbèi hǎole ma are you ready?
+准备好了吗 Zhǔnbèi hǎole ma are you [...]?	准备好了吗 Zhǔnbèi hǎole ma are you ready?
+准备好了吗 Zhǔn[...] hǎole ma are you ready? [...]	准备好了吗 Zhǔnbèi hǎole ma are you ready?
+没[...]题 Méi wèntí no problem	没问题 Méi wèntí no problem
+没问题 Méi wèntí [...]	没问题 Méi wèntí no problem
+没问题 Méi [...]tí no problem [...]	没问题 Méi wèntí no problem
+大家加[...]喔！ Dàjiā jiāyóu wo! Everyone give it your all!	大家加油喔！ Dàjiā jiāyóu wo! Everyone give it your all!
+大家加油喔！ Dàjiā jiāyóu wo! [...]	大家加油喔！ Dàjiā jiāyóu wo! Everyone give it your all!
+大家加油喔！ Dàjiā jiā[...] wo! Everyone give it your all! [...]	大家加油喔！ Dàjiā jiāyóu wo! Everyone give it your all!
+光彩熠熠 [...]cǎi yìyì glittering [...]	光彩熠熠 Guāngcǎi yìyì glittering
+[...]彩熠熠 Guāngcǎi yìyì glittering	光彩熠熠 Guāngcǎi yìyì glittering
+光彩熠熠 Guāngcǎi yìyì [...]	光彩熠熠 Guāngcǎi yìyì glittering
+真是幸运的一天 Zhēnshi [...]yùn de yītiān What a lucky day! [...]	真是幸运的一天 Zhēnshi xìngyùn de yītiān What a lucky day!
+真是幸[...]的一天 Zhēnshi xìngyùn de yītiān What a lucky day!	真是幸运的一天 Zhēnshi xìngyùn de yītiān What a lucky day!
+真是幸运的一天 Zhēnshi xìngyùn de yītiān What a [...] day!	真是幸运的一天 Zhēnshi xìngyùn de yītiān What a lucky day!
+真是[...]运的一天 Zhēnshi xìngyùn de yītiān What a lucky day!	真是幸运的一天 Zhēnshi xìngyùn de yītiān What a lucky day!
+我没[...]系的！ Wǒ méiguānxì de! It doesn't matter to me / it doesn't bother me	我没关系的！ Wǒ méiguānxì de! It doesn't matter to me / it doesn't bother me
+我没关系的！ Wǒ méiguānxì de! [...]	我没关系的！ Wǒ méiguānxì de! It doesn't matter to me / it doesn't bother me
+我没关系的！ Wǒ méi[...]xì de! It doesn't matter to me / it doesn't bother me [...]	我没关系的！ Wǒ méiguānxì de! It doesn't matter to me / it doesn't bother me
+不想看你受伤 Bùxiǎng kàn nǐ [...]shāng I don't want to see you get hurt [...]	不想看你受伤 Bùxiǎng kàn nǐ shòushāng I don't want to see you get hurt
+不想看你[...]伤 Bùxiǎng kàn nǐ shòushāng I don't want to see you get hurt	不想看你受伤 Bùxiǎng kàn nǐ shòushāng I don't want to see you get hurt
+不想看你受伤 Bùxiǎng kàn nǐ shòushāng I don't want to see [...]	不想看你受伤 Bùxiǎng kàn nǐ shòushāng I don't want to see you get hurt
+让我为你治[...]，拜托了！ Ràng wǒ wèi nǐ zhìliáo, bàituōle! Let me heal you, please	让我为你治疗，拜托了！ Ràng wǒ wèi nǐ zhìliáo, bàituōle! Let me heal you, please
+让我为你治疗，拜托了！ Ràng wǒ wèi nǐ zhì[...], bàituōle! Let me heal you, please [...]	让我为你治疗，拜托了！ Ràng wǒ wèi nǐ zhìliáo, bàituōle! Let me heal you, please
+让我为你治疗，拜托了！ Ràng wǒ wèi nǐ zhìliáo, bàituōle! Let me [...] you, please	让我为你治疗，拜托了！ Ràng wǒ wèi nǐ zhìliáo, bàituōle! Let me heal you, please
+听不到呢 Tīng bù dào ne [...]	听不到呢 Tīng bù dào ne (I) can't hear it / the sound doesn't arrive
+听不到呢 Tīng bù [...] ne (I) can't hear it / the sound doesn't arrive [...]	听不到呢 Tīng bù dào ne (I) can't hear it / the sound doesn't arrive
+听不[...]呢 Tīng bù dào ne (I) can't hear it / the sound doesn't arrive	听不到呢 Tīng bù dào ne (I) can't hear it / the sound doesn't arrive
+放心交给我就好 [...]xīn jiāo gěi wǒ jiù hǎo  rest assured, hand (the task) over to me and I'll do it just fine (fig. leave it to me) [...]	放心交给我就好 Fàngxīn jiāo gěi wǒ jiù hǎo  rest assured, hand (the task) over to me and I'll do it just fine (fig. leave it to me)
+放心交给我就好 Fàngxīn jiāo gěi wǒ jiù hǎo [...] hand (the task) over to me and I'll do it just fine (fig. leave it to me)	放心交给我就好 Fàngxīn jiāo gěi wǒ jiù hǎo  rest assured, hand (the task) over to me and I'll do it just fine (fig. leave it to me)
+[...]心交给我就好 Fàngxīn jiāo gěi wǒ jiù hǎo  rest assured, hand (the task) over to me and I'll do it just fine (fig. leave it to me)	放心交给我就好 Fàngxīn jiāo gěi wǒ jiù hǎo  rest assured, hand (the task) over to me and I'll do it just fine (fig. leave it to me)
+我会加[...]的 Wǒ huì jiāyóu de I'll give it my all / I'll come along (and work hard)	我会加油的 Wǒ huì jiāyóu de I'll give it my all / I'll come along (and work hard)
+我会加油的 Wǒ huì [...]yóu de I'll give it my all / I'll come along (and work hard) [...]	我会加油的 Wǒ huì jiāyóu de I'll give it my all / I'll come along (and work hard)
+我会加油的 Wǒ huì jiāyóu de [...]	我会加油的 Wǒ huì jiāyóu de I'll give it my all / I'll come along (and work hard)
+[...]努力吧 Yīqǐ nǔlì ba Together, we'll work hard	一起努力吧 Yīqǐ nǔlì ba Together, we'll work hard
+一起努力吧 [...] nǔlì ba Together, we'll work hard [...]	一起努力吧 Yīqǐ nǔlì ba Together, we'll work hard
+一起努力吧 Yīqǐ nǔlì ba [...] we'll work hard	一起努力吧 Yīqǐ nǔlì ba Together, we'll work hard
+喂，你在干什么？ Wèi, nǐ zài gàn shénme? [...] what are you doing?	喂，你在干什么？ Wèi, nǐ zài gàn shénme? Hey, what are you doing?
+[...]，你在干什么？ Wèi, nǐ zài gàn shénme? Hey, what are you doing?	喂，你在干什么？ Wèi, nǐ zài gàn shénme? Hey, what are you doing?
+喂，你在干什么？ [...], nǐ zài gàn shénme? Hey, what are you doing? [...]	喂，你在干什么？ Wèi, nǐ zài gàn shénme? Hey, what are you doing?
+我回家了 Wǒ huí jiāle I'm [...] home	我回家了 Wǒ huí jiāle I'm returning home
+我[...]家了 Wǒ huí jiāle I'm returning home	我回家了 Wǒ huí jiāle I'm returning home
+我回家了 Wǒ [...] jiāle I'm returning home [...]	我回家了 Wǒ huí jiāle I'm returning home
+里面有很多人 [...] yǒu hěnduō rén there are many people inside [...]	里面有很多人 Lǐmiàn yǒu hěnduō rén there are many people inside
+[...]有很多人 Lǐmiàn yǒu hěnduō rén there are many people inside	里面有很多人 Lǐmiàn yǒu hěnduō rén there are many people inside
+里面有很多人 Lǐmiàn yǒu hěnduō rén there are many people [...]	里面有很多人 Lǐmiàn yǒu hěnduō rén there are many people inside
+商店在学校的后面。 Shāng[...] zài xuéxiào de hòumiàn. The store is behind the school. [...]	商店在学校的后面。 Shāngdiàn zài xuéxiào de hòumiàn. The store is behind the school.
+商店在学校的后面。 Shāngdiàn zài xuéxiào de hòumiàn. [...] is behind the school.	商店在学校的后面。 Shāngdiàn zài xuéxiào de hòumiàn. The store is behind the school.
+商[...]在学校的后面。 Shāngdiàn zài xuéxiào de hòumiàn. The store is behind the school.	商店在学校的后面。 Shāngdiàn zài xuéxiào de hòumiàn. The store is behind the school.
+吃一[...]，长一智。 Chī yí qiàn, zhǎng yí zhì. eat a failure, gain one wisdom (fig. learn from losing)	吃一堑，长一智。 Chī yí qiàn, zhǎng yí zhì. eat a failure, gain one wisdom (fig. learn from losing)
+吃一堑，长一智。 Chī yí [...], zhǎng yí zhì. eat a failure, gain one wisdom (fig. learn from losing) [...]	吃一堑，长一智。 Chī yí qiàn, zhǎng yí zhì. eat a failure, gain one wisdom (fig. learn from losing)
+吃一堑，长一智。 Chī yí qiàn, zhǎng yí zhì. eat a [...], gain one wisdom (fig. learn from losing)	吃一堑，长一智。 Chī yí qiàn, zhǎng yí zhì. eat a failure, gain one wisdom (fig. learn from losing)
+回家躺平 Huí jiā tǎng píng [...]	回家躺平 Huí jiā tǎng píng Going home to lie flat. (Refers to giving up on societal pressures and just relaxing.)
+回家[...]平 Huí jiā tǎng píng Going home to lie flat. (Refers to giving up on societal pressures and just relaxing.)	回家躺平 Huí jiā tǎng píng Going home to lie flat. (Refers to giving up on societal pressures and just relaxing.)
+回家躺平 Huí jiā [...] píng Going home to lie flat. (Refers to giving up on societal pressures and just relaxing.) [...]	回家躺平 Huí jiā tǎng píng Going home to lie flat. (Refers to giving up on societal pressures and just relaxing.)
+你今天忙吗？ Nǐ jīntiān [...] ma? Are you busy today? [...]	你今天忙吗？ Nǐ jīntiān máng ma? Are you busy today?
+你今天[...]吗？ Nǐ jīntiān máng ma? Are you busy today?	你今天忙吗？ Nǐ jīntiān máng ma? Are you busy today?
+你今天忙吗？ Nǐ jīntiān máng ma? Are you [...] today?	你今天忙吗？ Nǐ jīntiān máng ma? Are you busy today?
+老师在教室里等你。 Lǎo[...] zài jiàoshì lǐ děng nǐ. The teacher is waiting for you in the classroom. [...]	老师在教室里等你。 Lǎoshī zài jiàoshì lǐ děng nǐ. The teacher is waiting for you in the classroom.
+老[...]在教室里等你。 Lǎoshī zài jiàoshì lǐ děng nǐ. The teacher is waiting for you in the classroom.	老师在教室里等你。 Lǎoshī zài jiàoshì lǐ děng nǐ. The teacher is waiting for you in the classroom.
+老师在教室里等你。 Lǎoshī zài jiàoshì lǐ děng nǐ. [...] is waiting for you in the classroom.	老师在教室里等你。 Lǎoshī zài jiàoshì lǐ děng nǐ. The teacher is waiting for you in the classroom.
+名师出高徒。 Míngshī chū [...]tú. A great teacher [...]. [...]	名师出高徒。 Míngshī chū gāotú. A great teacher produces excellent students.
+名师出[...]徒。 Míngshī chū gāotú. A great teacher produces excellent students.	名师出高徒。 Míngshī chū gāotú. A great teacher produces excellent students.
+书在包里面 Shū zài [...] lǐmiàn The book is inside the bag [...]	书在包里面 Shū zài bāo lǐmiàn The book is inside the bag
+书在包里面 Shū zài bāo lǐmiàn The book is [...]	书在包里面 Shū zài bāo lǐmiàn The book is inside the bag
+书在[...]里面 Shū zài bāo lǐmiàn The book is inside the bag	书在包里面 Shū zài bāo lǐmiàn The book is inside the bag
+房间里面很暖和 Fángjiān lǐ[...] hěn nuǎnhuo It's warm inside the room [...]	房间里面很暖和 Fángjiān lǐmiàn hěn nuǎnhuo It's warm inside the room
+房间里面很暖和 Fángjiān lǐmiàn hěn nuǎnhuo It's warm [...] the room	房间里面很暖和 Fángjiān lǐmiàn hěn nuǎnhuo It's warm inside the room
+房间里[...]很暖和 Fángjiān lǐmiàn hěn nuǎnhuo It's warm inside the room	房间里面很暖和 Fángjiān lǐmiàn hěn nuǎnhuo It's warm inside the room
+灯下黑 Dēng xià hēi It's darkest [...]	灯下黑 Dēng xià hēi It's darkest under the lamp (People often overlook what's closest to them)
+灯[...]黑 Dēng xià hēi It's darkest under the lamp (People often overlook what's closest to them)	灯下黑 Dēng xià hēi It's darkest under the lamp (People often overlook what's closest to them)
+灯下黑 Dēng [...] hēi It's darkest under the lamp (People often overlook what's closest to them) [...]	灯下黑 Dēng xià hēi It's darkest under the lamp (People often overlook what's closest to them)
+里面的[...]是重点 Lǐmiàn de cái shì zhòngdiǎn What’s inside is what really matters / (Inside-talent is what's the focus) /inner ability...	里面的才是重点 Lǐmiàn de cái shì zhòngdiǎn What’s inside is what really matters / (Inside-talent is what's the focus) /inner ability...
+里面的才是重点 Lǐmiàn de cái shì zhòngdiǎn [...]	里面的才是重点 Lǐmiàn de cái shì zhòngdiǎn What’s inside is what really matters / (Inside-talent is what's the focus) /inner ability...
+里面的才是重点 Lǐmiàn de [...] shì zhòngdiǎn What’s inside is what really matters / (Inside-talent is what's the focus) /inner ability... [...]	里面的才是重点 Lǐmiàn de cái shì zhòngdiǎn What’s inside is what really matters / (Inside-talent is what's the focus) /inner ability...
+[...]在厨房做饭 Māma zài chúfáng zuò fàn Mom is cooking in the kitchen	妈妈在厨房做饭 Māma zài chúfáng zuò fàn Mom is cooking in the kitchen
+妈妈在厨房做饭 [...] zài chúfáng zuò fàn Mom is cooking in the kitchen [...]	妈妈在厨房做饭 Māma zài chúfáng zuò fàn Mom is cooking in the kitchen
+妈妈在厨房做饭 Māma zài chúfáng zuò fàn Mom is cooking [...]	妈妈在厨房做饭 Māma zài chúfáng zuò fàn Mom is cooking in the kitchen
+别打电话，发微信吧。 Bié [...] diànhuà, fā Wēixìn ba. Don’t call, send a WeChat message. [...]	别打电话，发微信吧。 Bié dǎ diànhuà, fā Wēixìn ba. Don’t call, send a WeChat message.
+别打电话，发微信吧。 Bié dǎ diànhuà, fā Wēixìn ba. [...] WeChat message.	别打电话，发微信吧。 Bié dǎ diànhuà, fā Wēixìn ba. Don’t call, send a WeChat message.
+别[...]电话，发微信吧。 Bié dǎ diànhuà, fā Wēixìn ba. Don’t call, send a WeChat message.	别打电话，发微信吧。 Bié dǎ diànhuà, fā Wēixìn ba. Don’t call, send a WeChat message.
+她天天打电话聊八卦。 Tā [...] dǎ diànhuà liá bāguà. She calls every day to gossip. [...]	她天天打电话聊八卦。 Tā tiāntiān dǎ diànhuà liá bāguà. She calls every day to gossip.
+她天天打电话聊八卦。 Tā tiāntiān dǎ diànhuà liá bāguà. She calls [...] to gossip.	她天天打电话聊八卦。 Tā tiāntiān dǎ diànhuà liá bāguà. She calls every day to gossip.
+她[...]打电话聊八卦。 Tā tiāntiān dǎ diànhuà liá bāguà. She calls every day to gossip.	她天天打电话聊八卦。 Tā tiāntiān dǎ diànhuà liá bāguà. She calls every day to gossip.
+我爱吃火锅！ Wǒ ài chī [...]guō! I love eating hotpot! [...]	我爱吃火锅！ Wǒ ài chī huǒguō! I love eating hotpot!
+我爱吃火锅！ Wǒ ài chī huǒguō! I love eating [...]	我爱吃火锅！ Wǒ ài chī huǒguō! I love eating hotpot!
+我爱吃[...]锅！ Wǒ ài chī huǒguō! I love eating hotpot!	我爱吃火锅！ Wǒ ài chī huǒguō! I love eating hotpot!
+他还[...]她吗？ Tā hái ài tā ma? Does he still love her?	他还爱她吗？ Tā hái ài tā ma? Does he still love her?
+他还爱她吗？ Tā hái [...] tā ma? Does he still [...] [...]	他还爱她吗？ Tā hái ài tā ma? Does he still love her?
+她爱读小说。 Tā ài dú [...]. She loves reading novels. [...]	她爱读小说。 Tā ài dú xiǎoshuō. She loves reading novels.
+她爱读[...]。 Tā ài dú xiǎoshuō. She loves reading novels.	她爱读小说。 Tā ài dú xiǎoshuō. She loves reading novels.
+她爱读小说。 Tā ài dú xiǎoshuō. She loves [...]	她爱读小说。 Tā ài dú xiǎoshuō. She loves reading novels.
+别乱叫，会有麻烦！ Bié luàn [...], huì yǒu máfan! Don’t shout randomly, or there’ll be trouble! [...]	别乱叫，会有麻烦！ Bié luàn jiào, huì yǒu máfan! Don’t shout randomly, or there’ll be trouble!
+别乱[...]，会有麻烦！ Bié luàn jiào, huì yǒu máfan! Don’t shout randomly, or there’ll be trouble!	别乱叫，会有麻烦！ Bié luàn jiào, huì yǒu máfan! Don’t shout randomly, or there’ll be trouble!
+别乱叫，会有麻烦！ Bié luàn jiào, huì yǒu máfan! Don’t [...] randomly, or there’ll be trouble!	别乱叫，会有麻烦！ Bié luàn jiào, huì yǒu máfan! Don’t shout randomly, or there’ll be trouble!
+你叫我干嘛？ Nǐ jiào wǒ gàn ma? Why are you [...]	你叫我干嘛？ Nǐ jiào wǒ gàn ma? Why are you calling me?
+你叫我干嘛？ Nǐ [...] wǒ gàn ma? Why are you calling me? [...]	你叫我干嘛？ Nǐ jiào wǒ gàn ma? Why are you calling me?
+你[...]我干嘛？ Nǐ jiào wǒ gàn ma? Why are you calling me?	你叫我干嘛？ Nǐ jiào wǒ gàn ma? Why are you calling me?
+[...]太多，小心醉！ Hē tài duō, xiǎoxīn zuì! Drink too much, and you’ll get drunk!	喝太多，小心醉！ Hē tài duō, xiǎoxīn zuì! Drink too much, and you’ll get drunk!
+喝太多，小心醉！ Hē tài duō, xiǎoxīn zuì! [...] and you’ll get drunk!	喝太多，小心醉！ Hē tài duō, xiǎoxīn zuì! Drink too much, and you’ll get drunk!
+喝太多，小心醉！ [...] tài duō, xiǎoxīn zuì! Drink too much, and you’ll get drunk! [...]	喝太多，小心醉！ Hē tài duō, xiǎoxīn zuì! Drink too much, and you’ll get drunk!
+我想[...]奶茶。 Wǒ xiǎng hē nǎichá. I want to drink milk tea.	我想喝奶茶。 Wǒ xiǎng hē nǎichá. I want to drink milk tea.
+我想喝奶茶。 Wǒ xiǎng [...] nǎichá. I want to drink milk tea. [...]	我想喝奶茶。 Wǒ xiǎng hē nǎichá. I want to drink milk tea.
+我想喝奶茶。 Wǒ xiǎng hē nǎichá. I want to [...] milk tea.	我想喝奶茶。 Wǒ xiǎng hē nǎichá. I want to drink milk tea.
+换[...]之 Huànyánzhī in other words	换言之 Huànyánzhī in other words
+换言之 Huàn[...]zhī in other words [...]	换言之 Huànyánzhī in other words
+换言之 Huànyánzhī [...]	换言之 Huànyánzhī in other words
+依我判断 [...] wǒ pànduàn in my opinion / according to my judgement [...]	依我判断 yī wǒ pànduàn in my opinion / according to my judgement
+[...]我判断 yī wǒ pànduàn in my opinion / according to my judgement	依我判断 yī wǒ pànduàn in my opinion / according to my judgement
+依我判断 yī wǒ pànduàn [...]	依我判断 yī wǒ pànduàn in my opinion / according to my judgement
+看起来不错 Kàn qǐlái bu [...] Looks good [...]	看起来不错 Kàn qǐlái bu cuò Looks good
+看起来不错 Kàn qǐlái bu cuò [...]	看起来不错 Kàn qǐlái bu cuò Looks good
+看起来不[...] Kàn qǐlái bu cuò Looks good	看起来不错 Kàn qǐlái bu cuò Looks good
+是怎么做出来的？ shì zěnme [...] chūlái de? How did you make it? (lit. do, come-out) [...]	是怎么做出来的？ shì zěnme zuò chūlái de? How did you make it? (lit. do, come-out)
+是怎么[...]出来的？ shì zěnme zuò chūlái de? How did you make it? (lit. do, come-out)	是怎么做出来的？ shì zěnme zuò chūlái de? How did you make it? (lit. do, come-out)
+是怎么做出来的？ shì zěnme zuò chūlái de? How [...] (lit. do, come-out)	是怎么做出来的？ shì zěnme zuò chūlái de? How did you make it? (lit. do, come-out)
+恕我谢绝。 [...] wǒ xièjué. forgive me, I decline / I'm sorry but I won't [...]	恕我谢绝。 Shù wǒ xièjué. forgive me, I decline / I'm sorry but I won't
+[...]我谢绝。 Shù wǒ xièjué. forgive me, I decline / I'm sorry but I won't	恕我谢绝。 Shù wǒ xièjué. forgive me, I decline / I'm sorry but I won't
+恕我谢绝。 Shù wǒ xièjué. [...]	恕我谢绝。 Shù wǒ xièjué. forgive me, I decline / I'm sorry but I won't
+收下吧 [...] xià ba Take it / accept it [...]	收下吧 Shōu xià ba Take it / accept it
+[...]下吧 Shōu xià ba Take it / accept it	收下吧 Shōu xià ba Take it / accept it
+收下吧 Shōu xià ba [...]	收下吧 Shōu xià ba Take it / accept it
+于我无用 [...] wǒ wúyòng It's of no use to me [...]	于我无用 yú wǒ wúyòng It's of no use to me
+[...]我无用 yú wǒ wúyòng It's of no use to me	于我无用 yú wǒ wúyòng It's of no use to me
+于我无用 yú wǒ wúyòng [...]	于我无用 yú wǒ wúyòng It's of no use to me
+有什么事？ Yǒu shénme shì? What's the [...] / what have you got?	有什么事？ Yǒu shénme shì? What's the matter / what have you got?
+有什么[...]？ Yǒu shénme shì? What's the matter / what have you got?	有什么事？ Yǒu shénme shì? What's the matter / what have you got?
+有什么事？ Yǒu shénme [...]? What's the matter / what have you got? [...]	有什么事？ Yǒu shénme shì? What's the matter / what have you got?
+至我后方待命 Zhì wǒ hòu[...] dàimìng  Wait behind me [...]	至我后方待命 Zhì wǒ hòufāng dàimìng  Wait behind me
+至我后方待命 Zhì wǒ hòufāng dàimìng  [...]	至我后方待命 Zhì wǒ hòufāng dàimìng  Wait behind me
+至我后[...]待命 Zhì wǒ hòufāng dàimìng  Wait behind me	至我后方待命 Zhì wǒ hòufāng dàimìng  Wait behind me
+随我左右即可。 [...] wǒ zuǒyòu jí kě. Follow me, that's all (just follow me) [...]	随我左右即可。 Suí wǒ zuǒyòu jí kě. Follow me, that's all (just follow me)
+[...]我左右即可。 Suí wǒ zuǒyòu jí kě. Follow me, that's all (just follow me)	随我左右即可。 Suí wǒ zuǒyòu jí kě. Follow me, that's all (just follow me)
+随我左右即可。 Suí wǒ zuǒyòu jí kě. Follow me, [...] (just follow me)	随我左右即可。 Suí wǒ zuǒyòu jí kě. Follow me, that's all (just follow me)
+[...]也出门吧 Zán yě chūmén ba we (will) also go out, right?	咱也出门吧 Zán yě chūmén ba we (will) also go out, right?
+咱也出门吧 Zán yě chūmén ba [...]	咱也出门吧 Zán yě chūmén ba we (will) also go out, right?
+咱也出门吧 [...] yě chūmén ba we (will) also go out, right? [...]	咱也出门吧 Zán yě chūmén ba we (will) also go out, right?
+不好[...]吗 Bù hǎoxiào ma It isn't funny? (lit. not good-smile)	不好笑吗 Bù hǎoxiào ma It isn't funny? (lit. not good-smile)
+不好笑吗 Bù hǎo[...] ma It isn't funny? (lit. not good-smile) [...]	不好笑吗 Bù hǎoxiào ma It isn't funny? (lit. not good-smile)
+不好笑吗 Bù hǎoxiào ma It isn't [...]	不好笑吗 Bù hǎoxiào ma It isn't funny? (lit. not good-smile)
+让我看看，都有什么好东西  Ràng wǒ [...], dōu yǒu shé me hǎo dōngxī Let me take a peek at all the good stuff we got. [...]	让我看看，都有什么好东西  Ràng wǒ kàn kàn, dōu yǒu shé me hǎo dōngxī Let me take a peek at all the good stuff we got.
+让我[...]，都有什么好东西  Ràng wǒ kàn kàn, dōu yǒu shé me hǎo dōngxī Let me take a peek at all the good stuff we got.	让我看看，都有什么好东西  Ràng wǒ kàn kàn, dōu yǒu shé me hǎo dōngxī Let me take a peek at all the good stuff we got.
+让我看看，都有什么好东西  Ràng wǒ kàn kàn, dōu yǒu shé me hǎo dōngxī [...] all the good stuff we got.	让我看看，都有什么好东西  Ràng wǒ kàn kàn, dōu yǒu shé me hǎo dōngxī Let me take a peek at all the good stuff we got.
+你很有[...]光嘛！ Nǐ hěn yǒu yǎnguāng ma! You got good eyes / lit. (good vision...)	你很有眼光嘛！ Nǐ hěn yǒu yǎnguāng ma! You got good eyes / lit. (good vision...)
+你很有眼光嘛！ Nǐ hěn yǒu [...]guāng ma! You got good eyes / lit. (good vision...) [...]	你很有眼光嘛！ Nǐ hěn yǒu yǎnguāng ma! You got good eyes / lit. (good vision...)
+你很有眼光嘛！ Nǐ hěn yǒu yǎnguāng ma! [...]	你很有眼光嘛！ Nǐ hěn yǒu yǎnguāng ma! You got good eyes / lit. (good vision...)
+该我出马了？ Gāi wǒ chūmǎle? Is it my [...]? / lit. should I take action?	该我出马了？ Gāi wǒ chūmǎle? Is it my turn? / lit. should I take action?
+该我出马了？ Gāi wǒ [...]le? Is it my turn? / lit. should I take action? [...]	该我出马了？ Gāi wǒ chūmǎle? Is it my turn? / lit. should I take action?
+该我出马了？ Gāi wǒ chūmǎle? Is it [...]	该我出马了？ Gāi wǒ chūmǎle? Is it my turn? / lit. should I take action?
+该我出[...]了？ Gāi wǒ chūmǎle? Is it my turn? / lit. should I take action?	该我出马了？ Gāi wǒ chūmǎle? Is it my turn? / lit. should I take action?
+悠着点！ Yōu[...] diǎn! Take it easy / (lit. liesurely point) [...]	悠着点！ Yōuzhe diǎn! Take it easy / (lit. liesurely point)
+悠着点！ Yōuzhe diǎn! [...]	悠着点！ Yōuzhe diǎn! Take it easy / (lit. liesurely point)
+悠[...]点！ Yōuzhe diǎn! Take it easy / (lit. liesurely point)	悠着点！ Yōuzhe diǎn! Take it easy / (lit. liesurely point)
+可别眨眼。 Kě bié zhǎyǎn. don't [...]	可别眨眼。 Kě bié zhǎyǎn. don't blink / don't blink an eye.
+可别眨眼。 Kě bié [...]yǎn. don't blink / don't blink an eye.  [...]	可别眨眼。 Kě bié zhǎyǎn. don't blink / don't blink an eye.
+可别[...]。 Kě bié zhǎyǎn. don't blink / don't blink an eye.	可别眨眼。 Kě bié zhǎyǎn. don't blink / don't blink an eye.
+一[...]付出，一[...]收获。 Yī fèn fùchū, yī fèn shōuhuò. what you give is what you gain. (lit. one serving...)	一份付出，一份收获。 Yī fèn fùchū, yī fèn shōuhuò. what you give is what you gain. (lit. one serving...)
+一份付出，一份收获。 Yī [...] fùchū, yī [...] shōuhuò. what you give is what you gain. (lit. one serving...) [...]	一份付出，一份收获。 Yī fèn fùchū, yī fèn shōuhuò. what you give is what you gain. (lit. one serving...)
+一份付出，一份收获。 Yī fèn fùchū, yī fèn shōuhuò. [...]	一份付出，一份收获。 Yī fèn fùchū, yī fèn shōuhuò. what you give is what you gain. (lit. one serving...)
+不错的珍宝。 Bùcuò de [...]bǎo nice treasure [...]	不错的珍宝。 Bùcuò de zhēnbǎo nice treasure
+不错的[...]宝。 Bùcuò de zhēnbǎo nice treasure	不错的珍宝。 Bùcuò de zhēnbǎo nice treasure
+不错的珍宝。 Bùcuò de zhēnbǎo [...]	不错的珍宝。 Bùcuò de zhēnbǎo nice treasure
+小伤而已 Xiǎo shāng éryǐ Just [...] / (a small injury, that's all)	小伤而已 Xiǎo shāng éryǐ Just a minor injury / (a small injury, that's all)
+小伤而已 Xiǎo [...] éryǐ Just a minor injury / (a small injury, that's all) [...]	小伤而已 Xiǎo shāng éryǐ Just a minor injury / (a small injury, that's all)
+只是巧合 Zhǐshì [...]hé just a coincidence [...]	只是巧合 Zhǐshì qiǎohé just a coincidence
+只是[...]合 Zhǐshì qiǎohé just a coincidence	只是巧合 Zhǐshì qiǎohé just a coincidence
+只是巧合 Zhǐshì qiǎohé just a [...]	只是巧合 Zhǐshì qiǎohé just a coincidence
+[...]给我吧 Jiāo gěi wǒ ba Leave it to me (lit. hand over)	交给我吧 Jiāo gěi wǒ ba Leave it to me (lit. hand over)
+交给我吧 [...] gěi wǒ ba Leave it to me (lit. hand over) [...]	交给我吧 Jiāo gěi wǒ ba Leave it to me (lit. hand over)
+交给我吧 Jiāo gěi wǒ ba [...]	交给我吧 Jiāo gěi wǒ ba Leave it to me (lit. hand over)
+你要拜托我做什么来着 Nǐ yào bàituō wǒ zuò shénme lái[...] What do you want me to do? [...]	你要拜托我做什么来着 Nǐ yào bàituō wǒ zuò shénme láizhe What do you want me to do?
+你要拜托我做什么来着 Nǐ yào bàituō wǒ zuò shénme láizhe [...]	你要拜托我做什么来着 Nǐ yào bàituō wǒ zuò shénme láizhe What do you want me to do?
+你要拜托我做什么来[...] Nǐ yào bàituō wǒ zuò shénme láizhe What do you want me to do?	你要拜托我做什么来着 Nǐ yào bàituō wǒ zuò shénme láizhe What do you want me to do?
+有点累了吗？ [...] lèile ma?  Are you a little tired? [...]	有点累了吗？ Yǒudiǎn lèile ma?  Are you a little tired?
+有点累了吗？ Yǒudiǎn lèile ma?  Are you [...] tired?	有点累了吗？ Yǒudiǎn lèile ma?  Are you a little tired?
+[...]累了吗？ Yǒudiǎn lèile ma?  Are you a little tired?	有点累了吗？ Yǒudiǎn lèile ma?  Are you a little tired?
+那就在这里休息吧 Nà jiù zài zhèlǐ xiūxí ba [...]	那就在这里休息吧 Nà jiù zài zhèlǐ xiūxí ba Then take a rest here
+那就在这里[...]吧 Nà jiù zài zhèlǐ xiūxí ba Then take a rest here	那就在这里休息吧 Nà jiù zài zhèlǐ xiūxí ba Then take a rest here
+那就在这里休息吧 Nà jiù zài zhèlǐ [...] ba Then take a rest here [...]	那就在这里休息吧 Nà jiù zài zhèlǐ xiūxí ba Then take a rest here
+我去为你沏茶 wǒ qù wèi nǐ qī chá [...] [...]	我去为你沏茶 wǒ qù wèi nǐ qī chá I'll go and make some tea for you / (lit. I go for you, steep tea)
+我去[...]你沏茶 wǒ qù [...] nǐ qī chá I'll go and make some tea for you / (lit. I go for you, steep tea)	我去为你沏茶 wǒ qù wèi nǐ qī chá I'll go and make some tea for you / (lit. I go for you, steep tea)
+想吃些甜食吗 Xiǎng chī xiē tiánshí ma Want some [...]	想吃些甜食吗 Xiǎng chī xiē tiánshí ma Want some sweets?
+想吃些[...]食吗 Xiǎng chī xiē tiánshí ma Want some sweets?	想吃些甜食吗 Xiǎng chī xiē tiánshí ma Want some sweets?
+想吃些甜食吗 Xiǎng chī xiē [...]shí ma Want some sweets? [...]	想吃些甜食吗 Xiǎng chī xiē tiánshí ma Want some sweets?
+我可以为你准备[...] Wǒ kěyǐ wéi nǐ zhǔnbèi yīxiē I can prepare some for you.	我可以为你准备一些 Wǒ kěyǐ wéi nǐ zhǔnbèi yīxiē I can prepare some for you.
+我可以为你准备一些 Wǒ kěyǐ wéi nǐ zhǔnbèi yīxiē I can [...]	我可以为你准备一些 Wǒ kěyǐ wéi nǐ zhǔnbèi yīxiē I can prepare some for you.
+我可以为你准备一些 Wǒ kěyǐ wéi nǐ zhǔnbèi [...] I can prepare some for you. [...]	我可以为你准备一些 Wǒ kěyǐ wéi nǐ zhǔnbèi yīxiē I can prepare some for you.
+佐餐的酒？也有。 Zuǒcān de jiǔ? [...] Wine to go with your meal? We got that too. [...]	佐餐的酒？也有。 Zuǒcān de jiǔ? Yěyǒu. Wine to go with your meal? We got that too.
+佐餐的酒？[...]。 Zuǒcān de jiǔ? Yěyǒu. Wine to go with your meal? We got that too.	佐餐的酒？也有。 Zuǒcān de jiǔ? Yěyǒu. Wine to go with your meal? We got that too.
+佐餐的酒？也有。 Zuǒcān de jiǔ? Yěyǒu. Wine to go with your meal? [...]	佐餐的酒？也有。 Zuǒcān de jiǔ? Yěyǒu. Wine to go with your meal? We got that too.
+我为什么在这？ Wǒ wèishéme zài zhè? Why am I [...]	我为什么在这？ Wǒ wèishéme zài zhè? Why am I here? / for what am I here?
+我为什么在这？ Wǒ wèishéme zài [...]? Why am I here? / for what am I here? [...]	我为什么在这？ Wǒ wèishéme zài zhè? Why am I here? / for what am I here?
+我为什么在[...]？ Wǒ wèishéme zài zhè? Why am I here? / for what am I here?	我为什么在这？ Wǒ wèishéme zài zhè? Why am I here? / for what am I here?
+[...]你在这 Yīnwèi nǐ zài zhè because you are here	因为你在这 Yīnwèi nǐ zài zhè because you are here
+因为你在这 [...] nǐ zài zhè because you are here [...]	因为你在这 Yīnwèi nǐ zài zhè because you are here
+因为你在这 Yīnwèi nǐ zài zhè [...] you are here	因为你在这 Yīnwèi nǐ zài zhè because you are here
+你想要什么 Nǐ [...] shénme What do you want [...]	你想要什么 Nǐ xiǎng yào shénme What do you want
+你想要什么 Nǐ xiǎng yào shénme What do you [...]	你想要什么 Nǐ xiǎng yào shénme What do you want
+你[...]什么 Nǐ xiǎng yào shénme What do you want	你想要什么 Nǐ xiǎng yào shénme What do you want
+我接受你的邀请 Wǒ jiēshòu nǐ de yāoqǐng [...]	我接受你的邀请 Wǒ jiēshòu nǐ de yāoqǐng I accept your invitation
+我接受你的邀请 Wǒ jiē[...] nǐ de yāoqǐng I accept your invitation [...]	我接受你的邀请 Wǒ jiēshòu nǐ de yāoqǐng I accept your invitation
+我接[...]你的邀请 Wǒ jiēshòu nǐ de yāoqǐng I accept your invitation	我接受你的邀请 Wǒ jiēshòu nǐ de yāoqǐng I accept your invitation
+又有人来妨碍我们 yòu yǒurén lái fáng'ài wǒmen [...]	"又有人来妨碍我们 yòu yǒurén lái fáng'ài wǒmen Someone is coming to interfere with us again? (lit. ""hinder"")"
+"又有人来妨碍我们 yòu yǒurén lái [...] wǒmen Someone is coming to interfere with us again? (lit. ""hinder"") [...]"	"又有人来妨碍我们 yòu yǒurén lái fáng'ài wǒmen Someone is coming to interfere with us again? (lit. ""hinder"")"
+"又有人来[...]碍我们 yòu yǒurén lái fáng'ài wǒmen Someone is coming to interfere with us again? (lit. ""hinder"")"	"又有人来妨碍我们 yòu yǒurén lái fáng'ài wǒmen Someone is coming to interfere with us again? (lit. ""hinder"")"
+我 已经 做好了万全的准备 wǒ yǐjīng zuò hǎole wànquán de zhǔnbèi I'm already [...]	我 已经 做好了万全的准备 wǒ yǐjīng zuò hǎole wànquán de zhǔnbèi I'm already fully prepared
+我 已经 做好了万全的准备 wǒ yǐjīng zuò hǎole [...] I'm already fully prepared [...]	我 已经 做好了万全的准备 wǒ yǐjīng zuò hǎole wànquán de zhǔnbèi I'm already fully prepared
+我 已经 做好了[...]的准备 wǒ yǐjīng zuò hǎole wànquán de zhǔnbèi I'm already fully prepared	我 已经 做好了万全的准备 wǒ yǐjīng zuò hǎole wànquán de zhǔnbèi I'm already fully prepared
+[...]不用担心 Dàjiā bùyòng dānxīn  No one has to worry. (everyone, no-use worrying)	大家不用担心 Dàjiā bùyòng dānxīn  No one has to worry. (everyone, no-use worrying)
+大家不用担心 Dàjiā bùyòng dānxīn [...]	大家不用担心 Dàjiā bùyòng dānxīn  No one has to worry. (everyone, no-use worrying)
+大家不用担心 [...] bùyòng dānxīn  No one has to worry. (everyone, no-use worrying) [...]	大家不用担心 Dàjiā bùyòng dānxīn  No one has to worry. (everyone, no-use worrying)
+[...]紧我 Gēn jǐn wǒ follow me closely	跟紧我 Gēn jǐn wǒ follow me closely
+跟紧我 [...] follow me closely [...]	跟紧我 Gēn jǐn wǒ follow me closely
+跟紧我 Gēn jǐn wǒ [...]	跟紧我 Gēn jǐn wǒ follow me closely
+不会有问题的。 Bù huì yǒu wèntí de. [...]	不会有问题的。 Bù huì yǒu wèntí de. There won't be any problems
+不会有问题的。 Bù huì yǒu wèn[...] de. There won't be any problems [...]	不会有问题的。 Bù huì yǒu wèntí de. There won't be any problems
+不会有问[...]的。 Bù huì yǒu wèntí de. There won't be any problems	不会有问题的。 Bù huì yǒu wèntí de. There won't be any problems
