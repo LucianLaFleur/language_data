@@ -8,8 +8,10 @@ re-request:
 怎么样	zěnmeyàng	how about	HSK 1
 confirmed added vocab targets
 
+
 多	duō	many	HSK 1
 大	dà	big	HSK 1
+在	zài	in, at	HSK 1
 哪	nǎ	which	HSK 1
 和	hé	and	HSK 1
 那	nà	that	HSK 1
@@ -34,6 +36,90 @@ confirmed added vocab targets
 小	xiǎo	small	HSK 1
 很	hěn	very	HSK 1
 汉语	hànyǔ	mandarin Chinese	HSK 1
+家	jiā	home	HSK 1
+今天	jīntiān	today	HSK 1
+老师	lǎoshī	teacher	HSK 1
+后面	hòumiàn	behind	HSK 1
+工作	gōngzuò	to work	HSK 1
+没有	méiyǒu	to not have	HSK 1
+来	lái	to come	HSK 1
+里面	lǐmiàn	inside	HSK 1
+妈妈	māma	mom	HSK 1
+猫	māo	cat	HSK 1
+五	wǔ	five	HSK 1
+米饭	mǐfàn	rice	HSK 1
+明天	míngtiān	tomorrow	HSK 1
+名字	míngzi	name	HSK 1
+年	nián	year	HSK 1
+小姐	xiǎojiě	Miss	HSK 1
+女儿	nǚ'ér	daughter	HSK 1
+朋友	péngyou	friend	HSK 1
+苹果	píngguǒ	apple	HSK 1
+钱	qián	money	HSK 1
+前面	qiánmiàn	front	HSK 1
+上	shàng	up	HSK 1
+商店	shāngdiàn	store	HSK 1
+时候	shíhou	time	HSK 1
+书	shū	book	HSK 1
+水	shuǐ	water	HSK 1
+水果	shuǐguǒ	fruit	HSK 1
+上午	shàngwǔ	morning	HSK 1
+天气	tiānqì	weather	HSK 1
+同学	tóngxué	shoolmate	HSK 1
+三	sān	three	HSK 1
+看	kàn	to look (at)	HSK 1
+星期	xīngqī	week	HSK 1
+学生	xuéshēng	student	HSK 1
+四	sì	four	HSK 1
+下午	xiàwǔ	afternoon	HSK 1
+衣服	yīfu	cloth	HSK 1
+医生	yīshēng	doctor	HSK 1
+九	jiǔ	nine	HSK 1
+买	mǎi	to buy	HSK 1
+去	qù	to go	HSK 1
+医院	yīyuàn	hospital	HSK 1
+是	shì	to be (am, is, are)	HSK 1
+听	tīng	to listen (to)	HSK 1
+下雨	xiàyǔ	to rain	HSK 1
+椅子	yǐzi	chair	HSK 1
+吃	chī	to eat	HSK 1
+月	yuè	month/moon	HSK 1
+回	huí	to return	HSK 1
+做	zuò	to do	HSK 1
+中午	zhōngwǔ	noon	HSK 1
+字	zì	character	HSK 1
+昨天	zuótiān	yesterday	HSK 1
+桌子	zhuōzi	desk	HSK 1
+七	qī	seven	HSK 1
+睡觉	shuìjiào	to sleep	HSK 1
+说	shuō	to say. to speak	HSK 1
+没关系	méi guānxì	it doesn’t matter	HSK 1
+打电话	dǎ diànhuà	to call on the phone	HSK 1
+爱	ài	to love	HSK 1
+叫	jiào	to call, to be called	HSK 1
+喝	hē	to drink	HSK 1
+开	kāi	to open	HSK 1
+学习	xuéxí	to study	HSK 1
+谢谢	xièxie	thank you; to thank	HSK 1
+学校	xuéxiào	school	HSK 1
+看见	kànjiàn	to see	HSK 1
+十	shí	ten	HSK 1
+认识	rènshi	to be familiar with	HSK 1
+
+新	xīn	new	HSK 2
+可以	kěyǐ	may, can	HSK 2
+要	yào	to want; to need; have to; want to; will	HSK 2
+日	rì	day; Japan	HSK 2
+晚上	wǎnshang	evening	HSK 2
+为什么	wèishénme	why	HSK 2
+问	wèn	to ask	HSK 2
+游泳	yóuyǒng	to swim	HSK 2
+休息	xiūxi	to rest, to sleep	HSK 2
+出	chū	to go out; to happen	HSK 2
+姐姐	jiějie	older sister	HSK 2
+咖啡	kāfēi	coffee	HSK 2
+雪	xuě	snow	HSK 2
+白	bái	white	HSK 2
 
 &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 
@@ -71,9 +157,11 @@ he got on the plane / he boarded the plane
 嗨，小可爱
 Hai, xiǎo-kě'ài
 hello cutie
+
 魔导师大人？
 Módǎoshī-dàrén? 
 huh? a grand mage?
+
 那是很久以前的事啦，
 Nà shì hěn jiǔ yǐqián de shì la, 
 that was a long time ago
@@ -880,3 +968,646 @@ you better be careful
 退后！
 Tuì hòu!
 Back off!
+
+
+他借给我一本杂志。
+Tā jiè gěi wǒ yī běn zázhì.
+He lent me a magazine.
+
+这杂志书多少钱？
+Zhè zázhì shū duōshǎo qián?
+How much is this magazine?
+
+我爸爸是医生。
+Wǒ bàba shì yīshēng.
+My dad is a doctor.
+
+这只狗很可爱。
+Zhè zhī gǒu hěn kě'ài.
+This dog is very cute.
+
+狐朋狗友
+Hú péng gǒu yǒu
+Friends who are bad influences (idiom)
+
+好事多磨 
+Hǎoshì duō mó
+Good things take time (Chengyu)
+
+冬天的夜晚很冷。
+Dōngtiān de yèwǎn hěn lěng.
+Winter nights are very cold.
+
+你做得很好。
+Nǐ zuò de hěn hǎo.
+You did a good job.
+
+漂亮的花园。
+Piàoliang de huāyuán.
+A pretty garden.
+
+我感觉很好。
+Wǒ gǎnjué hěn hǎo.
+I feel good.
+
+冷得像冰 
+Lěng de xiàng bīng
+Cold as ice 
+
+夏天的天气很热。
+Xiàtiān de tiānqì hěn rè.
+Summer weather is very hot.
+
+他喝了一杯热茶。
+Tā hē le yī bēi rè chá.
+He drank a cup of hot tea
+
+热火朝天 
+Rè huǒ cháo tiān
+Bustling with activity (Chengyu)
+
+今天来的人很少。
+Jīntiān lái de rén hěn shǎo.
+Few people came today.
+
+我们的时间不多
+Wǒmen de shíjiān bù duō
+We don't have much time,
+
+寥寥无几
+Liáoliáo wú jǐ
+Very few (idiom)
+
+我很喜欢这个地方。
+Wǒ hěn xǐhuān zhège dìfāng.
+I really like this place.
+
+非常好
+Fēicháng hǎo
+Extremely good 
+
+这个房间很小。
+Zhège fángjiān hěn xiǎo.
+This room is very small.
+
+小心翼翼
+Xiǎo xīn yì yì
+With great care (Chengyu)
+
+明天会下雨。
+Míngtiān huì xià yǔ.
+It will rain tomorrow.
+
+我在学汉语。
+Wǒ zài xué hànyǔ.
+I am learning Mandarin Chinese.
+
+你会说汉语吗？
+Nǐ huì shuō hànyǔ ma?
+Can you speak Mandarin Chinese?
+
+我能行。
+Wǒ néng xíng.
+I can do it.
+
+我会来。
+Wǒ huì lái.
+I will come.
+
+我想去中国。
+Wǒ xiǎng qù Zhōngguó.
+I would like to go to China.
+
+他能说五种语言。
+Tā néng shuō wǔ zhǒng yǔyán.
+He can speak five languages.
+
+你能帮我吗？
+Nǐ néng bāng wǒ ma?
+Can you help me?
+
+我能游泳。
+Wǒ néng yóuyǒng.
+I can swim.
+
+你想做什么？
+Nǐ xiǎng zuò shénme?
+What would you like to do?
+
+我准-准备好了，
+Wǒ zhǔn-zhǔnbèi hǎole,
+I'm r-ready!
+
+请让我试一下！
+Qǐng ràng wǒ shì yīxià!
+Please let me try!
+
+
+速战速决。
+Sù zhàn sùjué.
+A swift victory
+
+又有新工作了？
+Yòu yǒu xīn gōngzuòle?
+(got a) new job again?
+
+动身吧，旅行者
+Dòngshēn ba, lǚxíng zhě
+Let's head out, traveler
+
+要休息了吗？
+Yào xiūxíle ma?
+Want to rest / take a break?
+
+嘿嘿，晚安。
+Hēihēi, wǎn'ān.
+Heh, good night
+
+我喜欢酒！还有风!
+Wǒ xǐhuān jiǔ! Hái yǒu fēng!
+I like wine, and the wind!
+
+你也来一个苹果吗，刚摘的
+Nǐ yě lái yīgè píngguǒ ma, gāng zhāi de
+Would you like an apple? it's freshly picked
+
+苹果才是神的馈赠吧！
+Píngguǒ cái shì shén de kuìzèng ba!
+Apples are a gift from the Gods
+
+好满足
+Hǎo mǎnzú
+(I'm) so satisfied
+
+在这哟
+Zài zhè yō
+Over here!
+
+明天也会有吧? 后天也会有吧？
+Míngtiān yě huì yǒu ba? Hòutiān yě huì yǒu ba?
+Will there be (that) tomorrow? And the day after that? (sense. there will be something in the future)
+
+留意脚下
+Liúyì jiǎoxià
+Watch your step
+
+飞，比跑快吧？
+Fēi, bǐ pǎo kuài ba?
+Flying is faster than running, right?
+
+收获不少
+Shōuhuò bù shǎo
+(you) gained a lot / raked in a lot 
+
+等等，这可不好玩！
+Děng děng, zhè kěbù hǎowán!
+Wait, this isn't fun! (hol' up, this ain't fun)
+
+好过分呐
+Hǎo guòfèn nà
+That's too much / that's excessive/ going too far
+
+好粗鲁哦
+Hǎo cūlǔ ó
+so rude
+
+调音完成
+Diào yīn wánchéng
+I've finished tuning up (an instrument)
+
+让你久等了哦
+Ràng nǐ jiǔ děngle ó
+Sorry to have kept you waiting.
+
+是要做热身运动吗
+Shì yào zuò rèshēn yùndòng ma
+Want to do warm up exercises?
+
+下雨了啊。
+Xià yǔle a. 
+It's raining
+
+替我打伞吧
+Tì wǒ dǎ sǎn ba
+Please hold the umbrella for me.
+
+是很自然
+Shì hěn zìrán
+It's natural
+
+道不同不相为谋
+Dào bùtóng bù xiāng wéi móu
+Different paths, no cooperation (phrase)
+
+不错
+Bùcuò
+Good
+
+你总能出乎我的意料。
+Nǐ zǒng néng chū hū wǒ de yìliào.
+You always surprise me
+
+心意我领了
+Xīnyì wǒ lǐngle
+I understand your intention. / Your intention is understood by me 
+
+别白费功夫
+Bié báifèi gōngfū
+Don't waste your time
+
+向我臣服吧
+Xiàng wǒ chénfú ba
+Surrender to me 
+
+永别了
+Yǒngbiéle
+Farewell (eternity, apart...)
+
+好一双慧眼
+Hǎo yīshuāng huìyǎn
+You got a good pair of eyes
+
+财富，多多益善
+Cáifù, duōduōyìshàn
+Wealth, the more the better
+
+我记下了。
+Wǒ jì xiàle.
+I wrote that down / I made a note of that
+
+无礼
+Wú lǐ
+Rude
+
+既然如此 ...
+Jìrán rúcǐ ...
+In that case / that being the case
+
+就帮你一把。
+jiù bāng nǐ yī bǎ.
+let me help you. / Let me help out a bit (lit. "a bundle")
+
+如今的局面, 
+Rújīn de júmiàn, 
+In the current situation
+
+你没有几成胜算
+nǐ méiyǒu jǐ chéng shèngsuàn
+You don't have much chance of winning / you have little by way of your odds of winning
+
+真是无可奈何
+Zhēnshi wúkěnàihé
+There is nothing we can do
+
+这世上之人，皆为棋子
+Zhè shìshàng zhī rén, jiē wèi qízǐ
+Everyone in this world is a chess piece
+
+抓紧时间吧
+Zhuājǐn shíjiān ba
+Hurry up
+
+不要让我失望
+Bùyào ràng wǒ shīwàng
+You'd better not let me down / You don't want to let me down 
+
+今天也要加油呀。
+Jīntiān yě yào jiāyóu ya
+Let’s work hard today too / (let's give it our all today!)
+
+辛苦了！
+Thank you for your hard work!
+Xīnkǔle! 
+
+请好好休息吧。
+Qǐng hǎohǎo xiūxí ba.
+Please take a good break / please rest well.
+
+诺艾尔实在是太可爱了！
+Nuò ài ěr shízài shì tài kě'àile!
+Noelle is so cute!
+
+人又温柔，还很有耐心.
+Rén yòu wēnróu, hái hěn yǒu nàixīn.
+(that person) is gentle and patient
+
+完全不会有什么压力
+Wánquán bù huì yǒu shé me yālì
+there's no pressure at all
+
+对了，
+Duìle,
+by the way
+
+她做的茶点也很特别。
+Tā zuò de chádiǎn yě hěn tèbié.
+The tea / refreshments made by her are quite special
+
+又香，又甜，而且很健康
+Yòu xiāng, yòu tián, érqiě hěn jiànkāng
+It's fragrant, sweet and healthy
+
+我不太喜欢苦的东西,特别是…苦瓜。
+Wǒ bù tài xǐhuān kǔ de dōngxī, Tèbié shì…kǔguā.
+I don't really like bitter things. Especially... bitter melon
+
+我会保护大家
+Wǒ huì bǎohù dàjiā
+I will protect everyone
+
+准备好了吗
+Zhǔnbèi hǎole ma
+are you ready?
+
+大家加油喔！
+Dàjiā jiāyóu wo!
+Come on everyone! / Everyone give it your all!
+
+没问题
+Méi wèntí
+no problem
+
+光彩熠熠
+Guāngcǎi yìyì
+glittering
+
+真是幸运的一天
+Zhēnshi xìngyùn de yītiān
+What a lucky day!
+
+我没关系的！
+Wǒ méiguānxì de!
+It doesn't matter to me / it doesn't bother me 
+
+不想看你受伤
+Bùxiǎng kàn nǐ shòushāng
+I don't want to see you get hurt
+
+让我为你治疗，拜托了！
+Ràng wǒ wèi nǐ zhìliáo, bàituōle!
+Let me heal you, please
+
+听不到呢
+Tīng bù dào ne
+(I) can't hear it
+
+放心交给我就好
+Fàngxīn jiāo gěi wǒ jiù hǎo
+Just leave it to me
+
+我会加油的
+Wǒ huì jiāyóu de
+I'll give it my all / I'll come along (and work hard)
+
+一起努力吧
+Yīqǐ nǔlì ba
+Together, we'll work hard
+
+喂，你在干什么？
+Wèi, nǐ zài gàn shénme?
+Hey, what are you doing?
+
+我回家了
+Wǒ huí jiāle
+I'm going home
+
+里面有很多人
+Lǐmiàn yǒu hěnduō rén
+there are many people inside
+
+商店在学校的后面。
+Shāngdiàn zài xuéxiào de hòumiàn.
+The store is behind the school.
+
+
+后面的跟上！
+Hòumiàn de gēn shàng!
+Those in the back, keep up! (Often heard in group tours or military training.)
+
+回家躺平
+Huí jiā tǎng píng
+Going home to lie flat. (Refers to giving up on societal pressures and just relaxing.)
+
+你今天忙吗？
+Nǐ jīntiān máng ma?
+Are you busy today?
+
+老师在教室里等你。
+Lǎoshī zài jiàoshì lǐ děng nǐ.
+The teacher is waiting for you in the classroom.
+
+名师出高徒。
+Míngshī chū gāotú.
+A great teacher produces excellent students.
+
+书在包里面
+Shū zài bāo lǐmiàn
+The book is inside the bag
+
+房间里面很暖和
+Fángjiān lǐmiàn hěn nuǎnhuo
+It's warm inside the room
+
+灯下黑
+Dēng xià hēi
+It's darkest under the lamp (People often overlook what's closest to them)
+
+里面的才是重点
+Lǐmiàn de cái shì zhòngdiǎn
+What’s inside is what really matters 
+
+妈妈在厨房做饭
+Māma zài chúfáng zuò fàn
+Mom is cooking in the kitchen
+
+别乱叫，会有麻烦！
+Bié luàn jiào, huì yǒu máfan!
+Don’t shout randomly, or there’ll be trouble!
+
+你叫我干嘛？
+Nǐ jiào wǒ gàn ma?
+Why are you calling me?
+
+喝太多，小心醉！
+Hē tài duō, xiǎoxīn zuì!
+Drink too much, and you’ll get drunk!
+
+我想喝奶茶。
+Wǒ xiǎng hē nǎichá.
+I want to drink milk tea.
+
+别打电话，发微信吧。
+Bié dǎ diànhuà, fā Wēixìn ba.
+Don’t call, send a WeChat message.
+
+她天天打电话聊八卦。
+Tā tiāntiān dǎ diànhuà liá bāguà.
+She calls every day to gossip.
+
+我爱吃火锅！
+Wǒ ài chī huǒguō!
+I love eating hotpot!
+
+他还爱她吗？
+Tā hái ài tā ma?
+Does he still love her?
+
+她爱读小说。
+Tā ài dú xiǎoshuō.
+She loves reading novels.
+
+换言之
+Huànyánzhī
+in other words
+
+依我判断
+yī wǒ pànduàn
+in my opinion
+
+看起来不错，
+Kàn qǐlái bu cuò,
+Looks good
+
+是怎么做出来的？
+shì zěnme zuò chūlái de?
+How did you make it?
+
+恕我谢绝。
+Shù wǒ xièjué.
+I'm sorry but I won't 
+
+收下吧
+Shōu xià ba
+Take it
+
+于我无用
+yú wǒ wúyòng
+It's of no use to me
+
+有什么事？
+Yǒu shénme shì?
+What's the matter / what have you got?
+
+至我后方待命
+Zhì wǒ hòufāng dàimìng 
+Wait behind me
+
+随我左右即可。
+Suí wǒ zuǒyòu jí kě.
+Follow me, that's all (just follow me)
+
+咱也出门吧
+Zán yě chūmén ba
+let's go out too
+
+不好笑吗
+Bù hǎoxiào ma
+Isn't it funny?
+
+ 让我看看，都有什么好东西 
+Ràng wǒ kàn kàn, dōu yǒu shé me hǎo dōngxī
+Let me see what good stuff there is.
+
+该我出马了？
+Gāi wǒ chūmǎle?
+Is it my turn?
+
+悠着点！
+Yōuzhe diǎn!
+Take it easy
+
+你很有眼光嘛！
+Nǐ hěn yǒu yǎnguāng ma!
+You got good eyes / you got good taste
+
+可别眨眼。
+Kě bié zhǎyǎn.
+don't blink
+
+ 一份付出，一份收获。
+Yī fèn fùchū, yī fèn shōuhuò.
+what you give is what you gain
+
+不错的珍宝。
+Bùcuò de zhēnbǎo
+nice treasure
+
+小伤而已
+Xiǎo shāng éryǐ
+Just a minor injury
+
+只是巧合
+Zhǐshì qiǎohé
+just a coincidence
+
+交给我吧
+Jiāo gěi wǒ ba
+Leave it to me
+
+你要拜托我做什么来着
+Nǐ yào bàituō wǒ zuò shénme láizhe
+What do you want me to do?
+
+有点累了吗？
+Yǒudiǎn lèile ma? 
+Are you a little tired? 
+
+那就在这里休息吧
+Nà jiù zài zhèlǐ xiūxí ba
+Then take a rest here
+
+我去为你沏茶
+wǒ qù wèi nǐ qī chá
+I'll make you some tea
+
+死芒 - Necrass ------------------------
+
+想吃些甜食吗
+Xiǎng chī xiē tiánshí ma
+Want some sweets?
+
+我可以为你准备一些
+Wǒ kěyǐ wéi nǐ zhǔnbèi yīxiē
+I can prepare some for you.
+
+佐餐的酒？也有。
+Zuǒcān de jiǔ? Yěyǒu.
+Wine to go with your meal? We got that too.
+
+我为什么在这？
+Wǒ wèishéme zài zhè?
+Why am I here?
+
+因为你在这
+Yīnwèi nǐ zài zhè
+because you are here
+
+你想要什么
+Nǐ xiǎng yào shénme
+What do you want?
+
+我接受你的邀请
+Wǒ jiēshòu nǐ de yāoqǐng
+I accept your invitation
+
+钼铅 - Wulfenite --------------------------------------------------------------------------------------------------------------------------------------------------------
+
+又有人来妨碍我们
+yòu yǒurén lái fáng'ài wǒmen
+Someone is coming to interfere with us again?
+
+我已经做好了万全的准备
+wǒ yǐjīng zuò hǎole wànquán de zhǔnbèi
+I'm fully prepared
+
+大家不用担心
+Dàjiā bùyòng dānxīn
+No one has to worry. (everyone, no-use worrying)
+
+跟紧我
+Gēn jǐn wǒ
+follow me
+
+不会有问题的。
+Bù huì yǒu wèntí de.
+There won't be any problems
