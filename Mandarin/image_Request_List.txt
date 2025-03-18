@@ -1,0 +1,68 @@
+IMGS --------------------------------------
+
+sports field world?:
+
+general:
+他是个天才。  Tā shì ge tiāncái.  He is a genius. --> smart looking character?
+他是谁？  Tā shì shéi?  Who is he? --> (hiding or mysterious... mask)
+让我想一想。  Ràng wǒ xiǎng yī xiǎng.  Let me think about it.
+you can draw whatever you want* -->( art world)
+我只能等了。  wǒ zhǐ néng děng le.  I can only wait. --> sitting looking at watch
+请你不要哭。  qǐng nǐ bùyào kū .  Please don't cry. --> crying
+咱们去玩吧。  Zánmen qù wánr ba.  Let's go play. --> pointing to basketball court / pool table?
+让我进去。  ràng wǒ jìnqù .  Let me in. --> banging on door
+我大概懂了。  wǒ dàgài dǒng le.  I sort of understand. --> so-so hand gesture
+你要相信自己的能力。  Nǐ yào xiāngxìn zìjǐ de nénglì.  You need to believe in your own ability. -- >confident expression / fist
+您是中国人吗？  Nín shì Zhōngguórén ma?  Are you Chinese? (polite)
+他成功了。  Tā chénggōng le.  He succeeded. --> standing on top of something silly
+我正在听你说。  Wǒ zhèngzài tīng nǐ shuō.  I am listening to you. -( ear cupping)
+当然可以！  Dāngrán kěyǐ.  Of course it's okay. (thumbs up)
+我回来了。  Wǒ huílai le.  I'm back.  ; ( doorway and wave)
+这不可能！  zhè bù kěnéng!  It can't be! - (gasping/shock)
+欢迎回家。  huānyíng huíjiā.  Welcome back home. --> doorway, probably apartment entrance, pref. with apron
+我很难过。  wǒ hěn nánguò .  I'm very sad.
+别担心。  Bié dānxīn.  Don't worry!
+我听了，但什么也没听到。  wǒ tīng le, dàn shénme yě méi tīng dào .  I listened, but I heard nothing. --> listening to a door
+我不太明白他说什么。  wǒ bù tài míngbai tā shuō shénme. I don't understand too well what he's saying. --> shrug, facial expression confused
+我终于明白了。  Wǒ zhōngyú míngbai le.  At last, I understand. --> pointer finger up, raised eyebrows
+	我们有两个女儿。  wǒmen yǒu liǎng ge nǚér .  We have two daughters.
+	他们的女儿很可爱。  Tāmen de nǚ'ér hěn kě'ài.  Their daughter is cute.
+一切都没有问题。  Yīqiè dōu méiyǒu wèntí.  Everything is ok/no problem. --> ok symbol hand gesture
+她有很多爱好。  Tā yǒu hěn duō àihào.  She has a lot of hobbies. --> ??? playing pool, maybe?
+帮我一下。  bāng wǒ yīxià .  Help me a bit --> struggling to open a door/turn a valve?
+让我知道是否有什么我能做的。  ràng wǒ zhīdào shìfǒu yǒu shénme wǒ néng zuò de .  Let me know if there is anything I can do. --> maid/butler, bowing
+我没朋友帮我。  wǒ méi péngyou bāng wǒ .  I have no friends to help me. --> sad sitting
+请继续说。  Qǐng jìxù shuō.  Please keep speaking. --> arm across, hand out, upturned
+他们在谈什么？  Tāmen zài tán shénme?  What are they discussing? --> group at table, 3rd party pointing as they're gesturing like talking
+比赛开始了。  Bǐsài kāishǐ le.  The game has begun.
+警察来了。  Jǐngchá lái le.  The police have come.
+她的眼睛漂亮。  Tā de yǎnjing piàoliang.  Her eyes are pretty.
+你的衣服很漂亮。  Nǐde yīfu hěn piàoliang.  Your clothes are very pretty.
+你怕高吗？  Nǐ pà gāo ma?  Are you afraid of heights?
+花很香。  Huā hěn xiāng.  The flowers are fragrant.
+咱们去玩吧。  Zánmen qù wánr ba.  Let's go play.
+太热了。  Tài rè le.  It's too hot.
+
+shops/mall? : 
+我买不起那个。  wǒ mǎibùqǐ nà ge .  I can't afford to buy that. --> mall/store
+
+in house:
+这是我家。  Zhè shì wǒ jiā.  This is my home.
+
+in school:
+我在学校。  Wǒ zài xuéxiào.  I am at school.
+听老师说。  Tīng lǎoshī shuō.  Listen to the teacher. -- (needs 2 people, perspective, pointing to teacher at front of class)
+我要去学校。  Wǒ yào qù xuéxiào.  I'm going to school. (walking motion animation
+她是我们的老师。  Tā shì wǒmen de lǎoshī.  She is our teacher. -- (suit at blackboard?)
+她要去看老师。  Tā yào qù kàn lǎoshī.  she is going to see the teacher.
+
+Has book prop?:
+我在读书。  Wǒ zài dúshū.  I'm reading.
+我给了你一本书。  wǒ gěi le nǐ yī běn shū .  I gave you a book.
+这是我的书。  zhè shì wǒ de shū .  This is my book.
+那本书是我的。  Nà běn shū shì wǒ de.  That book is mine.
+
+food place?:
+你能告诉我这是什么吗？  nǐ néng gàosu wǒ zhè shì shénme ma ?  Can you tell me what this is?
+你要喝什么？  Nǐ yào hē shénme?  What do you want to drink? (tavern area?)
+你想要什么喝的吗？  nǐ xiǎng yào shénme hē de ma ?  Would you like something to drink? --> (offering)
