@@ -1,0 +1,29 @@
+
+Simple structure for containing image sizes in Anki.
+assumes 1 div of a classname "imgContainer".
+Assumes one image field of name "image" as shown in the {{brackets}} below
+
+----
+
+<div class="imgContainer">
+    {{image}}
+</div>
+
+
+------------------
+
+
+.imgContainer {
+    max-height: 300px;  /* Restrict max height */
+    width: auto;        /* Allow width to adjust */
+    display: flex;      /* Keeps content aligned */
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;   /* Prevents image from exceeding the div */
+}
+
+.imgContainer img {
+    max-height: 300px !important;  /* FORCE height limit */
+    width: auto !important;        /* Maintain aspect ratio */
+    display: block;
+}
