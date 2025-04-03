@@ -1,0 +1,128 @@
+body {
+  background-color: #001f3f;
+  color: #00aaff;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.enemy-panel {
+  width: 50%;
+  float: left;
+  text-align: center;
+  position: relative;
+}
+
+.enemy-name {
+  color: gold;
+  font-size: 20px;
+}
+
+.health-bar-container {
+  width: 80%;
+  height: 50px;
+  background-color: black;
+  border-radius: 5px;
+  border: 5px solid black;
+  margin: 10px auto;
+  position: relative;
+}
+
+.health-bar {
+  height: 100%;
+  background-color: rgb(11, 113, 32);
+  border-radius: 5px;
+}
+
+.hit-message {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  border-radius: 5px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.quiz-panel {
+  width: 50%;
+  float: right;
+  text-align: center;
+}
+
+.question-header {
+  height: 100px;
+  background-color: #001f3f;
+  color: gold;
+  border: 2px solid gold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.answer-option {
+  width: 80%;
+  height: 55px;
+  margin: 5px auto;
+  background-color: #003366;
+  border-radius: 5px;
+  border: 2px solid #0055aa;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.answer-option:hover {
+  background-color: #002244;
+  color: #88ccff;
+}
+
+.correct {
+  border-color: green !important;
+}
+
+.incorrect {
+  border-color: red !important;
+}
+
+.faded {
+  opacity: 0.5;
+}
+
+.waiting-phase {
+  background-color: #444;
+  color: #bbb;
+}
+
+.waiting-phase .question-header,
+.waiting-phase .answer-option {
+  background-color: #333;
+  color: #ccc;
+}
+
+/* .waiting-phase .answer-option:hover {
+  background-color: #a1a1a1;
+  color: #ddd;
+} */
+
+.waiting-phase:hover {
+  background-color: #a1a1a1;
+  color: #d000ff;
+}
+
+.click-to-continue {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 10px;
+  margin-top: 10px;
+}
