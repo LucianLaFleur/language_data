@@ -12,5 +12,8 @@ output (tabs written out for visibility)
 /tへりくつや/t屁理屈屋/tquibbler
 
 ! This allows anki to import as a TSV.
+Expected fields in anki:
+Reading, Japanese, English, (any number more can exist, but won't be filled in, e.g. a blank field for "audio")
+
 ! Initial testing shows pattern works.
 ! selection of "appropriate" phrases and orgnaization of material still requires human judgment...
